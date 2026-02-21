@@ -1,0 +1,10107 @@
+{
+  "HLR": {
+    "ideas": [
+      {
+        "name": "hlr_imperial_throne"
+      },
+      {
+        "name": "hlr_kaiserliche_armee"
+      },
+      {
+        "name": "hlr_imperial_diplomacy"
+      },
+      {
+        "name": "hlr_centralised_empire"
+      },
+      {
+        "name": "hlr_roman_heritage"
+      },
+      {
+        "name": "hlr_adopting_the_goosestep"
+      },
+      {
+        "name": "hlr_onwards_and_upwards"
+      }
+    ]
+  },
+  "GER": {
+    "ideas": [
+      {
+        "name": "ger_german_confederation"
+      },
+      {
+        "name": "ger_german_universities"
+      },
+      {
+        "name": "ger_reichsheer"
+      },
+      {
+        "name": "ger_new_hanseatics"
+      },
+      {
+        "name": "ger_junkers"
+      },
+      {
+        "name": "ger_reichstag"
+      },
+      {
+        "name": "ger_eisen_und_kohle"
+      }
+    ]
+  },
+  "ENG": {
+    "ideas": [
+      {
+        "name": "royal_navy"
+      },
+      {
+        "name": "eltham_ordinance"
+      },
+      {
+        "name": "secretaries_of_state"
+      },
+      {
+        "name": "navigation_acts"
+      },
+      {
+        "name": "eng_red_coats"
+      },
+      {
+        "name": "sick_and_hurt_board"
+      },
+      {
+        "name": "british_bill_of_rights"
+      }
+    ]
+  },
+  "GBR": {
+    "ideas": [
+      {
+        "name": "gbr_acts_of_union"
+      },
+      {
+        "name": "city_upon_a_hill"
+      },
+      {
+        "name": "the_british_parliament"
+      },
+      {
+        "name": "#british_merchant_navy"
+      },
+      {
+        "name": "gbr_the_royal_society"
+      },
+      {
+        "name": "reform_of_comission_buying"
+      },
+      {
+        "name": "british_industrialization"
+      },
+      {
+        "name": "britanna_rules_the_waves"
+      }
+    ]
+  },
+  "AVE": {
+    "ideas": [
+      {
+        "name": "angevin_decentralized_rule"
+      },
+      {
+        "name": "english_common_law"
+      },
+      {
+        "name": "lessons_of_the_anglo_french_wars"
+      },
+      {
+        "name": "the_many_thrones"
+      },
+      {
+        "name": "reformed_angevin_infantry"
+      },
+      {
+        "name": "seneschal_of_france"
+      },
+      {
+        "name": "rule_of_the_plantagenet"
+      }
+    ]
+  },
+  "EIC": {
+    "ideas": [
+      {
+        "name": "eic_governors_general"
+      },
+      {
+        "name": "eic_indian_trade"
+      },
+      {
+        "name": "eic_chartered_merchants"
+      },
+      {
+        "name": "eic_presidency_armies"
+      },
+      {
+        "name": "eic_intercontinental_trade"
+      },
+      {
+        "name": "eic_colonial_monopoly"
+      },
+      {
+        "name": "eic_colonial_exploitation"
+      }
+    ]
+  },
+  "SWE": {
+    "ideas": [
+      {
+        "name": "kung_och_riksdag"
+      },
+      {
+        "name": "swedish_steel"
+      },
+      {
+        "name": "hakkapelitta"
+      },
+      {
+        "name": "indelningsverket"
+      },
+      {
+        "name": "swedish_absolutism"
+      },
+      {
+        "name": "produktplakatet"
+      },
+      {
+        "name": "union_and_security_act"
+      }
+    ]
+  },
+  "DAN": {
+    "ideas": [
+      {
+        "name": "dan_kalmar_union"
+      },
+      {
+        "name": "dan_sound_dues"
+      },
+      {
+        "name": "dan_the_kings_sea"
+      },
+      {
+        "name": "dan_royal_mercenaries"
+      },
+      {
+        "name": "dan_naval_heroes"
+      },
+      {
+        "name": "dan_colonial_ventures"
+      },
+      {
+        "name": "dan_danish_absolutism_idea"
+      }
+    ]
+  },
+  "NOR": {
+    "ideas": [
+      {
+        "name": "call_of_our_forefathers"
+      },
+      {
+        "name": "pioneer_spirit"
+      },
+      {
+        "name": "natural_seamanship"
+      },
+      {
+        "name": "nor_shipbuilding"
+      },
+      {
+        "name": "seize_the_opportunity"
+      },
+      {
+        "name": "nor_fishing"
+      },
+      {
+        "name": "write_new_sagas"
+      }
+    ]
+  },
+  "FIN": {
+    "ideas": [
+      {
+        "name": "expand_viborg"
+      },
+      {
+        "name": "hakkapelitta_fin"
+      },
+      {
+        "name": "the_fourth_estate"
+      },
+      {
+        "name": "settle_middle_finland"
+      },
+      {
+        "name": "found_turun_akatemia"
+      },
+      {
+        "name": "the_white_death"
+      },
+      {
+        "name": "anjala_conspiracy"
+      }
+    ]
+  },
+  "KRL": {
+    "ideas": [
+      {
+        "name": "krl_ladoge_fishing_industry"
+      },
+      {
+        "name": "krl_between_two_seas"
+      },
+      {
+        "name": "krl_the_sestra_river"
+      },
+      {
+        "name": "krl_the_two_karelian_realms"
+      },
+      {
+        "name": "krl_baltic_shipyards"
+      },
+      {
+        "name": "krl_valaam_monastery"
+      },
+      {
+        "name": "krl_from_the_varangians_to_the_greeks"
+      }
+    ]
+  },
+  "GOT": {
+    "ideas": [
+      {
+        "name": "rebuild_visby"
+      },
+      {
+        "name": "invite_mercenaries_to_visby"
+      },
+      {
+        "name": "expand_visby_dockyard"
+      },
+      {
+        "name": "rebuild_the_trade"
+      },
+      {
+        "name": "gutnish_merchant_adventurers"
+      },
+      {
+        "name": "gutnish_merchant_navy"
+      },
+      {
+        "name": "found_visby_bank"
+      }
+    ]
+  },
+  "SCA": {
+    "ideas": [
+      {
+        "name": "sca_united_craftsman"
+      },
+      {
+        "name": "sca_unified_scandinavian"
+      },
+      {
+        "name": "sca_danish_baltic_fleet"
+      },
+      {
+        "name": "sca_norwegian_marines"
+      },
+      {
+        "name": "sca_finnish_hakkapeliita"
+      },
+      {
+        "name": "sca_swedish_carolean"
+      },
+      {
+        "name": "sca_empire_of_the_north"
+      }
+    ]
+  },
+  "MOS": {
+    "ideas": [
+      {
+        "name": "gatherers_of_tribute"
+      },
+      {
+        "name": "legacy_of_dmitriy_donskoi"
+      },
+      {
+        "name": "seat_of_metropolitan_bishop"
+      },
+      {
+        "name": "pomestnoe_voisko"
+      },
+      {
+        "name": "strength_of_the_boyars"
+      },
+      {
+        "name": "zasechnaya_cherta"
+      },
+      {
+        "name": "descendants_of_byzantine_emperors"
+      }
+    ]
+  },
+  "RUS": {
+    "ideas": [
+      {
+        "name": "land_of_the_rus"
+      },
+      {
+        "name": "siberian_frontier"
+      },
+      {
+        "name": "russian_artillery_yard"
+      },
+      {
+        "name": "life_long_conscription"
+      },
+      {
+        "name": "abolish_the_mestnichestvo"
+      },
+      {
+        "name": "table_of_ranks"
+      },
+      {
+        "name": "curriculum_of_the_cadet_corps"
+      }
+    ]
+  },
+  "SPA": {
+    "ideas": [
+      {
+        "name": "devout_catholisism"
+      },
+      {
+        "name": "inter_caetera"
+      },
+      {
+        "name": "salamanca_scholars"
+      },
+      {
+        "name": "spanish_armada"
+      },
+      {
+        "name": "spa_casa_de_contracion"
+      },
+      {
+        "name": "siglo_de_oro"
+      },
+      {
+        "name": "spa_cortes"
+      }
+    ]
+  },
+  "CAS": {
+    "ideas": [
+      {
+        "name": "the_reconquista"
+      },
+      {
+        "name": "spanish_inquisition"
+      },
+      {
+        "name": "cabildos"
+      },
+      {
+        "name": "inter_caetera"
+      },
+      {
+        "name": "infantas"
+      },
+      {
+        "name": "salamanca_scholars"
+      },
+      {
+        "name": "nueva_planta"
+      }
+    ]
+  },
+  "NED": {
+    "ideas": [
+      {
+        "name": "amsterdam_wisselbank"
+      },
+      {
+        "name": "dutch_trading_spirit"
+      },
+      {
+        "name": "polders"
+      },
+      {
+        "name": "instructie_voor_de_admiraliteiten"
+      },
+      {
+        "name": "embrace_humanism"
+      },
+      {
+        "name": "army_sappers"
+      },
+      {
+        "name": "platoon_fire"
+      }
+    ]
+  },
+  "FRA": {
+    "ideas": [
+      {
+        "name": "fra_taille"
+      },
+      {
+        "name": "lessons_hundred_years_war"
+      },
+      {
+        "name": "estates_general"
+      },
+      {
+        "name": "native_trading_principles"
+      },
+      {
+        "name": "divine_right_to_rule"
+      },
+      {
+        "name": "europes_first_standing_army"
+      },
+      {
+        "name": "vauban_fortifications"
+      },
+      {
+        "name": "revolutionary_tribunal"
+      },
+      {
+        "name": "elan"
+      },
+      {
+        "name": "mandats_territoriaux"
+      },
+      {
+        "name": "liberty_egalite_fraternity"
+      },
+      {
+        "name": "jourdan_law"
+      },
+      {
+        "name": "napoleonic_tactics"
+      },
+      {
+        "name": "european_ambitions"
+      }
+    ]
+  },
+  "TUR": {
+    "ideas": [
+      {
+        "name": "millets"
+      },
+      {
+        "name": "ghazi"
+      },
+      {
+        "name": "timariot_system"
+      },
+      {
+        "name": "lawcode_of_suleiman_01"
+      },
+      {
+        "name": "autonmous_pashas"
+      },
+      {
+        "name": "tulip_period"
+      },
+      {
+        "name": "imperial_school_of_naval_engineering"
+      }
+    ]
+  },
+  "VEN": {
+    "ideas": [
+      {
+        "name": "venetian_arsenal"
+      },
+      {
+        "name": "printing_industry"
+      },
+      {
+        "name": "stato_da_mar"
+      },
+      {
+        "name": "state_inquisition"
+      },
+      {
+        "name": "conscription"
+      },
+      {
+        "name": "defend_the_law"
+      },
+      {
+        "name": "provveditori_ai_beni_inculti"
+      },
+      {
+        "name": "venetian_arsenal"
+      },
+      {
+        "name": "printing_industry"
+      },
+      {
+        "name": "stato_da_mar"
+      },
+      {
+        "name": "state_inquisition_2"
+      },
+      {
+        "name": "conscription"
+      },
+      {
+        "name": "defend_the_law"
+      },
+      {
+        "name": "provveditori_ai_beni_inculti"
+      }
+    ]
+  },
+  "LNS": {
+    "ideas": [
+      {
+        "name": "lns_renaissance_art"
+      },
+      {
+        "name": "stato_da_mar"
+      },
+      {
+        "name": "lns_maritime_dominance"
+      },
+      {
+        "name": "lns_a_gunpowder_republic"
+      },
+      {
+        "name": "backing_of_the_ducat"
+      },
+      {
+        "name": "reform_the_uscocchi"
+      },
+      {
+        "name": "maggior_consiglio"
+      }
+    ]
+  },
+  "PRU": {
+    "ideas": [
+      {
+        "name": "teutonic_legacy"
+      },
+      {
+        "name": "soldier_king"
+      },
+      {
+        "name": "army_professionalism"
+      },
+      {
+        "name": "noble_cadets"
+      },
+      {
+        "name": "goose_step"
+      },
+      {
+        "name": "regimental_cantons"
+      },
+      {
+        "name": "religious_toleration"
+      }
+    ]
+  },
+  "BRA": {
+    "ideas": [
+      {
+        "name": "northern_march"
+      },
+      {
+        "name": "kammergericht"
+      },
+      {
+        "name": "divided_estates"
+      },
+      {
+        "name": "bra_pomeranian_wars"
+      },
+      {
+        "name": "seat_of_the_old_emperors"
+      },
+      {
+        "name": "iron_tooth"
+      },
+      {
+        "name": "margrave_council"
+      }
+    ]
+  },
+  "POR": {
+    "ideas": [
+      {
+        "name": "legacy_of_the_navigator"
+      },
+      {
+        "name": "afonsine_ordinances"
+      },
+      {
+        "name": "case_de_india"
+      },
+      {
+        "name": "land_before_faith"
+      },
+      {
+        "name": "the_bandeirantes"
+      },
+      {
+        "name": "royal_absolutism"
+      },
+      {
+        "name": "por_royal_military_academy"
+      }
+    ]
+  },
+  "POL": {
+    "ideas": [
+      {
+        "name": "folwark_system"
+      },
+      {
+        "name": "nihil_novi"
+      },
+      {
+        "name": "peichota_wybraniecka"
+      },
+      {
+        "name": "winged_hussars"
+      },
+      {
+        "name": "wojsko_komputoe"
+      },
+      {
+        "name": "foreign_section"
+      },
+      {
+        "name": "focus_on_field_defences"
+      }
+    ]
+  },
+  "LIT": {
+    "ideas": [
+      {
+        "name": "warlord_dukes"
+      },
+      {
+        "name": "plc_tempered_by_neighbors"
+      },
+      {
+        "name": "lit_new_magdeburg_laws"
+      },
+      {
+        "name": "reciprocal_guarantee_of_two_nations"
+      },
+      {
+        "name": "lithuanian_hussars"
+      },
+      {
+        "name": "statutes_of_lithuania"
+      },
+      {
+        "name": "lithuanian_renaissance"
+      }
+    ]
+  },
+  "IT2": {
+    "ideas": [
+      {
+        "name": "warlord_dukes"
+      },
+      {
+        "name": "auksine_laisve"
+      },
+      {
+        "name": "lit_new_magdeburg_laws"
+      },
+      {
+        "name": "magnate_estates"
+      },
+      {
+        "name": "lithuanian_hussars"
+      },
+      {
+        "name": "statutes_of_lithuania"
+      },
+      {
+        "name": "lithuanian_renaissance"
+      }
+    ]
+  },
+  "PLC": {
+    "ideas": [
+      {
+        "name": "plc_prosperous_folwarks"
+      },
+      {
+        "name": "pol_jagiellonian_university"
+      },
+      {
+        "name": "plc_the_obrona_potoczna"
+      },
+      {
+        "name": "winged_hussars"
+      },
+      {
+        "name": "plc_refine_our_golden_liberty"
+      },
+      {
+        "name": "pol_royal_guards"
+      },
+      {
+        "name": "plc_tempered_by_neighbors"
+      }
+    ]
+  },
+  "HAB": {
+    "ideas": [
+      {
+        "name": "imperial_ambitions"
+      },
+      {
+        "name": "military_border"
+      },
+      {
+        "name": "fugger_banks"
+      },
+      {
+        "name": "habsburg_dominance"
+      },
+      {
+        "name": "edict_of_restitution"
+      },
+      {
+        "name": "austrian_court"
+      },
+      {
+        "name": "hofkriegsrat"
+      }
+    ]
+  },
+  "CHI": {
+    "ideas": [
+      {
+        "name": "nine_garrisons_of_the_great_wall"
+      },
+      {
+        "name": "revived_three_grand_divisions"
+      },
+      {
+        "name": "inward_perfection"
+      },
+      {
+        "name": "yellow_river_dykes"
+      },
+      {
+        "name": "salt_monopoly"
+      },
+      {
+        "name": "single_whip_law"
+      },
+      {
+        "name": "the_red_cannon"
+      }
+    ]
+  },
+  "PER": {
+    "ideas": [
+      {
+        "name": "the_qizilbash"
+      },
+      {
+        "name": "persian_rug_production"
+      },
+      {
+        "name": "the_ghulams"
+      },
+      {
+        "name": "improved_silk_road"
+      },
+      {
+        "name": "encouraged_art"
+      },
+      {
+        "name": "promotion_of_irrigation"
+      },
+      {
+        "name": "increased_crown_lands"
+      }
+    ]
+  },
+  "AHR": {
+    "ideas": [
+      {
+        "name": "ers_guardians_of_the_sacred_fire"
+      },
+      {
+        "name": "ers_restore_the_academy_of_gondishapur"
+      },
+      {
+        "name": "ers_wuzurg_framadar"
+      },
+      {
+        "name": "ers_reform_the_savaran_cavalry"
+      },
+      {
+        "name": "improved_silk_road"
+      },
+      {
+        "name": "ers_rebuild_the_caspian_gates"
+      },
+      {
+        "name": "ers_sasanian_siege_warfare"
+      }
+    ]
+  },
+  "MUG": {
+    "ideas": [
+      {
+        "name": "mansabdari_system"
+      },
+      {
+        "name": "control_of_the_ulema"
+      },
+      {
+        "name": "mughal_ibadat_khana"
+      },
+      {
+        "name": "an_indian_padshah"
+      },
+      {
+        "name": "zabt_system"
+      },
+      {
+        "name": "mughal_architecture"
+      },
+      {
+        "name": "fatawa_e_alamgiri"
+      }
+    ]
+  },
+  "ANA": {
+    "ideas": [
+      {
+        "name": "#\tstart"
+      },
+      {
+        "name": "#\tbonus"
+      },
+      {
+        "name": "#\ttrigger"
+      },
+      {
+        "name": "#\t\tNOT"
+      },
+      {
+        "name": "#\tmansabdari_system"
+      },
+      {
+        "name": "#\tpersian_rug_production"
+      },
+      {
+        "name": "#\tmughal_ibadat_khana"
+      },
+      {
+        "name": "#\tan_indian_padshah"
+      },
+      {
+        "name": "#\tpromotion_of_irrigation"
+      },
+      {
+        "name": "#\tencouraged_art"
+      },
+      {
+        "name": "#\tfatawa_e_alamgiri"
+      }
+    ]
+  },
+  "TIM": {
+    "ideas": [
+      {
+        "name": "timurid_architecture"
+      },
+      {
+        "name": "the_mantle_of_the_great_khan"
+      },
+      {
+        "name": "unleash_the_tiger"
+      },
+      {
+        "name": "chagatai_literature"
+      },
+      {
+        "name": "timurid_renaissance"
+      },
+      {
+        "name": "riches_of_the_silk_road"
+      },
+      {
+        "name": "reform_the_diwan"
+      },
+      {
+        "name": "golden_fleece"
+      },
+      {
+        "name": "compagnies_ordonnance"
+      },
+      {
+        "name": "bur_estates_general"
+      },
+      {
+        "name": "reform_of_feudal_army"
+      },
+      {
+        "name": "integrated_towns"
+      },
+      {
+        "name": "freedom_of_worship"
+      },
+      {
+        "name": "bur_regimental_system"
+      },
+      {
+        "name": "reunited_genoa"
+      },
+      {
+        "name": "lessons_of_chiogga"
+      },
+      {
+        "name": "genoese_trade"
+      },
+      {
+        "name": "the_genoese_arsenal"
+      },
+      {
+        "name": "overhauled_bureaucracy"
+      },
+      {
+        "name": "the_office_of_grand_admiral"
+      },
+      {
+        "name": "standardisation_of_designs"
+      },
+      {
+        "name": "break_the_black_douglas"
+      },
+      {
+        "name": "modernised_royal_scots_navy"
+      },
+      {
+        "name": "reign_in_the_clans"
+      },
+      {
+        "name": "comets"
+      },
+      {
+        "name": "royal_revenue"
+      },
+      {
+        "name": "basilikon_doron"
+      },
+      {
+        "name": "act_of_revocation"
+      }
+    ]
+  },
+  "HUN": {
+    "ideas": [
+      {
+        "name": "hun_renaissanse_knowledge"
+      },
+      {
+        "name": "bulwark_of_christianity"
+      },
+      {
+        "name": "found_the_black_army"
+      },
+      {
+        "name": "reformed_coinage"
+      },
+      {
+        "name": "curtailed_peasantry"
+      },
+      {
+        "name": "strengthened_towns"
+      },
+      {
+        "name": "hungarian_estates_general"
+      }
+    ]
+  },
+  "JAP": {
+    "ideas": [
+      {
+        "name": "reformed_land_holding"
+      },
+      {
+        "name": "jap_unification_under_the_emperor"
+      },
+      {
+        "name": "jap_modernization"
+      },
+      {
+        "name": "jap_maritime_legacy"
+      },
+      {
+        "name": "jap_land_of_the_rising_sun"
+      },
+      {
+        "name": "jap_kaitakudan"
+      },
+      {
+        "name": "jap_great_power_diplomacy"
+      }
+    ]
+  },
+  "AM2": {
+    "ideas": [
+      {
+        "name": "red_sea_trade"
+      },
+      {
+        "name": "mam_monopoly_ports_evolved"
+      },
+      {
+        "name": "monuments_to_greatness"
+      },
+      {
+        "name": "purchase_new_mamelukes"
+      },
+      {
+        "name": "mam_army_reform"
+      },
+      {
+        "name": "reform_fellah_system"
+      },
+      {
+        "name": "reformed_succession"
+      }
+    ]
+  },
+  "MAM": {
+    "ideas": [
+      {
+        "name": "red_sea_trade"
+      },
+      {
+        "name": "mam_monopoly_ports"
+      },
+      {
+        "name": "monuments_to_greatness"
+      },
+      {
+        "name": "purchase_new_mamelukes"
+      },
+      {
+        "name": "mam_army_reform"
+      },
+      {
+        "name": "reform_fellah_system"
+      },
+      {
+        "name": "reformed_succession"
+      }
+    ]
+  },
+  "NAP": {
+    "ideas": [
+      {
+        "name": "consolidate_the_royal_domain"
+      },
+      {
+        "name": "academia_pontaniana"
+      },
+      {
+        "name": "encouraged_city_living"
+      },
+      {
+        "name": "crush_the_barons"
+      },
+      {
+        "name": "expanded_arsenale"
+      },
+      {
+        "name": "city_of_artists"
+      },
+      {
+        "name": "lazzaroni_support"
+      }
+    ]
+  },
+  "SIC": {
+    "ideas": [
+      {
+        "name": "sic_university_of_catania"
+      },
+      {
+        "name": "sic_constitions_of_melfi"
+      },
+      {
+        "name": "sic_noble_admirals"
+      },
+      {
+        "name": "sic_greater_sicily"
+      },
+      {
+        "name": "sic_trade_fleet"
+      },
+      {
+        "name": "sic_grand_navy"
+      },
+      {
+        "name": "sic_sicilian_silk"
+      }
+    ]
+  },
+  "ARA": {
+    "ideas": [
+      {
+        "name": "mercenary_princes"
+      },
+      {
+        "name": "protection_of_coastlines"
+      },
+      {
+        "name": "ara_mediterranean_trade"
+      },
+      {
+        "name": "consolidation_of_the_estates"
+      },
+      {
+        "name": "chartered_merchant_companies"
+      },
+      {
+        "name": "ara_reformed_admin"
+      },
+      {
+        "name": "protection_of_the_little_folk"
+      }
+    ]
+  },
+  "HSA": {
+    "ideas": [
+      {
+        "name": "end_of_victual_brothers"
+      },
+      {
+        "name": "strong_league_obligations"
+      },
+      {
+        "name": "hsa_shipbuilding"
+      },
+      {
+        "name": "reformed_hanstag"
+      },
+      {
+        "name": "hanseatic_levy_system"
+      },
+      {
+        "name": "regularised_contribution"
+      },
+      {
+        "name": "the_hansa_bank"
+      }
+    ]
+  },
+  "MLO": {
+    "ideas": [
+      {
+        "name": "renaissance_prince"
+      },
+      {
+        "name": "patron_of_music"
+      },
+      {
+        "name": "lowered_power_of_barons"
+      },
+      {
+        "name": "age_of_condottieri"
+      },
+      {
+        "name": "encouragement_of_philosophers"
+      },
+      {
+        "name": "merchant_princes"
+      },
+      {
+        "name": "rulership_of_enlightened_principals"
+      }
+    ]
+  },
+  "BYZ": {
+    "ideas": [
+      {
+        "name": "repopulation_of_countryside"
+      },
+      {
+        "name": "byz_roman_empire"
+      },
+      {
+        "name": "ecumenical_patriarch"
+      },
+      {
+        "name": "byz_corpus_iuris_civilis"
+      },
+      {
+        "name": "byz_protect_the_frontiers"
+      },
+      {
+        "name": "byz_strategikon"
+      },
+      {
+        "name": "new_imperial_army"
+      }
+    ]
+  },
+  "VIJ": {
+    "ideas": [
+      {
+        "name": "vij_promo_trade"
+      },
+      {
+        "name": "arab_horses"
+      },
+      {
+        "name": "harsh_penal_code"
+      },
+      {
+        "name": "vij_tolerance"
+      },
+      {
+        "name": "carnatic_music"
+      },
+      {
+        "name": "adroit_diplomacy"
+      },
+      {
+        "name": "army_for_city_of_victory"
+      }
+    ]
+  },
+  "AYU": {
+    "ideas": [
+      {
+        "name": "white_elephant"
+      },
+      {
+        "name": "corvee_system"
+      },
+      {
+        "name": "trading_links"
+      },
+      {
+        "name": "ayu_foreign_mercenaries"
+      },
+      {
+        "name": "ayu_embassies"
+      },
+      {
+        "name": "phrai_luang"
+      },
+      {
+        "name": "personal_executions"
+      }
+    ]
+  },
+  "OMA": {
+    "ideas": [
+      {
+        "name": "local_merchant_preference"
+      },
+      {
+        "name": "secured_timber_supplies"
+      },
+      {
+        "name": "association_with_unbelievers"
+      },
+      {
+        "name": "port_security_improvement"
+      },
+      {
+        "name": "end_of_shipbuilding_guilds"
+      },
+      {
+        "name": "skilled_captains"
+      },
+      {
+        "name": "expansion_of_trade_contacts"
+      }
+    ]
+  },
+  "KOR": {
+    "ideas": [
+      {
+        "name": "kor_uijeongbu"
+      },
+      {
+        "name": "metal_movable_type"
+      },
+      {
+        "name": "choi_mu_seon_gunpower_engines"
+      },
+      {
+        "name": "korean_artisanery"
+      },
+      {
+        "name": "hyanyak_system"
+      },
+      {
+        "name": "geobukseon"
+      },
+      {
+        "name": "kyujanggak"
+      },
+      {
+        "name": "#hanguel_alphabet"
+      },
+      {
+        "name": "#grand_code"
+      },
+      {
+        "name": "#hopae_system"
+      },
+      {
+        "name": "#kor_economy_reform"
+      }
+    ]
+  },
+  "BOH": {
+    "ideas": [
+      {
+        "name": "compacta_of_prague"
+      },
+      {
+        "name": "boh_elective_monarchy"
+      },
+      {
+        "name": "wagenburg"
+      },
+      {
+        "name": "letter_of_majesty"
+      },
+      {
+        "name": "hussite_legacy"
+      },
+      {
+        "name": "kutnohorian_deal"
+      },
+      {
+        "name": "czech_nationalism"
+      }
+    ]
+  },
+  "OH2": {
+    "ideas": [
+      {
+        "name": "compacta_of_prague"
+      },
+      {
+        "name": "boh_elective_monarchy"
+      },
+      {
+        "name": "wagenburg"
+      },
+      {
+        "name": "letter_of_majesty"
+      },
+      {
+        "name": "hussite_legacy"
+      },
+      {
+        "name": "kutnohorian_deal"
+      },
+      {
+        "name": "czech_nationalism2"
+      }
+    ]
+  },
+  "ITA": {
+    "ideas": [
+      {
+        "name": "no_a_geographical_construct"
+      },
+      {
+        "name": "tradition_of_the_legion"
+      },
+      {
+        "name": "mare_nostrum"
+      },
+      {
+        "name": "office_of_censor"
+      },
+      {
+        "name": "italian_tax_reform"
+      },
+      {
+        "name": "heir_to_the_empire"
+      },
+      {
+        "name": "path_to_citizenship"
+      }
+    ]
+  },
+  "MJZ": {
+    "ideas": [
+      {
+        "name": "sons_of_the_mountain"
+      },
+      {
+        "name": "jurchen_pigtail"
+      },
+      {
+        "name": "jurchen_foreign_service"
+      },
+      {
+        "name": "jurchen_border_skirmishes"
+      },
+      {
+        "name": "jurchen_many_wives"
+      },
+      {
+        "name": "jurchen_warlords_generosity"
+      },
+      {
+        "name": "the_jurchen_banners"
+      }
+    ]
+  },
+  "MCH": {
+    "ideas": [
+      {
+        "name": "united_three_jurchens"
+      },
+      {
+        "name": "manchu_eight_banners"
+      },
+      {
+        "name": "the_manchu_alphabet"
+      },
+      {
+        "name": "the_later_jin"
+      },
+      {
+        "name": "link_with_the_mongol_dynasty"
+      },
+      {
+        "name": "manchu_chinese_learning"
+      },
+      {
+        "name": "seven_grievances"
+      }
+    ]
+  },
+  "QNG": {
+    "ideas": [
+      {
+        "name": "expand_the_banners"
+      },
+      {
+        "name": "the_green_standard_army"
+      },
+      {
+        "name": "pigtail_or_death"
+      },
+      {
+        "name": "qng_bogda_khan"
+      },
+      {
+        "name": "the_chinese_rules"
+      },
+      {
+        "name": "qing_viceroyalties"
+      },
+      {
+        "name": "the_ten_great_campaigns"
+      }
+    ]
+  },
+  "PAL": {
+    "ideas": [
+      {
+        "name": "imperial_vicar_and_archsteward"
+      },
+      {
+        "name": "heidelberg_university"
+      },
+      {
+        "name": "center_of_reformation_in_southern_germany"
+      },
+      {
+        "name": "bibliotheca_palatina"
+      },
+      {
+        "name": "heidelberg_catechism"
+      },
+      {
+        "name": "hortus_palatinus"
+      },
+      {
+        "name": "mannheim_school_of_orchestra"
+      }
+    ]
+  },
+  "NOV": {
+    "ideas": [
+      {
+        "name": "northern_center_of_arts"
+      },
+      {
+        "name": "city_of_churches"
+      },
+      {
+        "name": "ivans_hundred"
+      },
+      {
+        "name": "control_of_the_hanseatic_kontor"
+      },
+      {
+        "name": "grand_dukes_army"
+      },
+      {
+        "name": "exploration_tradition"
+      },
+      {
+        "name": "baltic_shipyard"
+      }
+    ]
+  },
+  "ETH": {
+    "ideas": [
+      {
+        "name": "solomonid_claim"
+      },
+      {
+        "name": "nagusa_negast"
+      },
+      {
+        "name": "hostile_borders"
+      },
+      {
+        "name": "diplomatic_demeanor"
+      },
+      {
+        "name": "the_ark_of_the_covenant"
+      },
+      {
+        "name": "eth_expansionist_policy"
+      },
+      {
+        "name": "eth_reformed_armies"
+      }
+    ]
+  },
+  "SAV": {
+    "ideas": [
+      {
+        "name": "repel_the_french"
+      },
+      {
+        "name": "the_shroud_of_turin"
+      },
+      {
+        "name": "sav_mercenary_tradition"
+      },
+      {
+        "name": "crush_the_vaudois"
+      },
+      {
+        "name": "savoyard_flexibility"
+      },
+      {
+        "name": "alpine_tolls"
+      },
+      {
+        "name": "savoyard_legitimacy"
+      }
+    ]
+  },
+  "SPI": {
+    "ideas": [
+      {
+        "name": "spi_flexibility"
+      },
+      {
+        "name": "spi_defensive_prowess"
+      },
+      {
+        "name": "the_shroud_of_turin"
+      },
+      {
+        "name": "spi_royal_sardinian_army"
+      },
+      {
+        "name": "spi_centralized_state"
+      },
+      {
+        "name": "spi_piedmontese_manufacturing"
+      },
+      {
+        "name": "spi_risorgimento"
+      }
+    ]
+  },
+  "SAX": {
+    "ideas": [
+      {
+        "name": "albertine_and_ernestine"
+      },
+      {
+        "name": "meissner_porcelain"
+      },
+      {
+        "name": "the_zwinger"
+      },
+      {
+        "name": "wittenberg_university"
+      },
+      {
+        "name": "corpus_evangelicorum"
+      },
+      {
+        "name": "sax_principal_line"
+      },
+      {
+        "name": "the_saxon_circle"
+      }
+    ]
+  },
+  "MAR": {
+    "ideas": [
+      {
+        "name": "tradition_of_military_service"
+      },
+      {
+        "name": "forts_of_maharashtra"
+      },
+      {
+        "name": "peasant_soldiers"
+      },
+      {
+        "name": "office_of_the_peshwa"
+      },
+      {
+        "name": "encourage_ties_with_brahmin_financial_families"
+      },
+      {
+        "name": "reform_the_bureaucracy"
+      },
+      {
+        "name": "expand_maratha_navy"
+      }
+    ]
+  },
+  "TAU": {
+    "ideas": [
+      {
+        "name": "mandala_system"
+      },
+      {
+        "name": "tau_elephant_battles"
+      },
+      {
+        "name": "nat_worship"
+      },
+      {
+        "name": "chakravartin"
+      },
+      {
+        "name": "the_hluttaw"
+      },
+      {
+        "name": "tau_organized_campaigns"
+      },
+      {
+        "name": "bayingyi"
+      }
+    ]
+  },
+  "AVA": {
+    "ideas": [
+      {
+        "name": "legacy_of_the_pagan_dynasty"
+      },
+      {
+        "name": "ava_rajadhiraja"
+      },
+      {
+        "name": "manu_kye_dhammathat"
+      },
+      {
+        "name": "ava_bamar_literature"
+      },
+      {
+        "name": "ava_hill_tribes"
+      },
+      {
+        "name": "ava_shan_in_line"
+      },
+      {
+        "name": "ava_provincial_governors"
+      }
+    ]
+  },
+  "GRA": {
+    "ideas": [
+      {
+        "name": "people_of_the_book"
+      },
+      {
+        "name": "recover_al_andalus"
+      },
+      {
+        "name": "beacon_of_learning"
+      },
+      {
+        "name": "strait_of_gibraltar"
+      },
+      {
+        "name": "alhambra"
+      },
+      {
+        "name": "moors"
+      },
+      {
+        "name": "successor_caliphate_cordoba"
+      }
+    ]
+  },
+  "PAP": {
+    "ideas": [
+      {
+        "name": "ecclesiastical_primacy"
+      },
+      {
+        "name": "papal_investiture_and_tithes"
+      },
+      {
+        "name": "glory_of_rome"
+      },
+      {
+        "name": "donation_of_constantine"
+      },
+      {
+        "name": "centralize_the_states"
+      },
+      {
+        "name": "the_vatican_museums"
+      },
+      {
+        "name": "holy_father"
+      }
+    ]
+  },
+  "SER": {
+    "ideas": [
+      {
+        "name": "code_of_laws"
+      },
+      {
+        "name": "bastion_of_orthodoxy"
+      },
+      {
+        "name": "home_of_hussars"
+      },
+      {
+        "name": "alemannic_guard"
+      },
+      {
+        "name": "gold_mines"
+      },
+      {
+        "name": "mercenary_armies"
+      },
+      {
+        "name": "balkan_hajduks"
+      }
+    ]
+  },
+  "ORI": {
+    "ideas": [
+      {
+        "name": "lord_of_elephants"
+      },
+      {
+        "name": "servitor_of_jagganath"
+      },
+      {
+        "name": "parikshas"
+      },
+      {
+        "name": "refined_cloth_production"
+      },
+      {
+        "name": "patronize_temple_construction"
+      },
+      {
+        "name": "encourage_salt_trade"
+      },
+      {
+        "name": "heritage_of_the_sadhabas"
+      }
+    ]
+  },
+  "PUN": {
+    "ideas": [
+      {
+        "name": "breadbasket_of_india"
+      },
+      {
+        "name": "encourage_indo_persian_trade"
+      },
+      {
+        "name": "punjabi_textile_industry"
+      },
+      {
+        "name": "foundation_of_the_khalsa"
+      },
+      {
+        "name": "gurmukhi_script"
+      },
+      {
+        "name": "strength_of_the_misls"
+      },
+      {
+        "name": "reforming_the_punjabi_army"
+      }
+    ]
+  },
+  "RAG": {
+    "ideas": [
+      {
+        "name": "ordo_marinaritiae"
+      },
+      {
+        "name": "center_of_trade"
+      },
+      {
+        "name": "patronage"
+      },
+      {
+        "name": "ragusan_arsenal"
+      },
+      {
+        "name": "port_gruz"
+      },
+      {
+        "name": "non_bene_pro_toto_libertas_venditur_auro"
+      },
+      {
+        "name": "palace_of_the_rector"
+      }
+    ]
+  },
+  "RYU": {
+    "ideas": [
+      {
+        "name": "ryu_chinese_investiture"
+      },
+      {
+        "name": "reform_the_ryukyuan_religion"
+      },
+      {
+        "name": "ryu_shuri_castle"
+      },
+      {
+        "name": "ryu_maritime_com"
+      },
+      {
+        "name": "ryu_sign_trade_agreements"
+      },
+      {
+        "name": "ryu_national_academy"
+      },
+      {
+        "name": "ryu_the_three_mountains"
+      }
+    ]
+  },
+  "ASS": {
+    "ideas": [
+      {
+        "name": "buranjis"
+      },
+      {
+        "name": "wet_rice_cultivation"
+      },
+      {
+        "name": "river_warfare"
+      },
+      {
+        "name": "reform_paik_system"
+      },
+      {
+        "name": "process_of_appeal"
+      },
+      {
+        "name": "ahom_land_survey"
+      },
+      {
+        "name": "ahom_diplomacy"
+      }
+    ]
+  },
+  "TUS": {
+    "ideas": [
+      {
+        "name": "birthplace_of_the_renaissance"
+      },
+      {
+        "name": "tuscan_condottieri"
+      },
+      {
+        "name": "tuscan_banking"
+      },
+      {
+        "name": "tuscan_arts"
+      },
+      {
+        "name": "porto_franco"
+      },
+      {
+        "name": "tuscan_administrative_reforms"
+      },
+      {
+        "name": "tuscan_grand_duchy"
+      }
+    ]
+  },
+  "USA": {
+    "ideas": [
+      {
+        "name": "freedom_of_religion"
+      },
+      {
+        "name": "usa_bill_of_rights"
+      },
+      {
+        "name": "manifest_destiny"
+      },
+      {
+        "name": "lessons_of_valley_forge"
+      },
+      {
+        "name": "workshop_of_the_world"
+      },
+      {
+        "name": "shining_city_on_a_hill"
+      },
+      {
+        "name": "empire_of_liberty"
+      }
+    ]
+  },
+  "SWI": {
+    "ideas": [
+      {
+        "name": "swiss_mercenaries"
+      },
+      {
+        "name": "swiss_tolerance"
+      },
+      {
+        "name": "the_swiss_confederation"
+      },
+      {
+        "name": "alpine_defensiveness"
+      },
+      {
+        "name": "oasis_of_peace_and_prosperity"
+      },
+      {
+        "name": "haven_for_refugees"
+      },
+      {
+        "name": "clockwork"
+      }
+    ]
+  },
+  "SON": {
+    "ideas": [
+      {
+        "name": "gold_to_salt_trade"
+      },
+      {
+        "name": "independence_from_mali"
+      },
+      {
+        "name": "jihad_against_the_pagans"
+      },
+      {
+        "name": "sankore_madrassah"
+      },
+      {
+        "name": "the_hajj"
+      },
+      {
+        "name": "sharia"
+      },
+      {
+        "name": "trans_sahara_trade"
+      }
+    ]
+  },
+  "BRI": {
+    "ideas": [
+      {
+        "name": "legacy_of_breton_independence"
+      },
+      {
+        "name": "estates_of_brittany"
+      },
+      {
+        "name": "breton_march"
+      },
+      {
+        "name": "breton_catholicism"
+      },
+      {
+        "name": "protect_the_coastline"
+      },
+      {
+        "name": "league_of_the_public_weal"
+      },
+      {
+        "name": "catholicon"
+      }
+    ]
+  },
+  "NAJ": {
+    "ideas": [
+      {
+        "name": "bedouin_poets"
+      },
+      {
+        "name": "hanbali_school_ni"
+      },
+      {
+        "name": "ships_of_the_desert"
+      },
+      {
+        "name": "bedouin_raiders"
+      },
+      {
+        "name": "arabian_horsemanship"
+      },
+      {
+        "name": "unite_the_tribes"
+      },
+      {
+        "name": "enforce_tawhid"
+      }
+    ]
+  },
+  "HED": {
+    "ideas": [
+      {
+        "name": "custodian_of_the_two_holy_cities"
+      },
+      {
+        "name": "hed_red_sea_trade"
+      },
+      {
+        "name": "sharifs_of_mecca"
+      },
+      {
+        "name": "hed_desert_warfare"
+      },
+      {
+        "name": "cradle_of_gold"
+      },
+      {
+        "name": "hajj"
+      },
+      {
+        "name": "successor_to_the_caliphate"
+      }
+    ]
+  },
+  "NPL": {
+    "ideas": [
+      {
+        "name": "divya_upadesh"
+      },
+      {
+        "name": "land_of_peaks"
+      },
+      {
+        "name": "valleys_united"
+      },
+      {
+        "name": "rajput_refugees"
+      },
+      {
+        "name": "royal_kumari"
+      },
+      {
+        "name": "gurkha_recruits"
+      },
+      {
+        "name": "envelopment_and_blockade"
+      }
+    ]
+  },
+  "KNI": {
+    "ideas": [
+      {
+        "name": "defense_of_the_faith"
+      },
+      {
+        "name": "assistance_to_the_suffering"
+      },
+      {
+        "name": "the_tongues_of_knights"
+      },
+      {
+        "name": "reconquista_of_the_sea"
+      },
+      {
+        "name": "ecumenical_defenders_of_christendom"
+      },
+      {
+        "name": "scourge_of_the_corsairs"
+      },
+      {
+        "name": "crusader_tradition"
+      }
+    ]
+  },
+  "KON": {
+    "ideas": [
+      {
+        "name": "kongolese_tax_exchange"
+      },
+      {
+        "name": "election_of_manikongos"
+      },
+      {
+        "name": "imported_european_weaponry"
+      },
+      {
+        "name": "diplomacy_with_european_monarchs"
+      },
+      {
+        "name": "triangle_trade"
+      },
+      {
+        "name": "foreign_demand_for_slaves"
+      },
+      {
+        "name": "defend_against_the_colonists"
+      }
+    ]
+  },
+  "MAL": {
+    "ideas": [
+      {
+        "name": "restore_malian_suzerainity"
+      },
+      {
+        "name": "gold_of_bure"
+      },
+      {
+        "name": "reclamation_of_land"
+      },
+      {
+        "name": "mandinka_warrior_spirit"
+      },
+      {
+        "name": "lost_fleet_of_abubukari_ii"
+      },
+      {
+        "name": "seek_new_markets_for_salt"
+      },
+      {
+        "name": "west_african_slave_trade"
+      }
+    ]
+  },
+  "HUR": {
+    "ideas": [
+      {
+        "name": "great_lakes_trade"
+      },
+      {
+        "name": "hire_allied_warriors"
+      },
+      {
+        "name": "birchback_canoes"
+      },
+      {
+        "name": "harsh_justice"
+      },
+      {
+        "name": "missionary_welcome"
+      },
+      {
+        "name": "feast_of_the_dead"
+      },
+      {
+        "name": "eldest_children"
+      }
+    ]
+  },
+  "IRO": {
+    "ideas": [
+      {
+        "name": "kainerekowa"
+      },
+      {
+        "name": "keepers_of_the_western_door"
+      },
+      {
+        "name": "keepers_of_the_eastern_door"
+      },
+      {
+        "name": "keepers_of_the_fire"
+      },
+      {
+        "name": "mourning_wars"
+      },
+      {
+        "name": "warriors_unity"
+      },
+      {
+        "name": "the_four_kings"
+      }
+    ]
+  },
+  "ICK": {
+    "ideas": [
+      {
+        "name": "moundbilders_legacy"
+      },
+      {
+        "name": "spartans_of_miss"
+      },
+      {
+        "name": "nighttime_raids"
+      },
+      {
+        "name": "unconqured_and_unconquerable"
+      },
+      {
+        "name": "slave_raids"
+      },
+      {
+        "name": "lessons_of_ackia"
+      },
+      {
+        "name": "swan_feathers_mantle"
+      }
+    ]
+  },
+  "CHE": {
+    "ideas": [
+      {
+        "name": "moundbilders_legacy_CHE"
+      },
+      {
+        "name": "massacre_of_the_anikutani"
+      },
+      {
+        "name": "red_chiefs"
+      },
+      {
+        "name": "cherokee_adaptability"
+      },
+      {
+        "name": "ghigau"
+      },
+      {
+        "name": "mountainous_isolation"
+      },
+      {
+        "name": "cherokee_emperor"
+      }
+    ]
+  },
+  "PUE": {
+    "ideas": [
+      {
+        "name": "ancient_pueblo_legacy"
+      },
+      {
+        "name": "adobe_architecture"
+      },
+      {
+        "name": "mesa_settlements"
+      },
+      {
+        "name": "cotton_weaving"
+      },
+      {
+        "name": "kachina_dolls"
+      },
+      {
+        "name": "clown_societies"
+      },
+      {
+        "name": "legend_of_cibola"
+      }
+    ]
+  },
+  "SHA": {
+    "ideas": [
+      {
+        "name": "the_wandering_people"
+      },
+      {
+        "name": "dark_and_bloody_ground"
+      },
+      {
+        "name": "the_bread_dance"
+      },
+      {
+        "name": "shaawanwaki_identity"
+      },
+      {
+        "name": "autonomous_clans"
+      },
+      {
+        "name": "farreaching_relations"
+      },
+      {
+        "name": "private_war_parties"
+      }
+    ]
+  },
+  "CRE": {
+    "ideas": [
+      {
+        "name": "moundbilders_legacy_CRE"
+      },
+      {
+        "name": "creek_caste_system"
+      },
+      {
+        "name": "green_corn_celebration"
+      },
+      {
+        "name": "four_mother_towns"
+      },
+      {
+        "name": "micos_leadership"
+      },
+      {
+        "name": "muscogee_neutrality"
+      },
+      {
+        "name": "red_sticks"
+      }
+    ]
+  },
+  "KUR": {
+    "ideas": [
+      {
+        "name": "legacy_of_sword_brethren"
+      },
+      {
+        "name": "privilegium_gotthardinum"
+      },
+      {
+        "name": "duchy_of_mercantilism"
+      },
+      {
+        "name": "booming_manufacture"
+      },
+      {
+        "name": "couronian_colonization"
+      },
+      {
+        "name": "palaces_of_mitau"
+      },
+      {
+        "name": "promote_the_curonian_kings"
+      }
+    ]
+  },
+  "PRO": {
+    "ideas": [
+      {
+        "name": "memory_of_angevin_claims"
+      },
+      {
+        "name": "revive_house_of_anjou"
+      },
+      {
+        "name": "composite_monarchy"
+      },
+      {
+        "name": "tarascon_castle"
+      },
+      {
+        "name": "public_weal"
+      },
+      {
+        "name": "toulon_dockyard"
+      },
+      {
+        "name": "provencal_quilting"
+      }
+    ]
+  },
+  "MDI": {
+    "ideas": [
+      {
+        "name": "mdi_indian_ocean_trade"
+      },
+      {
+        "name": "somali_sailors"
+      },
+      {
+        "name": "mdi_east_african_gold_trade"
+      },
+      {
+        "name": "city_of_mogadishu"
+      },
+      {
+        "name": "mogadishan_currency"
+      },
+      {
+        "name": "horn_of_africa"
+      },
+      {
+        "name": "toob_benadir"
+      }
+    ]
+  },
+  "TRE": {
+    "ideas": [
+      {
+        "name": "komnenoi_in_exile"
+      },
+      {
+        "name": "pontic_mountains"
+      },
+      {
+        "name": "legacy_of_the_alexiad"
+      },
+      {
+        "name": "komnenoi_princesses"
+      },
+      {
+        "name": "the_lessons_of_the_fourth_crusade"
+      },
+      {
+        "name": "terminus_of_the_silk_road"
+      },
+      {
+        "name": "greek_scholars_abroad"
+      }
+    ]
+  },
+  "GEO": {
+    "ideas": [
+      {
+        "name": "bagrationi_dynasty"
+      },
+      {
+        "name": "georgian_isolation"
+      },
+      {
+        "name": "geo_legacy_of_saint_nino"
+      },
+      {
+        "name": "restoration_of_fortresses_and_churches"
+      },
+      {
+        "name": "sadrosho_districts"
+      },
+      {
+        "name": "geo_dasturlamali"
+      },
+      {
+        "name": "georgian_embassies"
+      }
+    ]
+  },
+  "AFG": {
+    "ideas": [
+      {
+        "name": "pashtunwali"
+      },
+      {
+        "name": "shadows_of_the_hindu_kush"
+      },
+      {
+        "name": "tureh"
+      },
+      {
+        "name": "afghan_diaspora"
+      },
+      {
+        "name": "durrani_imperialism"
+      },
+      {
+        "name": "institutionalized_loya_jirga"
+      },
+      {
+        "name": "graveyard_of_empires"
+      }
+    ]
+  },
+  "WAL": {
+    "ideas": [
+      {
+        "name": "cunning_diplomacy"
+      },
+      {
+        "name": "foreign_trade_restrictions"
+      },
+      {
+        "name": "mercenary_guard"
+      },
+      {
+        "name": "w_foreign_advisors"
+      },
+      {
+        "name": "legacy_of_the_impaler"
+      },
+      {
+        "name": "boyar_regime"
+      },
+      {
+        "name": "abolition_of_serfdom"
+      }
+    ]
+  },
+  "CRO": {
+    "ideas": [
+      {
+        "name": "hrvatski_ban"
+      },
+      {
+        "name": "pearl_of_the_adriatic"
+      },
+      {
+        "name": "granary_of_croatia"
+      },
+      {
+        "name": "antemurale_christianitatis"
+      },
+      {
+        "name": "the_sabor"
+      },
+      {
+        "name": "croatian_renaissance"
+      },
+      {
+        "name": "pandurs"
+      }
+    ]
+  },
+  "CYP": {
+    "ideas": [
+      {
+        "name": "king_of_jerusalem"
+      },
+      {
+        "name": "frankish_crusaders"
+      },
+      {
+        "name": "commandaria_wine"
+      },
+      {
+        "name": "lusignan_diplomacy"
+      },
+      {
+        "name": "cypriot_fortifications"
+      },
+      {
+        "name": "repel_the_corsairs"
+      },
+      {
+        "name": "raid_turkish_commerce"
+      }
+    ]
+  },
+  "NAV": {
+    "ideas": [
+      {
+        "name": "fearless_seamen"
+      },
+      {
+        "name": "shipbuiling_experts"
+      },
+      {
+        "name": "basque_ferocity"
+      },
+      {
+        "name": "camara_de_comptos"
+      },
+      {
+        "name": "people_of_the_sea"
+      },
+      {
+        "name": "royal_basque_society"
+      },
+      {
+        "name": "an_industrious_folk"
+      }
+    ]
+  },
+  "AZT": {
+    "ideas": [
+      {
+        "name": "flower_wars"
+      },
+      {
+        "name": "sustaining_the_gods"
+      },
+      {
+        "name": "telpochcalli"
+      },
+      {
+        "name": "eagles_and_jaguars"
+      },
+      {
+        "name": "imperial_tribute"
+      },
+      {
+        "name": "floating_gardens"
+      },
+      {
+        "name": "pochtecayotl"
+      }
+    ]
+  },
+  "DAH": {
+    "ideas": [
+      {
+        "name": "children_of_the_panther"
+      },
+      {
+        "name": "slave_hunts"
+      },
+      {
+        "name": "migan_and_mehu"
+      },
+      {
+        "name": "lagredis"
+      },
+      {
+        "name": "the_amazons"
+      },
+      {
+        "name": "the_yovogan"
+      },
+      {
+        "name": "palaces_of_abomey"
+      }
+    ]
+  },
+  "KBO": {
+    "ideas": [
+      {
+        "name": "land_of_ngazargamu"
+      },
+      {
+        "name": "sayfawad_dynasty"
+      },
+      {
+        "name": "alumas_reforms"
+      },
+      {
+        "name": "house_of_kanem"
+      },
+      {
+        "name": "fixed_military_camps"
+      },
+      {
+        "name": "clan_head_council"
+      },
+      {
+        "name": "duties_on_sahara_trade"
+      }
+    ]
+  },
+  "FEO": {
+    "ideas": [
+      {
+        "name": "principate_guard"
+      },
+      {
+        "name": "komnin_paleolog_gavras"
+      },
+      {
+        "name": "aristocracy_in_moskovia"
+      },
+      {
+        "name": "avlita_port"
+      },
+      {
+        "name": "mangup_kalamita"
+      },
+      {
+        "name": "turms"
+      },
+      {
+        "name": "cave_monasteries"
+      }
+    ]
+  },
+  "SIL": {
+    "ideas": [
+      {
+        "name": "under_the_infuence"
+      },
+      {
+        "name": "silesian_duchies"
+      },
+      {
+        "name": "german_settlers"
+      },
+      {
+        "name": "raubritter"
+      },
+      {
+        "name": "via_regia"
+      },
+      {
+        "name": "hanseatic_ties"
+      },
+      {
+        "name": "black_gold"
+      }
+    ]
+  },
+  "DNZ": {
+    "ideas": [
+      {
+        "name": "danzig_law"
+      },
+      {
+        "name": "vistula_river_trade"
+      },
+      {
+        "name": "centralized_population"
+      },
+      {
+        "name": "hanseatic_league_member"
+      },
+      {
+        "name": "danziger_shipyard"
+      },
+      {
+        "name": "continued_independence"
+      },
+      {
+        "name": "lutheran_change"
+      }
+    ]
+  },
+  "KRA": {
+    "ideas": [
+      {
+        "name": "kra_legendary_legacy"
+      },
+      {
+        "name": "kra_seat_of_gov"
+      },
+      {
+        "name": "kra_city_rights"
+      },
+      {
+        "name": "kra_cas_forts"
+      },
+      {
+        "name": "kra_jewish_community"
+      },
+      {
+        "name": "kra_polish_athens"
+      },
+      {
+        "name": "kra_free_city"
+      }
+    ]
+  },
+  "AJU": {
+    "ideas": [
+      {
+        "name": "aju_maritime_enterprise"
+      },
+      {
+        "name": "istunka_tournament"
+      },
+      {
+        "name": "gareen_imams"
+      },
+      {
+        "name": "aju_muslim_migrations"
+      },
+      {
+        "name": "aju_hydraulic_empire"
+      },
+      {
+        "name": "aju_expelling_the_infidel"
+      },
+      {
+        "name": "aju_received_assistance"
+      }
+    ]
+  },
+  "RYA": {
+    "ideas": [
+      {
+        "name": "arsenal_of_ryazan"
+      },
+      {
+        "name": "tatar_mercenaries"
+      },
+      {
+        "name": "rya_land_charters"
+      },
+      {
+        "name": "rya_russian_grain"
+      },
+      {
+        "name": "march_of_russia"
+      },
+      {
+        "name": "russian_ambition"
+      },
+      {
+        "name": "western_contacts"
+      }
+    ]
+  },
+  "TVE": {
+    "ideas": [
+      {
+        "name": "tverian_merchants"
+      },
+      {
+        "name": "defend_against_muscowy"
+      },
+      {
+        "name": "patriarch_of_tver"
+      },
+      {
+        "name": "tverian_architects"
+      },
+      {
+        "name": "cloth_business"
+      },
+      {
+        "name": "tverian_tercio"
+      },
+      {
+        "name": "tve_national_army"
+      }
+    ]
+  },
+  "YAR": {
+    "ideas": [
+      {
+        "name": "between_hammer_and_avil"
+      },
+      {
+        "name": "third_option"
+      },
+      {
+        "name": "reform_boyars"
+      },
+      {
+        "name": "siberian_mercenaries"
+      },
+      {
+        "name": "cult_of_generals"
+      },
+      {
+        "name": "yar_two_towers"
+      },
+      {
+        "name": "yar_russian_ambition"
+      }
+    ]
+  },
+  "PSK": {
+    "ideas": [
+      {
+        "name": "veche_of_pskov"
+      },
+      {
+        "name": "legacy_of_daumantas"
+      },
+      {
+        "name": "balt_mercenaries"
+      },
+      {
+        "name": "pskov_charter"
+      },
+      {
+        "name": "psk_knights_guard"
+      },
+      {
+        "name": "arts_and_crafts_of_pskov"
+      },
+      {
+        "name": "pskov_before_all_others"
+      }
+    ]
+  },
+  "SMO": {
+    "ideas": [
+      {
+        "name": "smolenskian_resolve"
+      },
+      {
+        "name": "armories_of_smolensk"
+      },
+      {
+        "name": "smo_western_mercenaries"
+      },
+      {
+        "name": "the_great_foundry"
+      },
+      {
+        "name": "smo_hold_the_line"
+      },
+      {
+        "name": "artillery_before_all"
+      },
+      {
+        "name": "tsar_mortars"
+      }
+    ]
+  },
+  "BOS": {
+    "ideas": [
+      {
+        "name": "heretic_teachings"
+      },
+      {
+        "name": "per_aspera_ad_astra"
+      },
+      {
+        "name": "empower_bosnian_nobility"
+      },
+      {
+        "name": "italian_connections"
+      },
+      {
+        "name": "land_of_princes"
+      },
+      {
+        "name": "flexible_diplomacy"
+      },
+      {
+        "name": "over_hills_through_woods"
+      }
+    ]
+  },
+  "HRZ": {
+    "ideas": [
+      {
+        "name": "land_of_princes"
+      }
+    ]
+  },
+  "MOL": {
+    "ideas": [
+      {
+        "name": "first_dismounting"
+      },
+      {
+        "name": "razesi_peasants"
+      },
+      {
+        "name": "upper_boyars"
+      },
+      {
+        "name": "moldavia_hospodar"
+      },
+      {
+        "name": "moldavia_metropoly"
+      },
+      {
+        "name": "vlach_shepherds"
+      },
+      {
+        "name": "moldavian_trade"
+      }
+    ]
+  },
+  "AIR": {
+    "ideas": [
+      {
+        "name": "taghlamt"
+      },
+      {
+        "name": "cross_of_agades"
+      },
+      {
+        "name": "legacy_of_tin_hinan"
+      },
+      {
+        "name": "blue_people"
+      },
+      {
+        "name": "inadan_castes"
+      },
+      {
+        "name": "nomadic_traditions"
+      },
+      {
+        "name": "ineslemen_teachings"
+      },
+      {
+        "name": "mossi"
+      },
+      {
+        "name": "riale_and_yennenga"
+      },
+      {
+        "name": "mossi_cavalry_raids"
+      },
+      {
+        "name": "nyonnyonse_vassals"
+      },
+      {
+        "name": "nakomse"
+      },
+      {
+        "name": "land_of_the_ancestors"
+      },
+      {
+        "name": "honoring_the_masks"
+      },
+      {
+        "name": "friday_court"
+      },
+      {
+        "name": "fulani_jihad"
+      },
+      {
+        "name": "wandering_scholars"
+      },
+      {
+        "name": "unrighteous_kings"
+      },
+      {
+        "name": "fulani_jihads"
+      },
+      {
+        "name": "imams_and_emirs"
+      },
+      {
+        "name": "islamic_scholarship"
+      },
+      {
+        "name": "community_of_the_faithful"
+      },
+      {
+        "name": "caliph_in_africa"
+      }
+    ]
+  },
+  "TAR": {
+    "ideas": [
+      {
+        "name": "copperworking"
+      },
+      {
+        "name": "no_mercy"
+      },
+      {
+        "name": "merchant_officials"
+      },
+      {
+        "name": "war_bonfires"
+      },
+      {
+        "name": "fortified_frontier"
+      },
+      {
+        "name": "otomi_settlements"
+      },
+      {
+        "name": "tarascan_assmilation"
+      }
+    ]
+  },
+  "KAR": {
+    "ideas": [
+      {
+        "name": "mehmet_bey_firman"
+      },
+      {
+        "name": "ghazi"
+      },
+      {
+        "name": "karamanid_cavalry"
+      },
+      {
+        "name": "kar_seize_the_opportunity"
+      },
+      {
+        "name": "karamanid_architecture"
+      },
+      {
+        "name": "home_of_the_whirling_dervishes"
+      },
+      {
+        "name": "true_heirs_seljuk_empire"
+      }
+    ]
+  },
+  "MON": {
+    "ideas": [
+      {
+        "name": "mon_idea_1"
+      },
+      {
+        "name": "mon_idea_2"
+      },
+      {
+        "name": "mon_idea_3"
+      },
+      {
+        "name": "mon_idea_4"
+      },
+      {
+        "name": "mon_idea_5"
+      },
+      {
+        "name": "mon_idea_6"
+      },
+      {
+        "name": "mon_idea_7"
+      }
+    ]
+  },
+  "RMN": {
+    "ideas": [
+      {
+        "name": "flexible_recruiting"
+      },
+      {
+        "name": "skilled_commanders"
+      },
+      {
+        "name": "scorch_the_land_and_poison_the_wells"
+      },
+      {
+        "name": "latin_island"
+      },
+      {
+        "name": "rom_peasant_soldiers"
+      },
+      {
+        "name": "phanariote_traders"
+      },
+      {
+        "name": "phanariote_taxes"
+      }
+    ]
+  },
+  "ATH": {
+    "ideas": [
+      {
+        "name": "dominus_athenarum"
+      },
+      {
+        "name": "athenian_openeness"
+      },
+      {
+        "name": "athenian_pragmatism"
+      },
+      {
+        "name": "revive_the_latin_greece"
+      },
+      {
+        "name": "latin_contracts"
+      },
+      {
+        "name": "archbishop_of_athens"
+      },
+      {
+        "name": "athenian_army_reform"
+      }
+    ]
+  },
+  "ALB": {
+    "ideas": [
+      {
+        "name": "all_lands_under_skanderbeg"
+      },
+      {
+        "name": "land_of_ambushers"
+      },
+      {
+        "name": "kingdom_of_albania"
+      },
+      {
+        "name": "hit_and_run"
+      },
+      {
+        "name": "land_of_eagles"
+      },
+      {
+        "name": "albanian_tolerance"
+      },
+      {
+        "name": "break_the_princes"
+      }
+    ]
+  },
+  "PLT": {
+    "ideas": [
+      {
+        "name": "legacy_of_the_werewolf_prince"
+      },
+      {
+        "name": "heritage_of_the_rus"
+      },
+      {
+        "name": "cultural_center"
+      },
+      {
+        "name": "land_of_strongholds"
+      },
+      {
+        "name": "trade_hub"
+      },
+      {
+        "name": "diplomatic_initiative"
+      },
+      {
+        "name": "forest_of_europe"
+      }
+    ]
+  },
+  "PRM": {
+    "ideas": [
+      {
+        "name": "capital_of_prikamye"
+      },
+      {
+        "name": "turkic_mercenaries"
+      },
+      {
+        "name": "the_old_traditions"
+      },
+      {
+        "name": "the_great_perm"
+      },
+      {
+        "name": "warriors_of_taiga"
+      },
+      {
+        "name": "komi_tolerance"
+      },
+      {
+        "name": "permian_army_reform"
+      }
+    ]
+  },
+  "ASH": {
+    "ideas": [
+      {
+        "name": "ash_idea_1"
+      },
+      {
+        "name": "ash_idea_2"
+      },
+      {
+        "name": "ash_idea_3"
+      },
+      {
+        "name": "ash_idea_4"
+      },
+      {
+        "name": "ash_idea_5"
+      },
+      {
+        "name": "ash_idea_6"
+      },
+      {
+        "name": "ash_idea_7"
+      }
+    ]
+  },
+  "MPC": {
+    "ideas": [
+      {
+        "name": "mpc_idea_1"
+      },
+      {
+        "name": "mpc_idea_2"
+      },
+      {
+        "name": "mpc_idea_3"
+      },
+      {
+        "name": "mpc_idea_4"
+      },
+      {
+        "name": "mpc_idea_5"
+      },
+      {
+        "name": "mpc_idea_6"
+      },
+      {
+        "name": "mpc_idea_7"
+      }
+    ]
+  },
+  "INC": {
+    "ideas": [
+      {
+        "name": "machu_picchu"
+      },
+      {
+        "name": "mitma"
+      },
+      {
+        "name": "quipu"
+      },
+      {
+        "name": "drafted_hatun_runas"
+      },
+      {
+        "name": "mita_system"
+      },
+      {
+        "name": "llama_michis"
+      },
+      {
+        "name": "tambo"
+      }
+    ]
+  },
+  "CHM": {
+    "ideas": [
+      {
+        "name": "chm_idea_1"
+      },
+      {
+        "name": "chm_idea_2"
+      },
+      {
+        "name": "chm_idea_3"
+      },
+      {
+        "name": "chm_idea_4"
+      },
+      {
+        "name": "chm_idea_5"
+      },
+      {
+        "name": "chm_idea_6"
+      },
+      {
+        "name": "chm_idea_7"
+      }
+    ]
+  },
+  "MCA": {
+    "ideas": [
+      {
+        "name": "mca_idea_1"
+      },
+      {
+        "name": "mca_idea_2"
+      },
+      {
+        "name": "mca_idea_3"
+      },
+      {
+        "name": "mca_idea_4"
+      },
+      {
+        "name": "mca_idea_5"
+      },
+      {
+        "name": "mca_idea_6"
+      },
+      {
+        "name": "mca_idea_7"
+      }
+    ]
+  },
+  "CYA": {
+    "ideas": [
+      {
+        "name": "cya_idea_1"
+      },
+      {
+        "name": "cya_idea_2"
+      },
+      {
+        "name": "cya_idea_3"
+      },
+      {
+        "name": "cya_idea_4"
+      },
+      {
+        "name": "cya_idea_5"
+      },
+      {
+        "name": "cya_idea_6"
+      },
+      {
+        "name": "cya_idea_7"
+      }
+    ]
+  },
+  "TEU": {
+    "ideas": [
+      {
+        "name": "teu_idea_1"
+      },
+      {
+        "name": "teu_idea_2"
+      },
+      {
+        "name": "teu_idea_3"
+      },
+      {
+        "name": "teu_idea_4"
+      },
+      {
+        "name": "teu_idea_5"
+      },
+      {
+        "name": "teu_idea_6"
+      },
+      {
+        "name": "teu_idea_7"
+      }
+    ]
+  },
+  "LIV": {
+    "ideas": [
+      {
+        "name": "liv_knights_of_livonia"
+      },
+      {
+        "name": "liv_hanseatic_merchants"
+      },
+      {
+        "name": "liv_livonian_castles"
+      },
+      {
+        "name": "liv_baptizers_of_terra_mariana"
+      },
+      {
+        "name": "liv_local_serfs"
+      },
+      {
+        "name": "liv_promote_local_bishops"
+      },
+      {
+        "name": "liv_the_new_infantry"
+      }
+    ]
+  },
+  "LVA": {
+    "ideas": [
+      {
+        "name": "lva_legacy_of_the_knights"
+      },
+      {
+        "name": "lva_border_between_east_and_west"
+      },
+      {
+        "name": "lva_livonian_hanseatic_cities"
+      },
+      {
+        "name": "lva_livlandischer_landtag"
+      },
+      {
+        "name": "lva_livonian_colonization"
+      },
+      {
+        "name": "lva_naval_professionalism"
+      },
+      {
+        "name": "lva_religious_tolerance"
+      }
+    ]
+  },
+  "BUL": {
+    "ideas": [
+      {
+        "name": "bul_idea_1"
+      },
+      {
+        "name": "bul_idea_2"
+      },
+      {
+        "name": "bul_idea_3"
+      },
+      {
+        "name": "bul_idea_4"
+      },
+      {
+        "name": "bul_idea_5"
+      },
+      {
+        "name": "bul_idea_6"
+      },
+      {
+        "name": "bul_idea_7"
+      }
+    ]
+  },
+  "KIE": {
+    "ideas": [
+      {
+        "name": "mother_of_all_cities"
+      },
+      {
+        "name": "heritage_of_rus"
+      },
+      {
+        "name": "fending_off_the_invaders"
+      },
+      {
+        "name": "chernozem_land"
+      },
+      {
+        "name": "center_of_orthodox_church"
+      },
+      {
+        "name": "support_local_traders"
+      },
+      {
+        "name": "centralized_rule"
+      }
+    ]
+  },
+  "NAX": {
+    "ideas": [
+      {
+        "name": "maritime_state"
+      },
+      {
+        "name": "naxos_rules_the_waves"
+      },
+      {
+        "name": "archipelago_of_opportunities"
+      },
+      {
+        "name": "legacy_of_crusaders"
+      },
+      {
+        "name": "archipelago_feudalism"
+      },
+      {
+        "name": "latin_roots"
+      },
+      {
+        "name": "naxian_ambitions"
+      }
+    ]
+  },
+  "TUA": {
+    "ideas": [
+      {
+        "name": "ge_hunter_gatherers"
+      },
+      {
+        "name": "ge_home_of_fisherfolk"
+      },
+      {
+        "name": "yam_growers"
+      },
+      {
+        "name": "ge_mithology"
+      },
+      {
+        "name": "ge_jaguar_warriors"
+      },
+      {
+        "name": "ge_establish_trade"
+      },
+      {
+        "name": "ge_unite_the_tribes"
+      }
+    ]
+  },
+  "POM": {
+    "ideas": [
+      {
+        "name": "pom_idea_1"
+      },
+      {
+        "name": "pom_idea_2"
+      },
+      {
+        "name": "pom_idea_3"
+      },
+      {
+        "name": "pom_idea_4"
+      },
+      {
+        "name": "pom_idea_5"
+      },
+      {
+        "name": "pom_idea_6"
+      },
+      {
+        "name": "pom_idea_7"
+      }
+    ]
+  },
+  "KAZ": {
+    "ideas": [
+      {
+        "name": "kaz_idea_1"
+      },
+      {
+        "name": "kaz_idea_2"
+      },
+      {
+        "name": "kaz_idea_3"
+      },
+      {
+        "name": "kaz_idea_4"
+      },
+      {
+        "name": "kaz_idea_5"
+      },
+      {
+        "name": "kaz_idea_6"
+      },
+      {
+        "name": "kaz_idea_7"
+      }
+    ]
+  },
+  "RM1": {
+    "ideas": [
+      {
+        "name": "apostolic_church1"
+      },
+      {
+        "name": "land_reclamation1"
+      },
+      {
+        "name": "border_nation"
+      },
+      {
+        "name": "melikdom_organization1"
+      },
+      {
+        "name": "sygnakhs"
+      },
+      {
+        "name": "nakharar_titles1"
+      },
+      {
+        "name": "end_of_armenian_diaspora1"
+      }
+    ]
+  },
+  "ARM": {
+    "ideas": [
+      {
+        "name": "apostolic_church"
+      },
+      {
+        "name": "land_reclamation"
+      },
+      {
+        "name": "border_nation"
+      },
+      {
+        "name": "melikdom_organization"
+      },
+      {
+        "name": "sygnakhs"
+      },
+      {
+        "name": "nakharar_titles"
+      },
+      {
+        "name": "end_of_armenian_diaspora"
+      }
+    ]
+  },
+  "WLS": {
+    "ideas": [
+      {
+        "name": "cynulliad"
+      },
+      {
+        "name": "bardic_literature"
+      },
+      {
+        "name": "cyfraith_hywel"
+      },
+      {
+        "name": "unbennaeth_prydain"
+      },
+      {
+        "name": "economic_revival"
+      },
+      {
+        "name": "prifysgolion_cymru"
+      },
+      {
+        "name": "welsh_church"
+      },
+      {
+        "name": "hausa"
+      },
+      {
+        "name": "heirs_of_bayajida"
+      },
+      {
+        "name": "regnal_chronicles"
+      },
+      {
+        "name": "sarakunan_babba"
+      },
+      {
+        "name": "sarakunan_kasuwa"
+      },
+      {
+        "name": "sarkin_yaki"
+      },
+      {
+        "name": "sarkin_bayi"
+      },
+      {
+        "name": "borno_refugees"
+      }
+    ]
+  },
+  "GUA": {
+    "ideas": [
+      {
+        "name": "gua_idea_1"
+      },
+      {
+        "name": "gua_idea_2"
+      },
+      {
+        "name": "gua_idea_3"
+      },
+      {
+        "name": "gua_idea_4"
+      },
+      {
+        "name": "gua_idea_5"
+      },
+      {
+        "name": "gua_idea_6"
+      },
+      {
+        "name": "gua_idea_7"
+      }
+    ]
+  },
+  "CUA": {
+    "ideas": [
+      {
+        "name": "cua_idea_1"
+      },
+      {
+        "name": "cua_idea_2"
+      },
+      {
+        "name": "cua_idea_3"
+      },
+      {
+        "name": "cua_idea_4"
+      },
+      {
+        "name": "cua_idea_5"
+      },
+      {
+        "name": "cua_idea_6"
+      },
+      {
+        "name": "cua_idea_7"
+      }
+    ]
+  },
+  "CIR": {
+    "ideas": [
+      {
+        "name": "horsemen_of_the_steppe"
+      },
+      {
+        "name": "merchants_of_genoa"
+      },
+      {
+        "name": "circassian_grain"
+      },
+      {
+        "name": "franciscan_missionaries"
+      },
+      {
+        "name": "adyghe_beauty"
+      },
+      {
+        "name": "steppe_diplomats"
+      },
+      {
+        "name": "circassian_religious_flexibility"
+      }
+    ]
+  },
+  "LXA": {
+    "ideas": [
+      {
+        "name": "lao_ethnic_diversity"
+      },
+      {
+        "name": "lxa_elephant_cavalry"
+      },
+      {
+        "name": "court_history_of_lang_xang"
+      },
+      {
+        "name": "lxa_white_elephant"
+      },
+      {
+        "name": "flowering_of_culture"
+      },
+      {
+        "name": "merchants_of_vientiane"
+      },
+      {
+        "name": "renaissance_of_lan_xang"
+      }
+    ]
+  },
+  "KHI": {
+    "ideas": [
+      {
+        "name": "horde_legacy"
+      },
+      {
+        "name": "deserts_of_khiva"
+      },
+      {
+        "name": "oasis_of_merv"
+      },
+      {
+        "name": "djuma_mosque"
+      },
+      {
+        "name": "amu_darya"
+      },
+      {
+        "name": "ichan_qala"
+      },
+      {
+        "name": "great_powers_diplomacy"
+      }
+    ]
+  },
+  "BAH": {
+    "ideas": [
+      {
+        "name": "gharbians"
+      },
+      {
+        "name": "legacy_of_gisu_daraz"
+      },
+      {
+        "name": "dakani_language"
+      },
+      {
+        "name": "karimis"
+      },
+      {
+        "name": "takht_e_firoza"
+      },
+      {
+        "name": "bahmani_primogeniture"
+      },
+      {
+        "name": "madrasa_of_mahmud_gawan"
+      }
+    ]
+  },
+  "JAJ": {
+    "ideas": [
+      {
+        "name": "goma"
+      },
+      {
+        "name": "siddi_seamanship"
+      },
+      {
+        "name": "fortress_of_janjira"
+      },
+      {
+        "name": "siddi_diaspora"
+      },
+      {
+        "name": "siddi_diplomacy"
+      },
+      {
+        "name": "siddi_konkani_trade"
+      },
+      {
+        "name": "siddi_expansion_of_navy"
+      }
+    ]
+  },
+  "JNP": {
+    "ideas": [
+      {
+        "name": "jnp_purbias"
+      },
+      {
+        "name": "shiraz_e_hind"
+      },
+      {
+        "name": "jnp_sants_and_sufis"
+      },
+      {
+        "name": "jaunpuri_architecture"
+      },
+      {
+        "name": "jnp_gangetic_plain"
+      },
+      {
+        "name": "jnp_hindusthani_classical_music"
+      },
+      {
+        "name": "modernization_of_jaunpuri_army"
+      }
+    ]
+  },
+  "HAM": {
+    "ideas": [
+      {
+        "name": "hanseatic_city"
+      },
+      {
+        "name": "hamburg_republic"
+      },
+      {
+        "name": "walls_of_hamburg"
+      },
+      {
+        "name": "first_constitution"
+      },
+      {
+        "name": "johanneum"
+      },
+      {
+        "name": "berenberg_bank"
+      },
+      {
+        "name": "elbe_shipyards"
+      },
+      {
+        "name": "jerusalem"
+      },
+      {
+        "name": "crown_of_thorns"
+      },
+      {
+        "name": "latin_patriarch"
+      },
+      {
+        "name": "frontier_state"
+      },
+      {
+        "name": "land_of_the_heathen"
+      },
+      {
+        "name": "crusader_aristocracy"
+      },
+      {
+        "name": "crusader_castles"
+      },
+      {
+        "name": "cosmopolitan_nobility"
+      }
+    ]
+  },
+  "KHM": {
+    "ideas": [
+      {
+        "name": "preah_ko_preah_keo"
+      },
+      {
+        "name": "khm_theravada"
+      },
+      {
+        "name": "khm_cham_migration"
+      },
+      {
+        "name": "khm_river_trade"
+      },
+      {
+        "name": "khm_european_mercenaries"
+      },
+      {
+        "name": "khm_restore_angkor"
+      },
+      {
+        "name": "khm_modern_navy"
+      }
+    ]
+  },
+  "ZAZ": {
+    "ideas": [
+      {
+        "name": "zaz_fort_builders"
+      },
+      {
+        "name": "zaz_hetmanate"
+      },
+      {
+        "name": "zaz_steppe_riders"
+      },
+      {
+        "name": "zaz_cossack_hit_and_run"
+      },
+      {
+        "name": "zaz_classy_diplomacy"
+      },
+      {
+        "name": "zaz_zaporzhian_tolerance"
+      },
+      {
+        "name": "zaz_army_first"
+      }
+    ]
+  },
+  "CAN": {
+    "ideas": [
+      {
+        "name": "singing_lumberjacks"
+      },
+      {
+        "name": "the_hudson_bay_company"
+      },
+      {
+        "name": "settling_the_interior"
+      },
+      {
+        "name": "the_maritimes"
+      },
+      {
+        "name": "the_quebec_act"
+      },
+      {
+        "name": "legacy_of_the_empire"
+      },
+      {
+        "name": "the_forests_of_canada"
+      }
+    ]
+  },
+  "QUE": {
+    "ideas": [
+      {
+        "name": "coureurs_des_bois"
+      },
+      {
+        "name": "the_seigneurial_system"
+      },
+      {
+        "name": "relations_with_natives"
+      },
+      {
+        "name": "fortifications_of_quebec"
+      },
+      {
+        "name": "college_of_quebec"
+      },
+      {
+        "name": "commissions_for_noble_sons"
+      },
+      {
+        "name": "jesuit_missions"
+      }
+    ]
+  },
+  "MEX": {
+    "ideas": [
+      {
+        "name": "rebuilding_mexico"
+      },
+      {
+        "name": "the_republic_of_indians"
+      },
+      {
+        "name": "peace_by_purchase"
+      },
+      {
+        "name": "casa_de_las_campanas"
+      },
+      {
+        "name": "repartimiento"
+      },
+      {
+        "name": "heroes_of_the_revolution"
+      },
+      {
+        "name": "grito_de_delores"
+      }
+    ]
+  },
+  "TRA": {
+    "ideas": [
+      {
+        "name": "unio_trium_nationum"
+      },
+      {
+        "name": "torda_salt_mines"
+      },
+      {
+        "name": "transylvanian_saxons"
+      },
+      {
+        "name": "decree_of_torda"
+      },
+      {
+        "name": "patent_of_toleration"
+      },
+      {
+        "name": "unitarian_zeal"
+      },
+      {
+        "name": "anti_habsburg_policies"
+      }
+    ]
+  },
+  "SUK": {
+    "ideas": [
+      {
+        "name": "birthplace_of_a_culture"
+      },
+      {
+        "name": "akson_thai"
+      },
+      {
+        "name": "sawankalok_ware"
+      },
+      {
+        "name": "wat_si_sawai"
+      },
+      {
+        "name": "father_governs_children"
+      },
+      {
+        "name": "ramkhamhaeng_stele"
+      },
+      {
+        "name": "suk_war_elephants"
+      }
+    ]
+  },
+  "WBG": {
+    "ideas": [
+      {
+        "name": "legacy_of_imperial_diets"
+      },
+      {
+        "name": "duke_in_franconia"
+      },
+      {
+        "name": "franconian_circle"
+      },
+      {
+        "name": "independent_counts"
+      },
+      {
+        "name": "cassation_of_monasteries"
+      },
+      {
+        "name": "franconian_wine"
+      },
+      {
+        "name": "baroque_artists"
+      }
+    ]
+  },
+  "CEY": {
+    "ideas": [
+      {
+        "name": "gabadagam"
+      },
+      {
+        "name": "sinhalese_sandesas"
+      },
+      {
+        "name": "pearl_of_the_indian_ocean"
+      },
+      {
+        "name": "cey_centre_of_learning"
+      },
+      {
+        "name": "cey_cinnamon"
+      },
+      {
+        "name": "cey_growth_of_new_castes"
+      },
+      {
+        "name": "sinhalese_guerilla_warfare"
+      }
+    ]
+  },
+  "CND": {
+    "ideas": [
+      {
+        "name": "genoese_connections"
+      },
+      {
+        "name": "candarid_literature"
+      },
+      {
+        "name": "ismail_bey_complex"
+      },
+      {
+        "name": "anatolian_center_of_learning"
+      },
+      {
+        "name": "candar_corps"
+      },
+      {
+        "name": "sinop_shipyard"
+      },
+      {
+        "name": "kure_copper_mine"
+      }
+    ]
+  },
+  "BRZ": {
+    "ideas": [
+      {
+        "name": "governorate_general"
+      },
+      {
+        "name": "research_of_nassau"
+      },
+      {
+        "name": "mines_of_minas_gerais"
+      },
+      {
+        "name": "halting_foreign_incursions"
+      },
+      {
+        "name": "entradas_and_bandeiras"
+      },
+      {
+        "name": "inconfidencia_mineira"
+      },
+      {
+        "name": "old_seat_of_the_empire"
+      }
+    ]
+  },
+  "CAB": {
+    "ideas": [
+      {
+        "name": "cab_river_trade"
+      },
+      {
+        "name": "cab_poison_warfare"
+      },
+      {
+        "name": "cab_resistance_to_the_pailantipo"
+      },
+      {
+        "name": "cab_rainforests_of_guyana"
+      },
+      {
+        "name": "cab_carib_seafaring"
+      },
+      {
+        "name": "cab_religious_syncretism"
+      },
+      {
+        "name": "cab_integrate_the_garifuna_returners"
+      }
+    ]
+  },
+  "BEN": {
+    "ideas": [
+      {
+        "name": "ben_curb_the_uzama"
+      },
+      {
+        "name": "ben_isiatua"
+      },
+      {
+        "name": "ben_appointment_of_the_onotueyevbo"
+      },
+      {
+        "name": "ben_the_walls_of_benin"
+      },
+      {
+        "name": "ben_guilds"
+      },
+      {
+        "name": "ben_adoption_of_benin_customs"
+      },
+      {
+        "name": "ben_regulation_of_trade"
+      }
+    ]
+  },
+  "BRE": {
+    "ideas": [
+      {
+        "name": "lex_saxonum"
+      },
+      {
+        "name": "memories_of_verden"
+      },
+      {
+        "name": "deep_pockets"
+      },
+      {
+        "name": "free_imperial_city_of_bremen"
+      },
+      {
+        "name": "vegesack"
+      },
+      {
+        "name": "bremish_walls"
+      },
+      {
+        "name": "foundation_of_bremerhaven"
+      }
+    ]
+  },
+  "SHL": {
+    "ideas": [
+      {
+        "name": "limes_saxoniae"
+      },
+      {
+        "name": "between_a_kingdom_and_the_empire"
+      },
+      {
+        "name": "holsteins"
+      },
+      {
+        "name": "kieler_umschlag"
+      },
+      {
+        "name": "reunifications_of_holstein"
+      },
+      {
+        "name": "trade_of_two_seas"
+      },
+      {
+        "name": "danish_protest_pigs"
+      }
+    ]
+  },
+  "HES": {
+    "ideas": [
+      {
+        "name": "break_the_hessian_estates"
+      },
+      {
+        "name": "marburg_university"
+      },
+      {
+        "name": "welcome_reformers"
+      },
+      {
+        "name": "let_in_religious_emigrants"
+      },
+      {
+        "name": "modernization_of_the_hessian_army"
+      },
+      {
+        "name": "hessian_mercenaries_idea"
+      },
+      {
+        "name": "hessian_economic_reforms"
+      }
+    ]
+  },
+  "ARK": {
+    "ideas": [
+      {
+        "name": "ark_mrauk_u_dynasty"
+      },
+      {
+        "name": "ark_rohingya_immigrants"
+      },
+      {
+        "name": "ark_bengal_bay_trade"
+      },
+      {
+        "name": "ark_magh_and_ferenghi"
+      },
+      {
+        "name": "ark_buddhist_sultans"
+      },
+      {
+        "name": "ark_muslim_advisers"
+      },
+      {
+        "name": "ark_trade_contracts_ark"
+      }
+    ]
+  },
+  "NOL": {
+    "ideas": [
+      {
+        "name": "nol_secure_percy_rule"
+      },
+      {
+        "name": "nol_memory_of_hegemony"
+      },
+      {
+        "name": "nol_cradle_of_british_christianity"
+      },
+      {
+        "name": "nol_land_of_castles"
+      },
+      {
+        "name": "nol_lindisfarne_gospels"
+      },
+      {
+        "name": "nol_literary_and_philosophical_society"
+      },
+      {
+        "name": "nol_coals_to_newcastle"
+      }
+    ]
+  },
+  "MUN": {
+    "ideas": [
+      {
+        "name": "mun_great_procession"
+      },
+      {
+        "name": "mun_erbmanner"
+      },
+      {
+        "name": "mun_founding_of_monestaries"
+      },
+      {
+        "name": "mun_cities_of_peace"
+      },
+      {
+        "name": "mun_soldiers"
+      },
+      {
+        "name": "mun_bommen_berend"
+      },
+      {
+        "name": "mun_support_of_schools"
+      }
+    ]
+  },
+  "THU": {
+    "ideas": [
+      {
+        "name": "thu_partition_of_leipizg"
+      },
+      {
+        "name": "thu_erfurt_fortifications"
+      },
+      {
+        "name": "thu_protector_of_reformers"
+      },
+      {
+        "name": "thu_university_of_jena"
+      },
+      {
+        "name": "thu_saxon_duchies"
+      },
+      {
+        "name": "thu_weimar_clacissicism"
+      },
+      {
+        "name": "thu_expansive_marriage_policies"
+      }
+    ]
+  },
+  "BTI": {
+    "ideas": [
+      {
+        "name": "bti_legacy_of_queen_judith"
+      },
+      {
+        "name": "bti_mountain_kingdom"
+      },
+      {
+        "name": "bti_kebra_nagast"
+      },
+      {
+        "name": "bti_builders_and_artists"
+      },
+      {
+        "name": "bti_gideon_dynasty"
+      },
+      {
+        "name": "bti_lost_tribe"
+      },
+      {
+        "name": "bti_haskalah"
+      }
+    ]
+  },
+  "CAT": {
+    "ideas": [
+      {
+        "name": "cat_consulate_of_the_sea"
+      },
+      {
+        "name": "cat_consell_de_cent"
+      },
+      {
+        "name": "cat_catalan_constitutions"
+      },
+      {
+        "name": "cat_fortifying_catalonia"
+      },
+      {
+        "name": "cat_miquelets"
+      },
+      {
+        "name": "cat_lliures_morts"
+      },
+      {
+        "name": "cat_catalan_forges"
+      }
+    ]
+  },
+  "LNA": {
+    "ideas": [
+      {
+        "name": "lna_legacy_of_mangrai"
+      },
+      {
+        "name": "lna_million_ice_paddies"
+      },
+      {
+        "name": "lna_waters_of_the_naga"
+      },
+      {
+        "name": "lna_the_white_elephant"
+      },
+      {
+        "name": "lna_red_and_black"
+      },
+      {
+        "name": "lna_elephant_charge"
+      },
+      {
+        "name": "lna_dynastic_spread"
+      }
+    ]
+  },
+  "PGR": {
+    "ideas": [
+      {
+        "name": "pgr_tantric_legacy"
+      },
+      {
+        "name": "pgr_gold_trade"
+      },
+      {
+        "name": "pgr_istano_basa"
+      },
+      {
+        "name": "pgr_rajo_tigo_selo"
+      },
+      {
+        "name": "pgr_high_education"
+      },
+      {
+        "name": "pgr_rumah_gadang"
+      },
+      {
+        "name": "pgr_matrilinear_culture"
+      }
+    ]
+  },
+  "CMI": {
+    "ideas": [
+      {
+        "name": "cmi_sacrificing_to_the_spirits"
+      },
+      {
+        "name": "cmi_dragon_boats"
+      },
+      {
+        "name": "cmi_unity_of_the_tribes"
+      },
+      {
+        "name": "cmi_miao_silver"
+      },
+      {
+        "name": "cmi_customary_marriage_laws"
+      },
+      {
+        "name": "cmi_mountain_retreats"
+      },
+      {
+        "name": "cmi_legacy_of_the_miao_rebellions"
+      }
+    ]
+  },
+  "BAD": {
+    "ideas": [
+      {
+        "name": "bad_hot_springs"
+      },
+      {
+        "name": "bad_zahringen"
+      },
+      {
+        "name": "bad_small_nation_diplomacy"
+      },
+      {
+        "name": "bad_cuius_regio_euis_religio"
+      },
+      {
+        "name": "bad_reuiniting_the_nation"
+      },
+      {
+        "name": "bad_expanding_the_nation"
+      },
+      {
+        "name": "bad_grand_duchy"
+      }
+    ]
+  },
+  "SDY": {
+    "ideas": [
+      {
+        "name": "sdy_land_of_glory"
+      },
+      {
+        "name": "sdy_crossroad_of_religions"
+      },
+      {
+        "name": "sdy_hills_and_jungles"
+      },
+      {
+        "name": "sdy_temples"
+      },
+      {
+        "name": "sdy_dihang"
+      },
+      {
+        "name": "sdy_army_reform"
+      },
+      {
+        "name": "sdy_black_tea"
+      }
+    ]
+  },
+  "MLB": {
+    "ideas": [
+      {
+        "name": "mlb_sanamahism"
+      },
+      {
+        "name": "mlb_martial_traditions"
+      },
+      {
+        "name": "mlb_kingdom_of_the_meitei"
+      },
+      {
+        "name": "mlb_mayek"
+      },
+      {
+        "name": "mlb_unite_the_hill_tribes"
+      },
+      {
+        "name": "mlb_bengali_influence"
+      },
+      {
+        "name": "mlb_far_reaching_diplomacy"
+      }
+    ]
+  },
+  "PEG": {
+    "ideas": [
+      {
+        "name": "peg_riches_of_pegu"
+      },
+      {
+        "name": "peg_martabans"
+      },
+      {
+        "name": "peg_dhammazedi_pyatton"
+      },
+      {
+        "name": "peg_rammanadesa"
+      },
+      {
+        "name": "peg_dynamic_warfare"
+      },
+      {
+        "name": "peg_buddhist_traditions"
+      },
+      {
+        "name": "peg_mon_diaspora"
+      }
+    ]
+  },
+  "KIC": {
+    "ideas": [
+      {
+        "name": "kic_blessings_of_tohil"
+      },
+      {
+        "name": "kic_ilokab"
+      },
+      {
+        "name": "kic_wealth_of_tamub"
+      },
+      {
+        "name": "ball_game"
+      },
+      {
+        "name": "kic_titulos"
+      },
+      {
+        "name": "kic_kiqabs_vengeance"
+      },
+      {
+        "name": "kic_popul_vuh"
+      }
+    ]
+  },
+  "LDK": {
+    "ideas": [
+      {
+        "name": "ldk_two_kingdoms"
+      },
+      {
+        "name": "ldk_fortified_mountain_cities"
+      },
+      {
+        "name": "ldk_wool_from_the_roof_of_the_world"
+      },
+      {
+        "name": "ldk_great_monasteries"
+      },
+      {
+        "name": "ldk_la_dvags_rgyal_rabs"
+      },
+      {
+        "name": "ldk_kingdom_united"
+      },
+      {
+        "name": "ldk_far_away_traders"
+      }
+    ]
+  },
+  "ZIM": {
+    "ideas": [
+      {
+        "name": "zim_mwenemutapa"
+      },
+      {
+        "name": "zim_rekindling_the_royal_fires"
+      },
+      {
+        "name": "zim_mutapa_architecture"
+      },
+      {
+        "name": "zim_spokesman_before_the_dead"
+      },
+      {
+        "name": "zim_elected_administrators"
+      },
+      {
+        "name": "zim_curva"
+      },
+      {
+        "name": "zim_controlling_the_mutapan_riches"
+      }
+    ]
+  },
+  "BAL": {
+    "ideas": [
+      {
+        "name": "bal_natural_defences"
+      },
+      {
+        "name": "bal_hani_and_sheh_mureed"
+      },
+      {
+        "name": "bal_khan_of_the_baloch"
+      },
+      {
+        "name": "bal_reorganization_of_the_army"
+      },
+      {
+        "name": "bal_control_of_the_overland_trade"
+      },
+      {
+        "name": "bal_chiefs_and_landlords"
+      },
+      {
+        "name": "bal_baluch_leadership"
+      }
+    ]
+  },
+  "ORL": {
+    "ideas": [
+      {
+        "name": "orl_brothers_of_kings"
+      },
+      {
+        "name": "orl_maid_of_orleans"
+      },
+      {
+        "name": "orl_faith_and_devotion"
+      },
+      {
+        "name": "orl_saffron_of_boynes"
+      },
+      {
+        "name": "orl_chateaux_of_the_loire_valley"
+      },
+      {
+        "name": "orl_calvin_and_moliere"
+      },
+      {
+        "name": "french_language_in_all_courts"
+      }
+    ]
+  },
+  "ORM": {
+    "ideas": [
+      {
+        "name": "orm_a_vast_emporium"
+      },
+      {
+        "name": "orm_protecting_the_islands"
+      },
+      {
+        "name": "orm_moqarrariya"
+      },
+      {
+        "name": "orm_far_reaching_diplomacy"
+      },
+      {
+        "name": "orm_secure_trading_monopoly"
+      },
+      {
+        "name": "orm_develop_qeshm_and_ormuz"
+      },
+      {
+        "name": "orm_ormuzi_navy"
+      }
+    ]
+  },
+  "KGR": {
+    "ideas": [
+      {
+        "name": "kgr_katoch_lineage"
+      },
+      {
+        "name": "kgr_riches_of_the_kangra_valley"
+      },
+      {
+        "name": "kgr_martial_heritage"
+      },
+      {
+        "name": "kgr_hill_forts"
+      },
+      {
+        "name": "kgr_strengthen_the_mountain_trade"
+      },
+      {
+        "name": "kgr_pahari_paintings"
+      },
+      {
+        "name": "kgr_tigers_of_the_himalayas"
+      }
+    ]
+  },
+  "KAS": {
+    "ideas": [
+      {
+        "name": "kas_northern_silk_road"
+      },
+      {
+        "name": "kas_altishahr"
+      },
+      {
+        "name": "kas_tarikh_i_rashidi"
+      },
+      {
+        "name": "kas_empower_the_khojas"
+      },
+      {
+        "name": "kas_holy_warriors"
+      },
+      {
+        "name": "kas_black_and_white_mountain"
+      },
+      {
+        "name": "kas_encourage_tarim_trade"
+      }
+    ]
+  },
+  "LUX": {
+    "ideas": [
+      {
+        "name": "lux_imperial_legacy"
+      },
+      {
+        "name": "lux_ardennes"
+      },
+      {
+        "name": "lux_moselle_trade"
+      },
+      {
+        "name": "lux_fortress"
+      },
+      {
+        "name": "lux_spanish_road"
+      },
+      {
+        "name": "lux_grand_duchy_of_luxembourg"
+      },
+      {
+        "name": "lux_rivals_rivals_everywhere"
+      }
+    ]
+  },
+  "LON": {
+    "ideas": [
+      {
+        "name": "lon_heritage_of_the_reconquista"
+      },
+      {
+        "name": "lon_leonese_cortes"
+      },
+      {
+        "name": "lon_conquistadores"
+      },
+      {
+        "name": "lon_school_of_salamanca"
+      },
+      {
+        "name": "lon_expand_navy"
+      },
+      {
+        "name": "lon_patronize_leonese_language"
+      },
+      {
+        "name": "lon_nationalism"
+      }
+    ]
+  },
+  "CYI": {
+    "ideas": [
+      {
+        "name": "cyi_strengthen_yi_caste_system"
+      },
+      {
+        "name": "cyi_deep_in_mountains"
+      },
+      {
+        "name": "cyi_chain_of_zimo_domains"
+      },
+      {
+        "name": "cyi_solar_calendar"
+      },
+      {
+        "name": "cyi_promote_bimoism"
+      },
+      {
+        "name": "cyi_renovate_skyward_tombs"
+      },
+      {
+        "name": "cyi_children_of_the_black_tiger"
+      }
+    ]
+  },
+  "NZH": {
+    "ideas": [
+      {
+        "name": "nzh_at_the_confluence_of_two_giants"
+      },
+      {
+        "name": "nzh_crossroads_of_nations"
+      },
+      {
+        "name": "nzh_issue_land_reforms"
+      },
+      {
+        "name": "nzh_citadel_of_russia"
+      },
+      {
+        "name": "nzh_expand_to_the_east"
+      },
+      {
+        "name": "nzh_open_up_the_river_trade"
+      },
+      {
+        "name": "nzh_russian_ambition"
+      }
+    ]
+  },
+  "SMI": {
+    "ideas": [
+      {
+        "name": "smi_land_of_the_midnight_sun"
+      },
+      {
+        "name": "smi_protect_the_herds"
+      },
+      {
+        "name": "smi_regulate_southern_trade"
+      },
+      {
+        "name": "smi_encourage_growth_of_the_winter_market"
+      },
+      {
+        "name": "smi_defend_noaidi_traditions"
+      },
+      {
+        "name": "smi_living_of_the_land"
+      },
+      {
+        "name": "smi_standardized_literary_language"
+      }
+    ]
+  },
+  "MAZ": {
+    "ideas": [
+      {
+        "name": "maz_piast_legacy"
+      },
+      {
+        "name": "maz_frontier"
+      },
+      {
+        "name": "maz_between_monk_eagle_and_purse"
+      },
+      {
+        "name": "maz_szlachta_zasciankowa"
+      },
+      {
+        "name": "maz_mazovian_lawmaking"
+      },
+      {
+        "name": "maz_sejmy_i_sejmiki"
+      },
+      {
+        "name": "maz_emporium"
+      }
+    ]
+  },
+  "GAL": {
+    "ideas": [
+      {
+        "name": "gal_way_of_st_james"
+      },
+      {
+        "name": "gal_la_bella"
+      },
+      {
+        "name": "gal_rein_in_the_cities"
+      },
+      {
+        "name": "gal_shipyards"
+      },
+      {
+        "name": "gal_santiago_y_cierra"
+      },
+      {
+        "name": "gal_sailors_of_the_cantabrian_sea"
+      },
+      {
+        "name": "gal_irmandinos"
+      }
+    ]
+  },
+  "NEV": {
+    "ideas": [
+      {
+        "name": "nev_forges_of_nivernais"
+      },
+      {
+        "name": "nev_nivernais_legal_traditions"
+      },
+      {
+        "name": "nev_faience_production"
+      },
+      {
+        "name": "nev_the_best_of_france"
+      },
+      {
+        "name": "nev_bridges_of_the_loire"
+      },
+      {
+        "name": "nev_morvan_wet_nurses"
+      },
+      {
+        "name": "nev_greatest_palace_of_the_loire"
+      }
+    ]
+  },
+  "MED": {
+    "ideas": [
+      {
+        "name": "med_kings_of_the_sea"
+      },
+      {
+        "name": "med_ancient_christian_traditions"
+      },
+      {
+        "name": "med_diplomatic_flexibility"
+      },
+      {
+        "name": "med_strengthen_central_rule"
+      },
+      {
+        "name": "med_independent_traditions"
+      },
+      {
+        "name": "med_strengthen_red_sea_trade"
+      },
+      {
+        "name": "med_princely_ambitions"
+      }
+    ]
+  },
+  "CDL": {
+    "ideas": [
+      {
+        "name": "cdl_renovate_the_city_of_jumie"
+      },
+      {
+        "name": "cdl_tea_horse_route"
+      },
+      {
+        "name": "cdl_confucian_influences"
+      },
+      {
+        "name": "cdl_buddhas_teachings"
+      },
+      {
+        "name": "cdl_benzhu_worship"
+      },
+      {
+        "name": "cdl_rice_terraces"
+      },
+      {
+        "name": "cdl_dian_bronze"
+      }
+    ]
+  },
+  "JMN": {
+    "ideas": [
+      {
+        "name": "of_noble_bearing"
+      },
+      {
+        "name": "the_right_to_bear_arms"
+      },
+      {
+        "name": "grizzly_terrain"
+      },
+      {
+        "name": "keeping_our_bearings"
+      },
+      {
+        "name": "polarized_nation"
+      },
+      {
+        "name": "come_bearing_gifts"
+      },
+      {
+        "name": "expand_the_bearocracy"
+      }
+    ]
+  },
+  "TRT": {
+    "ideas": [
+      {
+        "name": "trt_scholars_and_poets"
+      },
+      {
+        "name": "trt_gateway_to_india"
+      },
+      {
+        "name": "trt_brahmin_kings"
+      },
+      {
+        "name": "trt_purbias"
+      },
+      {
+        "name": "trt_river_landscape"
+      },
+      {
+        "name": "trt_tirhuta"
+      },
+      {
+        "name": "trt_indigo"
+      }
+    ]
+  },
+  "MRA": {
+    "ideas": [
+      {
+        "name": "mra_fresh_perspectives"
+      },
+      {
+        "name": "mra_mlira_cult"
+      },
+      {
+        "name": "mra_fertile_land"
+      },
+      {
+        "name": "mra_ivory_trade"
+      },
+      {
+        "name": "mra_serving_abroad"
+      },
+      {
+        "name": "mra_chimanga_ndi_moyo"
+      },
+      {
+        "name": "mra_control_of_the_slave_trade"
+      }
+    ]
+  },
+  "ROM": {
+    "ideas": [
+      {
+        "name": "pax_romana"
+      },
+      {
+        "name": "legacy_of_rome"
+      },
+      {
+        "name": "spqr"
+      },
+      {
+        "name": "roman_legions"
+      },
+      {
+        "name": "roman_architecture"
+      },
+      {
+        "name": "imperial_bureaucracy"
+      },
+      {
+        "name": "imperium_sine_fine"
+      }
+    ]
+  },
+  "MNS": {
+    "ideas": [
+      {
+        "name": "mns_fierce_rivalry"
+      },
+      {
+        "name": "mns_subdue_the_clans"
+      },
+      {
+        "name": "mns_cios_dubh"
+      },
+      {
+        "name": "mns_foreign_contracts"
+      },
+      {
+        "name": "mns_pasture_of_ireland"
+      },
+      {
+        "name": "mns_thmond_army_reform"
+      },
+      {
+        "name": "mns_overseas_ambition"
+      }
+    ]
+  },
+  "SLN": {
+    "ideas": [
+      {
+        "name": "sln_promote_the_trade"
+      },
+      {
+        "name": "sln_rebuild_the_castle_of_sligo"
+      },
+      {
+        "name": "sln_galic_meets_norman"
+      },
+      {
+        "name": "sln_a_different_way"
+      },
+      {
+        "name": "sln_study_the_norman_traditions"
+      },
+      {
+        "name": "sln_sligo_rules_the_waves"
+      },
+      {
+        "name": "sln_pragmatism"
+      }
+    ]
+  },
+  "ANT": {
+    "ideas": [
+      {
+        "name": "ant_tampon_tany"
+      },
+      {
+        "name": "ant_sorabe"
+      },
+      {
+        "name": "ant_andrianoni"
+      },
+      {
+        "name": "ant_ombiasa"
+      },
+      {
+        "name": "ant_religious_control"
+      },
+      {
+        "name": "ant_slave_trade"
+      },
+      {
+        "name": "ant_unify_political_and_religious_power"
+      }
+    ]
+  },
+  "BTS": {
+    "ideas": [
+      {
+        "name": "bts_people_of_the_coast"
+      },
+      {
+        "name": "malagasy_pirate_ports"
+      },
+      {
+        "name": "bts_indivisable_many"
+      },
+      {
+        "name": "bts_gifts_and_hostages"
+      },
+      {
+        "name": "bts_european_pirate_settlements"
+      },
+      {
+        "name": "bts_royal_justice"
+      },
+      {
+        "name": "bts_european_diplomacy"
+      }
+    ]
+  },
+  "MIR": {
+    "ideas": [
+      {
+        "name": "mir_unify_inlands"
+      },
+      {
+        "name": "mir_twelve_sampys"
+      },
+      {
+        "name": "mir_intensive_rice_cultivation"
+      },
+      {
+        "name": "mir_fortify_highlands"
+      },
+      {
+        "name": "mir_reform_the_nobility"
+      },
+      {
+        "name": "mir_unified_legal_system"
+      },
+      {
+        "name": "mir_foloalinday"
+      }
+    ]
+  },
+  "TBK": {
+    "ideas": [
+      {
+        "name": "zambezi_maravi_influences"
+      },
+      {
+        "name": "tbk_central_melting_pot"
+      },
+      {
+        "name": "tbk_healthy_priest_kings"
+      },
+      {
+        "name": "tbk_office_of_the_mulwa"
+      },
+      {
+        "name": "tbk_inter_african_trade"
+      },
+      {
+        "name": "tbk_break_the_power_of_the_makambala"
+      },
+      {
+        "name": "tbk_welcome_the_swahili_merchants"
+      }
+    ]
+  },
+  "LUB": {
+    "ideas": [
+      {
+        "name": "lub_bamfumus"
+      },
+      {
+        "name": "lub_royal_village_shrines"
+      },
+      {
+        "name": "lub_bambudye"
+      },
+      {
+        "name": "lub_kasala_tradition"
+      },
+      {
+        "name": "lub_lukasa_boards"
+      },
+      {
+        "name": "lub_mbidi_kiluwe"
+      },
+      {
+        "name": "lub_mulopwe_prestige"
+      }
+    ]
+  },
+  "KUB": {
+    "ideas": [
+      {
+        "name": "kub_journey_of_enlightenment"
+      },
+      {
+        "name": "kub_children_of_woot"
+      },
+      {
+        "name": "kub_people_of_ornaments"
+      },
+      {
+        "name": "kub_usurpation_of_the_chiefs"
+      },
+      {
+        "name": "kub_ngesh_dancers"
+      },
+      {
+        "name": "kub_ndop_statue"
+      },
+      {
+        "name": "kub_courtly_competition"
+      }
+    ]
+  },
+  "LND": {
+    "ideas": [
+      {
+        "name": "lnd_great_family"
+      },
+      {
+        "name": "lnd_perpetual_kingship"
+      },
+      {
+        "name": "lnd_tukwata"
+      },
+      {
+        "name": "lnd_overnight_army"
+      },
+      {
+        "name": "lnd_warrior_migrations"
+      },
+      {
+        "name": "lnd_rukonkesh"
+      },
+      {
+        "name": "lnd_lord_of_vipers"
+      }
+    ]
+  },
+  "RZW": {
+    "ideas": [
+      {
+        "name": "rzw_legacy_of_zimbabwe"
+      },
+      {
+        "name": "rzw_strict_gold_regulations"
+      },
+      {
+        "name": "rzw_empowering_the_rozwi"
+      },
+      {
+        "name": "rzw_hierarchical_tax_organization"
+      },
+      {
+        "name": "rzw_discipline_and_traning"
+      },
+      {
+        "name": "rzw_mwari_cult"
+      },
+      {
+        "name": "rzw_vashambadzi"
+      }
+    ]
+  },
+  "DMS": {
+    "ideas": [
+      {
+        "name": "dms_the_land_of_castles"
+      },
+      {
+        "name": "dms_cadet_lines"
+      },
+      {
+        "name": "dms_gaelic_bastion"
+      },
+      {
+        "name": "dms_the_munster_ambition"
+      },
+      {
+        "name": "dms_fierce_independence"
+      },
+      {
+        "name": "dms_promote_the_clture_of_service"
+      },
+      {
+        "name": "dms_inner_perfection"
+      }
+    ]
+  },
+  "MLW": {
+    "ideas": [
+      {
+        "name": "mlw_rajputs_of_malwa"
+      },
+      {
+        "name": "mlw_nimatnama"
+      },
+      {
+        "name": "mlw_surat_delhi_route"
+      },
+      {
+        "name": "mlw_fortified_strongholds"
+      },
+      {
+        "name": "mlw_black_soil"
+      },
+      {
+        "name": "mlw_reliance_on_jain_bankers"
+      },
+      {
+        "name": "mlw_malwa_opium"
+      }
+    ]
+  },
+  "PAT": {
+    "ideas": [
+      {
+        "name": "pat_pepper"
+      },
+      {
+        "name": "pat_china_sea"
+      },
+      {
+        "name": "pat_smuggling_networks"
+      },
+      {
+        "name": "lian_dao_qian_band"
+      },
+      {
+        "name": "pat_entrepot"
+      },
+      {
+        "name": "protection_private_property"
+      },
+      {
+        "name": "pat_canals"
+      }
+    ]
+  },
+  "KAF": {
+    "ideas": [
+      {
+        "name": "kaf_kingdom_of_coffee"
+      },
+      {
+        "name": "kaf_minjo_usurpation"
+      },
+      {
+        "name": "kaf_kaffan_highlands"
+      },
+      {
+        "name": "kaf_autonomous_kings"
+      },
+      {
+        "name": "kaf_strengthen_ties_with_ethiopian_church"
+      },
+      {
+        "name": "kaf_king_of_kings"
+      },
+      {
+        "name": "kaf_kaffan_exports"
+      }
+    ]
+  },
+  "CEP": {
+    "ideas": [
+      {
+        "name": "cep_frankokratia"
+      },
+      {
+        "name": "cep_angelokastroi"
+      },
+      {
+        "name": "cep_settling_the_islands"
+      },
+      {
+        "name": "cep_gate_to_the_adriatic"
+      },
+      {
+        "name": "cep_govian_arsenal"
+      },
+      {
+        "name": "cep_entrepot_of_eastern_med"
+      },
+      {
+        "name": "cep_ionian_academy"
+      }
+    ]
+  },
+  "LOR": {
+    "ideas": [
+      {
+        "name": "lor_vosges"
+      },
+      {
+        "name": "lor_mines_of_lorraine"
+      },
+      {
+        "name": "lor_lotharingia"
+      },
+      {
+        "name": "lor_between_great_powers"
+      },
+      {
+        "name": "lor_two_languages"
+      },
+      {
+        "name": "lor_three_bishoprics"
+      },
+      {
+        "name": "lor_place_stanislas"
+      }
+    ]
+  },
+  "WUR": {
+    "ideas": [
+      {
+        "name": "wur_estates_of_wurtemberg"
+      },
+      {
+        "name": "wur_swabian_league"
+      },
+      {
+        "name": "wur_poor_conrad"
+      },
+      {
+        "name": "wur_swabian_circle"
+      },
+      {
+        "name": "wur_grosse_kirchenordnung"
+      },
+      {
+        "name": "wur_ludwigsburg"
+      },
+      {
+        "name": "wur_reichsdeputationshauptschluss"
+      }
+    ]
+  },
+  "SLO": {
+    "ideas": [
+      {
+        "name": "slo_rudohorie"
+      },
+      {
+        "name": "slo_universitas_istropolitana"
+      },
+      {
+        "name": "slo_golden_kremnica"
+      },
+      {
+        "name": "slo_land_of_castles"
+      },
+      {
+        "name": "slo_town_air_liberates"
+      },
+      {
+        "name": "slo_literary_language"
+      },
+      {
+        "name": "slo_slovak_national_awakening"
+      }
+    ]
+  },
+  "GLH": {
+    "ideas": [
+      {
+        "name": "glh_legacy_of_the_golden_horde"
+      },
+      {
+        "name": "glh_perso_mongol_administration"
+      },
+      {
+        "name": "glh_tatar_traditions"
+      },
+      {
+        "name": "glh_secure_the_trade_routes"
+      },
+      {
+        "name": "logistics_of_khan"
+      },
+      {
+        "name": "glh_populating_the_steppes"
+      },
+      {
+        "name": "glh_religious_pragmatism"
+      }
+    ]
+  },
+  "YUA": {
+    "ideas": [
+      {
+        "name": "yua_da_zai_qian_yuan"
+      },
+      {
+        "name": "yua_a_savage_kingdom_holy_and_enchanted"
+      },
+      {
+        "name": "yua_the_three_teachings_and_nine_schools_respected"
+      },
+      {
+        "name": "yua_keshik_and_weijun"
+      },
+      {
+        "name": "yua_a_thousand_miles_as_if_at_home"
+      },
+      {
+        "name": "yua_sino_mongol_administration"
+      },
+      {
+        "name": "yua_pax_mongolica"
+      }
+    ]
+  },
+  "BUK": {
+    "ideas": [
+      {
+        "name": "buk_jochid_patrimony"
+      },
+      {
+        "name": "buk_naqshbandi_patronage"
+      },
+      {
+        "name": "buk_mahalla_schools"
+      },
+      {
+        "name": "buk_the_jews_of_bukhara"
+      },
+      {
+        "name": "buk_the_ark"
+      },
+      {
+        "name": "buk_the_tower_of_death"
+      },
+      {
+        "name": "buk_sahih_al-bukhari"
+      }
+    ]
+  },
+  "ANS": {
+    "ideas": [
+      {
+        "name": "ans_land_of_the_hohenzollerns"
+      },
+      {
+        "name": "ans_restore_the_burgraviate"
+      },
+      {
+        "name": "ans_franconian_reformers"
+      },
+      {
+        "name": "ans_protestant_exiles"
+      },
+      {
+        "name": "ans_wolf_of_ansbach"
+      },
+      {
+        "name": "ans_fayencemanufaktur"
+      },
+      {
+        "name": "ans_dragoons_of_ansbach"
+      }
+    ]
+  },
+  "BYT": {
+    "ideas": [
+      {
+        "name": "byt_land_of_the_hohenzollerns"
+      },
+      {
+        "name": "ans_restore_the_burgraviate"
+      },
+      {
+        "name": "ans_plassenburg"
+      },
+      {
+        "name": "ans_franconian_reformers"
+      },
+      {
+        "name": "byt_ordre_de_la_sincerite"
+      },
+      {
+        "name": "byt_gravenreuther_stift"
+      },
+      {
+        "name": "byt_margravial_opera_house"
+      }
+    ]
+  },
+  "NUM": {
+    "ideas": [
+      {
+        "name": "num_imperial_regalia"
+      },
+      {
+        "name": "num_nuremberg_castle"
+      },
+      {
+        "name": "num_nuremberg_chronicle"
+      },
+      {
+        "name": "num_rostbratwurst"
+      },
+      {
+        "name": "num_franconian_center_of_reformation"
+      },
+      {
+        "name": "num_christkindlmarkt"
+      },
+      {
+        "name": "num_nuremberg_exchange"
+      }
+    ]
+  },
+  "BAM": {
+    "ideas": [
+      {
+        "name": "bam_bishop_of_bamberg"
+      },
+      {
+        "name": "bam_cathedral"
+      },
+      {
+        "name": "bam_city_of_beer"
+      },
+      {
+        "name": "bam_little_venice"
+      },
+      {
+        "name": "bam_witch_burner"
+      },
+      {
+        "name": "bam_vierzehnheiligen"
+      },
+      {
+        "name": "bam_university"
+      }
+    ]
+  },
+  "OKA": {
+    "ideas": [
+      {
+        "name": "oka_heirs_of_chernigov"
+      },
+      {
+        "name": "oka_dynamic_diplomacy"
+      },
+      {
+        "name": "oka_strengthen_our_tatar_ties"
+      },
+      {
+        "name": "oka_safeguard_agnatic_seniority"
+      },
+      {
+        "name": "oka_cities_of_the_upper_oka_valley"
+      },
+      {
+        "name": "oka_fortification_efforts"
+      },
+      {
+        "name": "oka_strengthen_the_oka_river_trade"
+      }
+    ]
+  },
+  "GHR": {
+    "ideas": [
+      {
+        "name": "ghr_52_garhs"
+      },
+      {
+        "name": "ghr_himalayan_kingdom"
+      },
+      {
+        "name": "ghr_rani_karnavati"
+      },
+      {
+        "name": "ghr_land_of_serene_beauty"
+      },
+      {
+        "name": "ghr_source_of_the_ganges"
+      },
+      {
+        "name": "ghr_land_of_the_gods"
+      },
+      {
+        "name": "ghr_crossroad_of_faiths"
+      }
+    ]
+  },
+  "DTT": {
+    "ideas": [
+      {
+        "name": "dtt_resistance_against_feudalism"
+      },
+      {
+        "name": "dtt_kirchspiele"
+      },
+      {
+        "name": "dtt_trade_missions"
+      },
+      {
+        "name": "dtt_expert_wreckers"
+      },
+      {
+        "name": "dtt_levees"
+      },
+      {
+        "name": "dtt_ecclesiacstiacl_order"
+      },
+      {
+        "name": "dtt_free_farmers"
+      }
+    ]
+  },
+  "AMA": {
+    "ideas": [
+      {
+        "name": "ama_omi_genji"
+      },
+      {
+        "name": "ama_izumo_shugo"
+      },
+      {
+        "name": "ama_gassan_toda_castle"
+      },
+      {
+        "name": "ama_ten_brave_warriors"
+      },
+      {
+        "name": "ama_coastal_trade"
+      },
+      {
+        "name": "ama_kizuki_shrine"
+      },
+      {
+        "name": "ama_iwami_ginzan"
+      }
+    ]
+  },
+  "HSK": {
+    "ideas": [
+      {
+        "name": "hsk_kanrei"
+      },
+      {
+        "name": "hsk_branches_and_retainers"
+      },
+      {
+        "name": "hsk_sakai_city"
+      },
+      {
+        "name": "hsk_leader_of_eastern_army"
+      },
+      {
+        "name": "hsk_ashigaru"
+      },
+      {
+        "name": "hsk_yamabushi"
+      },
+      {
+        "name": "hsk_horeki_reform"
+      }
+    ]
+  },
+  "UES": {
+    "ideas": [
+      {
+        "name": "ues_kanto_kanrei"
+      },
+      {
+        "name": "ues_yamanouchi_and_ogigayatsu_branches"
+      },
+      {
+        "name": "ues_kamakura_office"
+      },
+      {
+        "name": "ues_dragon_of_echigo"
+      },
+      {
+        "name": "ues_nokizaru"
+      },
+      {
+        "name": "ues_agakita_shu"
+      },
+      {
+        "name": "ues_denkoku_no_ji"
+      }
+    ]
+  },
+  "YMN": {
+    "ideas": [
+      {
+        "name": "ymn_descendant_of_nitta"
+      },
+      {
+        "name": "ymn_grand_shugo"
+      },
+      {
+        "name": "ymn_mediate_succession_disputes"
+      },
+      {
+        "name": "ymn_leader_of_western_army"
+      },
+      {
+        "name": "ymn_acquisition_of_torinin"
+      },
+      {
+        "name": "ymn_isolated_heartland"
+      },
+      {
+        "name": "ymn_reunification_of_branches"
+      }
+    ]
+  },
+  "DTE": {
+    "ideas": [
+      {
+        "name": "dte_oshu_shugo"
+      },
+      {
+        "name": "dte_expansion_trhough_marriages"
+      },
+      {
+        "name": "dte_renga_group"
+      },
+      {
+        "name": "dte_dragon_corps"
+      },
+      {
+        "name": "dte_red_seal_ships"
+      },
+      {
+        "name": "dte_keicho_embassy"
+      },
+      {
+        "name": "dte_intensive_domain_development"
+      }
+    ]
+  },
+  "SHN": {
+    "ideas": [
+      {
+        "name": "shn_vice_minister_of_dazaifu"
+      },
+      {
+        "name": "shn_defender_against_mongols"
+      },
+      {
+        "name": "shn_diplomacy_through_tsushima"
+      },
+      {
+        "name": "shn_nagasaki_city"
+      },
+      {
+        "name": "shn_bear_of_hizen"
+      },
+      {
+        "name": "shn_hagakure"
+      },
+      {
+        "name": "shn_nabeshima_reform"
+      }
+    ]
+  },
+  "OGS": {
+    "ideas": [
+      {
+        "name": "ogs_shinano_shugo"
+      },
+      {
+        "name": "ogs_suwa_taisha"
+      },
+      {
+        "name": "ogs_kiso_uma"
+      },
+      {
+        "name": "ogs_unification_of_ten_kori"
+      },
+      {
+        "name": "ogs_ogasawara_ryu"
+      },
+      {
+        "name": "ogs_improvment_of_nakasendo"
+      },
+      {
+        "name": "ogs_zenkoji"
+      }
+    ]
+  },
+  "OTM": {
+    "ideas": [
+      {
+        "name": "otm_domination_of_northern_kyushu"
+      },
+      {
+        "name": "otm_lord_of_bungo"
+      },
+      {
+        "name": "otm_brave_retainers"
+      },
+      {
+        "name": "otm_nanban_trade"
+      },
+      {
+        "name": "otm_christian_conversion"
+      },
+      {
+        "name": "otm_tensho_embassy"
+      },
+      {
+        "name": "otm_kunikuzushi"
+      }
+    ]
+  },
+  "OUC": {
+    "ideas": [
+      {
+        "name": "ouc_descendant_of_baekje"
+      },
+      {
+        "name": "ouc_korea_trade"
+      },
+      {
+        "name": "ouc_fight_against_wokou"
+      },
+      {
+        "name": "ouc_hakata_city"
+      },
+      {
+        "name": "ouc_mercantile_diplomacy"
+      },
+      {
+        "name": "ouc_welcome_missionaries"
+      },
+      {
+        "name": "ouc_retainer_factions"
+      }
+    ]
+  },
+  "UTN": {
+    "ideas": [
+      {
+        "name": "utn_fujiwara_descendant"
+      },
+      {
+        "name": "utn_legacy_of_nasu_no_yoichi"
+      },
+      {
+        "name": "utn_barrier_of_shirakawa"
+      },
+      {
+        "name": "utn_cadet_branches_in_western_japan"
+      },
+      {
+        "name": "utn_annexation_of_oyama_clan"
+      },
+      {
+        "name": "utn_mediator_of_kanto"
+      },
+      {
+        "name": "utn_mount_nikko"
+      }
+    ]
+  },
+  "ASK": {
+    "ideas": [
+      {
+        "name": "ask_head_of_the_genji"
+      },
+      {
+        "name": "ask_defender_of_the_imperial_court"
+      },
+      {
+        "name": "higashiyama_culture"
+      },
+      {
+        "name": "tosen_bugyo"
+      },
+      {
+        "name": "ask_bugyoshu_and_hokushu"
+      },
+      {
+        "name": "bakufu_chokkatsuchi"
+      },
+      {
+        "name": "ask_reform_shogun_shugo_system"
+      }
+    ]
+  },
+  "TKI": {
+    "ideas": [
+      {
+        "name": "tki_genji_in_mino"
+      },
+      {
+        "name": "tki_ranjatai"
+      },
+      {
+        "name": "tki_banner_of_balloonflower"
+      },
+      {
+        "name": "tki_inabayama_castle"
+      },
+      {
+        "name": "tki_peculation_of_aristocrat_mannors"
+      },
+      {
+        "name": "tki_saito_family"
+      },
+      {
+        "name": "tki_flood_control_of_three_rivers"
+      }
+    ]
+  },
+  "STK": {
+    "ideas": [
+      {
+        "name": "stk_hitachi_genji"
+      },
+      {
+        "name": "stk_dual_administration"
+      },
+      {
+        "name": "stk_suppression_of_ikki"
+      },
+      {
+        "name": "stk_kashima_jingu"
+      },
+      {
+        "name": "stk_eastern_coalitions"
+      },
+      {
+        "name": "stk_mito_castle"
+      },
+      {
+        "name": "stk_man_of_fidelity"
+      }
+    ]
+  },
+  "AKT": {
+    "ideas": [
+      {
+        "name": "akt_march_of_akita"
+      },
+      {
+        "name": "akt_foothold_in_hokkaido"
+      },
+      {
+        "name": "akt_clan_unification"
+      },
+      {
+        "name": "akt_expansion_of_trade_posts"
+      },
+      {
+        "name": "akt_ainu_campaigns"
+      },
+      {
+        "name": "akt_true_shogun_of_oshu"
+      },
+      {
+        "name": "akt_adoption_system"
+      }
+    ]
+  },
+  "CBA": {
+    "ideas": [
+      {
+        "name": "cba_lineage_of_taira"
+      },
+      {
+        "name": "cba_dream_of_masakado"
+      },
+      {
+        "name": "cba_coalition_with_kamakura_kubo"
+      },
+      {
+        "name": "cba_sakura_kadan"
+      },
+      {
+        "name": "cba_katori_jingu"
+      },
+      {
+        "name": "cba_irrigation_of_southern_kanto"
+      },
+      {
+        "name": "cba_naval_reform"
+      }
+    ]
+  },
+  "SMZ": {
+    "ideas": [
+      {
+        "name": "smz_satsuma_hayato"
+      },
+      {
+        "name": "smz_satsunan_school"
+      },
+      {
+        "name": "smz_reunion_of_three_provinces"
+      },
+      {
+        "name": "smz_tsurinobuse"
+      },
+      {
+        "name": "smz_tanegashima"
+      },
+      {
+        "name": "smz_ryukyu_trade"
+      },
+      {
+        "name": "smz_early_westernization"
+      }
+    ]
+  },
+  "ITO": {
+    "ideas": [
+      {
+        "name": "ito_gokenin_family"
+      },
+      {
+        "name": "ito_alliance_with_tsuchimochi_clan"
+      },
+      {
+        "name": "ito_land_of_gods_landing"
+      },
+      {
+        "name": "ito_anti_shugo_movement"
+      },
+      {
+        "name": "ito_network_of_fourtyeight_fortifications"
+      },
+      {
+        "name": "ito_sympathy_to_christians"
+      },
+      {
+        "name": "ito_foresty_development"
+      }
+    ]
+  },
+  "ISK": {
+    "ideas": [
+      {
+        "name": "isk_shugo_of_tango"
+      },
+      {
+        "name": "isk_minister_of_samurai_dokoro"
+      },
+      {
+        "name": "isk_bridge_of_heaven"
+      },
+      {
+        "name": "isk_reclaim_old_territories"
+      },
+      {
+        "name": "isk_inadome_gunnery"
+      },
+      {
+        "name": "isk_upgrade_roads"
+      },
+      {
+        "name": "isk_port_development"
+      }
+    ]
+  },
+  "TTI": {
+    "ideas": [
+      {
+        "name": "tti_warrior_monk"
+      },
+      {
+        "name": "tti_winner_of_eikyo_civil_war"
+      },
+      {
+        "name": "tti_kasuga_shrine"
+      },
+      {
+        "name": "tti_mountainous_province"
+      },
+      {
+        "name": "tti_nara_city"
+      },
+      {
+        "name": "tti_wise_opportunist"
+      },
+      {
+        "name": "tti_kofukuji_temple"
+      }
+    ]
+  },
+  "KKC": {
+    "ideas": [
+      {
+        "name": "kkc_disinguished_family_in_kyushu"
+      },
+      {
+        "name": "kkc_land_of_fire"
+      },
+      {
+        "name": "kkc_aso_schrine"
+      },
+      {
+        "name": "kkc_resistance_against_foreign_intervention"
+      },
+      {
+        "name": "kkc_religious_coexistence"
+      },
+      {
+        "name": "kkc_three_chief_retainers"
+      },
+      {
+        "name": "kkc_kumamoto_castle"
+      }
+    ]
+  },
+  "KNO": {
+    "ideas": [
+      {
+        "name": "kno_shugo_of_iyo"
+      },
+      {
+        "name": "kno_integration_of_cadet_branches"
+      },
+      {
+        "name": "kno_oyamazumi_shrine"
+      },
+      {
+        "name": "kno_yuzuki_castle"
+      },
+      {
+        "name": "kno_ruler_of_inland_sea"
+      },
+      {
+        "name": "kno_trade_with_asian_continent"
+      },
+      {
+        "name": "kno_murakami_suigun"
+      }
+    ]
+  },
+  "RFR": {
+    "ideas": [
+      {
+        "name": "rfr_genji_in_the_north"
+      },
+      {
+        "name": "rfr_owner_of_nine_gates"
+      },
+      {
+        "name": "rfr_connection_with_kyoto"
+      },
+      {
+        "name": "rfr_downfall_of_rebllious_vassals"
+      },
+      {
+        "name": "rfr_morioka_castle"
+      },
+      {
+        "name": "rfr_chosonji_temple"
+      },
+      {
+        "name": "rfr_fight_against_famines"
+      }
+    ]
+  },
+  "TKD": {
+    "ideas": [
+      {
+        "name": "tkd_leader_of_kai_genji"
+      },
+      {
+        "name": "tkd_river_dams"
+      },
+      {
+        "name": "tkd_information_network"
+      },
+      {
+        "name": "tkd_kurokawa_gold_mine"
+      },
+      {
+        "name": "tkd_koshu_hatto"
+      },
+      {
+        "name": "tkd_twentyfour_generals"
+      },
+      {
+        "name": "tkd_koyo_gunkan"
+      }
+    ]
+  },
+  "SBA": {
+    "ideas": [
+      {
+        "name": "sba_chief_of_military_office"
+      },
+      {
+        "name": "sba_shugo_of_three_provinces"
+      },
+      {
+        "name": "sba_consolidation_of_kanrei_position"
+      },
+      {
+        "name": "sba_atsuta_shrine"
+      },
+      {
+        "name": "sba_access_to_northern_japan"
+      },
+      {
+        "name": "sba_shiba_retainers"
+      },
+      {
+        "name": "sba_mogami_family"
+      }
+    ]
+  },
+  "BLO": {
+    "ideas": [
+      {
+        "name": "blo_martial_heritage"
+      },
+      {
+        "name": "blo_monastic_traditions"
+      },
+      {
+        "name": "blo_strengthen_local_lineages"
+      },
+      {
+        "name": "blo_control_the_northern_trade"
+      },
+      {
+        "name": "blo_officers_of_beloozero"
+      },
+      {
+        "name": "blo_winter_warfare"
+      },
+      {
+        "name": "blo_scientific_patronage"
+      }
+    ]
+  },
+  "RSO": {
+    "ideas": [
+      {
+        "name": "rso_unification_of_rostov"
+      },
+      {
+        "name": "rso_ancient_heritage"
+      },
+      {
+        "name": "rso_ecclesiastical_center"
+      },
+      {
+        "name": "rso_entrepot_of_russia"
+      },
+      {
+        "name": "rso_rostov_kremlin"
+      },
+      {
+        "name": "rso_political_influence"
+      },
+      {
+        "name": "rso_rostov_enamel"
+      }
+    ]
+  },
+  "MVA": {
+    "ideas": [
+      {
+        "name": "mva_margraviate"
+      },
+      {
+        "name": "mva_religious_refuge"
+      },
+      {
+        "name": "mva_cities_of_moravia"
+      },
+      {
+        "name": "mva_land_of_vinyards"
+      },
+      {
+        "name": "mva_german_quarters"
+      },
+      {
+        "name": "mva_jesuit_university"
+      },
+      {
+        "name": "mva_legacy_of_great_moravia"
+      }
+    ]
+  },
+  "EST": {
+    "ideas": [
+      {
+        "name": "est_brotherhood_of_blackheads"
+      },
+      {
+        "name": "est_baltic_cooperation"
+      },
+      {
+        "name": "est_castles_of_estonia"
+      },
+      {
+        "name": "est_academia_gustaviana"
+      },
+      {
+        "name": "est_baltic_trade"
+      },
+      {
+        "name": "est_estophilia"
+      },
+      {
+        "name": "est_national_awakening"
+      }
+    ]
+  },
+  "TPR": {
+    "ideas": [
+      {
+        "name": "tpr_rajmala"
+      },
+      {
+        "name": "tpr_adaptive_administration"
+      },
+      {
+        "name": "tpr_religious_syncretism"
+      },
+      {
+        "name": "tpr_extended_army_control"
+      },
+      {
+        "name": "tpr_appointment_of_missips"
+      },
+      {
+        "name": "jute_production"
+      },
+      {
+        "name": "tpr_strenghten_local_defences"
+      }
+    ]
+  },
+  "HAN": {
+    "ideas": [
+      {
+        "name": "han_niedersachsicher_reichskreis"
+      },
+      {
+        "name": "han_weser_renaissance"
+      },
+      {
+        "name": "han_shutzenfest"
+      },
+      {
+        "name": "han_herrenhausen_gardens"
+      },
+      {
+        "name": "han_strengthen_the_meiertum"
+      },
+      {
+        "name": "han_hanoverian_chancery"
+      },
+      {
+        "name": "han_kings_legion"
+      }
+    ]
+  },
+  "BRU": {
+    "ideas": [
+      {
+        "name": "bru_welfian_dynasty"
+      },
+      {
+        "name": "han_niedersachsicher_reichskreis"
+      },
+      {
+        "name": "bru_residenzstadt_wolfenbuttel"
+      },
+      {
+        "name": "bru_herzog_august_bibliothek"
+      },
+      {
+        "name": "bru_trade_guilds"
+      },
+      {
+        "name": "bru_leibnitz_lessing"
+      },
+      {
+        "name": "bru_schwarze_schar"
+      }
+    ]
+  },
+  "LUN": {
+    "ideas": [
+      {
+        "name": "lun_hansa_contacts"
+      },
+      {
+        "name": "bru_welfian_dynasty"
+      },
+      {
+        "name": "lun_staple_rights"
+      },
+      {
+        "name": "lun_dynastic_play"
+      },
+      {
+        "name": "han_niedersachsicher_reichskreis"
+      },
+      {
+        "name": "lun_adroit_diplomacy"
+      },
+      {
+        "name": "lun_lionhearted"
+      }
+    ]
+  },
+  "ULM": {
+    "ideas": [
+      {
+        "name": "ulm_grosser_schwoerbrief"
+      },
+      {
+        "name": "ulm_swabian_league"
+      },
+      {
+        "name": "ulm_german_realism"
+      },
+      {
+        "name": "ulm_duerer_fort"
+      },
+      {
+        "name": "ulm_textile_trade"
+      },
+      {
+        "name": "ulm_swiss_mercs"
+      },
+      {
+        "name": "ulm_minster"
+      }
+    ]
+  },
+  "AUG": {
+    "ideas": [
+      {
+        "name": "aug_augusta_vindelicorum"
+      },
+      {
+        "name": "aug_afra_ulrich"
+      },
+      {
+        "name": "aug_hans_holbein"
+      },
+      {
+        "name": "aug_fugger_welser"
+      },
+      {
+        "name": "aug_elias_holl"
+      },
+      {
+        "name": "aug_religionsfrieden"
+      },
+      {
+        "name": "aug_textile_industry"
+      }
+    ]
+  },
+  "FRN": {
+    "ideas": [
+      {
+        "name": "frn_buchmesse"
+      },
+      {
+        "name": "frn_imperial_elections"
+      },
+      {
+        "name": "frn_stock_exchange"
+      },
+      {
+        "name": "frn_postzeitung"
+      },
+      {
+        "name": "frn_cultural_center"
+      },
+      {
+        "name": "frn_sausages"
+      },
+      {
+        "name": "frn_freie_stadt"
+      }
+    ]
+  },
+  "KOL": {
+    "ideas": [
+      {
+        "name": "kol_pursuit_of_unity"
+      },
+      {
+        "name": "kol_archchancellor_of_italy"
+      },
+      {
+        "name": "kol_hanseatic_city"
+      },
+      {
+        "name": "kol_prime_minister"
+      },
+      {
+        "name": "kol_pivotal_ecclesiastic_territory"
+      },
+      {
+        "name": "kol_shifting_alliances"
+      },
+      {
+        "name": "kol_order_of_saint_michael"
+      }
+    ]
+  },
+  "MAI": {
+    "ideas": [
+      {
+        "name": "mai_archchancellor_of_germany"
+      },
+      {
+        "name": "mai_center_of_religious_learning"
+      },
+      {
+        "name": "mai_weck_worscht_woi"
+      },
+      {
+        "name": "mai_saint_hildegard"
+      },
+      {
+        "name": "mai_perpetual_privy_council"
+      },
+      {
+        "name": "mai_rhine_fortress"
+      },
+      {
+        "name": "mai_fifth_season"
+      }
+    ]
+  },
+  "TRI": {
+    "ideas": [
+      {
+        "name": "tri_crusader_past"
+      },
+      {
+        "name": "tri_university_of_trier"
+      },
+      {
+        "name": "tri_archchancellor_of_gaul"
+      },
+      {
+        "name": "tri_landesburgen"
+      },
+      {
+        "name": "tri_seamless_robe_of_jesus"
+      },
+      {
+        "name": "tri_prum_abbey"
+      },
+      {
+        "name": "tri_domkapitel"
+      }
+    ]
+  },
+  "AKK": {
+    "ideas": [
+      {
+        "name": "akk_white_sheep"
+      },
+      {
+        "name": "akk_unite_the_federation"
+      },
+      {
+        "name": "akk_turko_iranian_bureaucracy"
+      },
+      {
+        "name": "akk_apanages"
+      },
+      {
+        "name": "akk_expansive_diplomacy"
+      },
+      {
+        "name": "akk_religious_pragmatism"
+      },
+      {
+        "name": "akk_qanun_nama_ye_hasan"
+      }
+    ]
+  },
+  "KHO": {
+    "ideas": [
+      {
+        "name": "kho_land_of_the_rising_sun"
+      },
+      {
+        "name": "kho_rein_in_the_turko_mongol_emirs"
+      },
+      {
+        "name": "kho_princely_appanages"
+      },
+      {
+        "name": "kho_dynastic_chronicles"
+      },
+      {
+        "name": "kho_irrigation_network"
+      },
+      {
+        "name": "kho_great_sheiks_of_khorasan"
+      },
+      {
+        "name": "kho_protect_the_caravan_routes"
+      }
+    ]
+  },
+  "TRS": {
+    "ideas": [
+      {
+        "name": "trs_mawarannahr"
+      },
+      {
+        "name": "trs_threshold_of_paradise"
+      },
+      {
+        "name": "trs_adept_diplomacy"
+      },
+      {
+        "name": "trs_turkoman_cannoneers"
+      },
+      {
+        "name": "trs_scientific_patronage"
+      },
+      {
+        "name": "trs_entrepot_of_the_silk_road"
+      },
+      {
+        "name": "chagatai_literature"
+      }
+    ]
+  },
+  "QOM": {
+    "ideas": [
+      {
+        "name": "qom_jibal"
+      },
+      {
+        "name": "in_honor_of_ali"
+      },
+      {
+        "name": "qom_legacy_of_the_ilkhans"
+      },
+      {
+        "name": "qom_persian_language_and_court_culture"
+      },
+      {
+        "name": "qom_tribes_of_iraq_e_ajam"
+      },
+      {
+        "name": "reform_the_diwan"
+      },
+      {
+        "name": "qom_shahanshah"
+      }
+    ]
+  },
+  "FRS": {
+    "ideas": [
+      {
+        "name": "frs_land_of_the_persians"
+      },
+      {
+        "name": "frs_center_of_religion_and_philosophy"
+      },
+      {
+        "name": "frs_diplomatic_prudence"
+      },
+      {
+        "name": "frs_shirazi_wine"
+      },
+      {
+        "name": "frs_shirazi_school"
+      },
+      {
+        "name": "frs_integrate_the_qashqai"
+      },
+      {
+        "name": "frs_capital_for_an_empire"
+      }
+    ]
+  },
+  "LRI": {
+    "ideas": [
+      {
+        "name": "lri_kingdom_in_the_zagros_mountains"
+      },
+      {
+        "name": "lri_jadda_ye_atabak"
+      },
+      {
+        "name": "lri_haven_for_dissenters"
+      },
+      {
+        "name": "lri_popular_religion"
+      },
+      {
+        "name": "lri_looms_of_the_lurs"
+      },
+      {
+        "name": "lri_rise_of_the_lurs"
+      },
+      {
+        "name": "lri_foreign_trade"
+      }
+    ]
+  },
+  "QAR": {
+    "ideas": [
+      {
+        "name": "qar_black_sheep"
+      },
+      {
+        "name": "qar_governor_of_azerbaijan"
+      },
+      {
+        "name": "in_honor_of_ali"
+      },
+      {
+        "name": "qar_dynamic_warfare"
+      },
+      {
+        "name": "qar_freedom_with_responsibility"
+      },
+      {
+        "name": "qar_patron_of_iranian_culture"
+      },
+      {
+        "name": "qar_irrigation_and_public_works"
+      }
+    ]
+  },
+  "MHR": {
+    "ideas": [
+      {
+        "name": "mhr_lands_of_frankincense_and_the_khareef"
+      },
+      {
+        "name": "mhr_mercenary_traditions"
+      },
+      {
+        "name": "mhr_mahra_tribes"
+      },
+      {
+        "name": "mhr_pilots_of_the_arabian_sea"
+      },
+      {
+        "name": "mhr_camels"
+      },
+      {
+        "name": "mhr_book_of_navigation"
+      },
+      {
+        "name": "mhr_rein_in_the_chiefs"
+      }
+    ]
+  },
+  "YEM": {
+    "ideas": [
+      {
+        "name": "yem_al_yaman"
+      },
+      {
+        "name": "coffea_arabica"
+      },
+      {
+        "name": "yem_control_of_the_red_sea"
+      },
+      {
+        "name": "yem_yemeni_architecture"
+      },
+      {
+        "name": "yem_uniting_yemeni_tribes"
+      },
+      {
+        "name": "yem_promoting_yemeni_trade_ports"
+      },
+      {
+        "name": "yem_foreign_embassies"
+      }
+    ]
+  },
+  "RAS": {
+    "ideas": [
+      {
+        "name": "ras_living_imam"
+      },
+      {
+        "name": "ras_yemeni_highlands"
+      },
+      {
+        "name": "coffea_arabica"
+      },
+      {
+        "name": "ras_unite_rassid_state"
+      },
+      {
+        "name": "ras_mountain_strongholds"
+      },
+      {
+        "name": "ras_salt_in_water"
+      },
+      {
+        "name": "ras_secure_trade_monopolies"
+      }
+    ]
+  },
+  "MSY": {
+    "ideas": [
+      {
+        "name": "msy_fervent_millenarianism"
+      },
+      {
+        "name": "msy_messianic_legacy"
+      },
+      {
+        "name": "msy_swamp_warfare"
+      },
+      {
+        "name": "msy_arabistan"
+      },
+      {
+        "name": "msy_house_united"
+      },
+      {
+        "name": "msy_outward_pragmatism"
+      },
+      {
+        "name": "msy_sufis_shias_middle_east"
+      }
+    ]
+  },
+  "SIS": {
+    "ideas": [
+      {
+        "name": "sis_lake_hamun"
+      },
+      {
+        "name": "sis_saffarid_legacy"
+      },
+      {
+        "name": "sis_subjugation_of_tribes"
+      },
+      {
+        "name": "sis_loyal_service"
+      },
+      {
+        "name": "sis_overland_trade_routes"
+      },
+      {
+        "name": "sis_chronicles_of_sistan"
+      },
+      {
+        "name": "sis_scholars_of_sistan"
+      }
+    ]
+  },
+  "RUM": {
+    "ideas": [
+      {
+        "name": "rum_abul_fath"
+      },
+      {
+        "name": "rum_king_of_the_east_and_west"
+      },
+      {
+        "name": "rum_shahanshah"
+      },
+      {
+        "name": "rum_sultan_of_rum"
+      },
+      {
+        "name": "rum_sulan_al_bahrayn"
+      },
+      {
+        "name": "rum_sultan_al_muazzam"
+      },
+      {
+        "name": "rum_protector_of_dar_al_islam"
+      }
+    ]
+  },
+  "ARL": {
+    "ideas": [
+      {
+        "name": "arl_safavid_order"
+      },
+      {
+        "name": "arl_qizilbash"
+      },
+      {
+        "name": "arl_shiite_leadership"
+      },
+      {
+        "name": "arl_conversion_of_the_masses"
+      },
+      {
+        "name": "arl_religious_war"
+      },
+      {
+        "name": "arl_amili_mujtahids"
+      },
+      {
+        "name": "arl_shahs_of_iran"
+      }
+    ]
+  },
+  "SME": {
+    "ideas": [
+      {
+        "name": "sme_atabegs_of_samtskhe"
+      },
+      {
+        "name": "sme_proactive_diplomacy"
+      },
+      {
+        "name": "sme_fortresses_of_samtskhe"
+      },
+      {
+        "name": "sme_independent_ambitions"
+      },
+      {
+        "name": "sme_protect_trade_routes"
+      },
+      {
+        "name": "sme_frontier_warriors"
+      },
+      {
+        "name": "sme_sacred_land"
+      }
+    ]
+  },
+  "SRV": {
+    "ideas": [
+      {
+        "name": "srv_khalwati_order"
+      },
+      {
+        "name": "srv_fortresses_of_shirvan"
+      },
+      {
+        "name": "srv_tribesmen_of_the_caucasus"
+      },
+      {
+        "name": "srv_persianate_patronage"
+      },
+      {
+        "name": "srv_caspian_trade"
+      },
+      {
+        "name": "srv_shirvani_architecture"
+      },
+      {
+        "name": "srv_merchants_of_baku"
+      }
+    ]
+  },
+  "ALH": {
+    "ideas": [
+      {
+        "name": "alh_desert_warfare"
+      },
+      {
+        "name": "alh_lord_of_the_eastern_bedouin"
+      },
+      {
+        "name": "alh_pearls_of_the_persian_gulf"
+      },
+      {
+        "name": "alh_fortify_the_coastline"
+      },
+      {
+        "name": "alh_entrepot_of_india"
+      },
+      {
+        "name": "alh_a_modern_navy"
+      },
+      {
+        "name": "alh_legacy_of_rahmah_ibn_jabir"
+      }
+    ]
+  },
+  "HDR": {
+    "ideas": [
+      {
+        "name": "hdr_death_has_come"
+      },
+      {
+        "name": "hdr_tribes_of_hadramut"
+      },
+      {
+        "name": "hdr_hawtas"
+      },
+      {
+        "name": "hdr_encouraging_the_incense_trade"
+      },
+      {
+        "name": "hdr_sailors_of_the_indian_ocean"
+      },
+      {
+        "name": "hdr_hadramhi_diaspora"
+      },
+      {
+        "name": "hdr_distant_diplomacy"
+      }
+    ]
+  },
+  "HSN": {
+    "ideas": [
+      {
+        "name": "hsn_citadels_and_fortesses"
+      },
+      {
+        "name": "hsn_ayyubid_heritage"
+      },
+      {
+        "name": "hsn_righteousness_of_the_faith"
+      },
+      {
+        "name": "hsn_elite_warriors"
+      },
+      {
+        "name": "hsn_rise_of_the_eagle_idea"
+      },
+      {
+        "name": "hsn_strenghten_central_authority"
+      },
+      {
+        "name": "hsn_state_economics"
+      }
+    ]
+  },
+  "KTB": {
+    "ideas": [
+      {
+        "name": "ktb_unification_of_ise"
+      },
+      {
+        "name": "ktb_blessing_of_amaterasu"
+      },
+      {
+        "name": "ktb_southern_court"
+      },
+      {
+        "name": "ktb_kuki_suigun"
+      },
+      {
+        "name": "ktb_men_of_quality"
+      },
+      {
+        "name": "ktb_iga_ryu"
+      },
+      {
+        "name": "ktb_the_march_of_kitabatake_akiee"
+      }
+    ]
+  },
+  "ODA": {
+    "ideas": [
+      {
+        "name": "oda_rakuichi_rakuza"
+      },
+      {
+        "name": "oda_tenka_fubu"
+      },
+      {
+        "name": "oda_generals"
+      },
+      {
+        "name": "oda_azuchi_castle"
+      },
+      {
+        "name": "oda_triple_firing"
+      },
+      {
+        "name": "oda_patronization_of_the_west"
+      },
+      {
+        "name": "oda_kenchi"
+      }
+    ]
+  },
+  "TKG": {
+    "ideas": [
+      {
+        "name": "tkg_mikawa_bushi"
+      },
+      {
+        "name": "tkg_strengthen_the_sekisho_network"
+      },
+      {
+        "name": "tkg_hatamoto"
+      },
+      {
+        "name": "tkg_metsuke"
+      },
+      {
+        "name": "tkg_matsudaira_branches"
+      },
+      {
+        "name": "tkg_toshogu"
+      },
+      {
+        "name": "tkg_famine_policies"
+      }
+    ]
+  },
+  "MAS": {
+    "ideas": [
+      {
+        "name": "mas_hinalliwood"
+      },
+      {
+        "name": "mas_legacy_of_panai"
+      },
+      {
+        "name": "mas_riches_of_the_visayas"
+      },
+      {
+        "name": "mas_masters_of_maritime_warfare"
+      },
+      {
+        "name": "mas_articles_of_the_confederation"
+      },
+      {
+        "name": "mas_kinaduatan"
+      },
+      {
+        "name": "mas_expand_the_shipbuilding_sector"
+      }
+    ]
+  },
+  "BTU": {
+    "ideas": [
+      {
+        "name": "btu_indianized_society"
+      },
+      {
+        "name": "btu_northern_nusantara"
+      },
+      {
+        "name": "btu_butuan_trade_connections"
+      },
+      {
+        "name": "btu_butuan_goldwork"
+      },
+      {
+        "name": "btu_balangay"
+      },
+      {
+        "name": "btu_protect_the_coastlines"
+      },
+      {
+        "name": "btu_long_range_diplomacy"
+      }
+    ]
+  },
+  "CEB": {
+    "ideas": [
+      {
+        "name": "ceb_lumayas_ambition"
+      },
+      {
+        "name": "ceb_chola_legacy"
+      },
+      {
+        "name": "ceb_protect_against_the_magalos"
+      },
+      {
+        "name": "ceb_pacify_the_islands"
+      },
+      {
+        "name": "ceb_place_for_trading"
+      },
+      {
+        "name": "ceb_befriend_the_europeans"
+      },
+      {
+        "name": "ceb_expansion_of_the_capital"
+      }
+    ]
+  },
+  "ANU": {
+    "ideas": [
+      {
+        "name": "anu_chasi"
+      },
+      {
+        "name": "anu_riches_of_the_sea"
+      },
+      {
+        "name": "anu_southern_traders"
+      },
+      {
+        "name": "anu_heirs_of_jomon"
+      },
+      {
+        "name": "anu_hunters_and_warriors"
+      },
+      {
+        "name": "anu_yukar"
+      },
+      {
+        "name": "anu_fierce_resistance"
+      }
+    ]
+  },
+  "HJO": {
+    "ideas": [
+      {
+        "name": "hjo_legacy_of_the_kamakura_shogunate"
+      },
+      {
+        "name": "hjo_night_combat"
+      },
+      {
+        "name": "hjo_effective_administration"
+      },
+      {
+        "name": "hjo_tokusei"
+      },
+      {
+        "name": "hjo_castles_of_hojo"
+      },
+      {
+        "name": "hjo_unification_of_kanto"
+      },
+      {
+        "name": "hjo_council_in_odawara"
+      }
+    ]
+  },
+  "CSK": {
+    "ideas": [
+      {
+        "name": "csk_ichiryo_gusoku"
+      },
+      {
+        "name": "csk_seven_clans_of_tosa"
+      },
+      {
+        "name": "csk_unification_of_shikoku"
+      },
+      {
+        "name": "csk_100_article_code"
+      },
+      {
+        "name": "csk_expand_the_navy"
+      },
+      {
+        "name": "csk_god_of_arts"
+      },
+      {
+        "name": "csk_active_support_of_temples"
+      }
+    ]
+  },
+  "MRI": {
+    "ideas": [
+      {
+        "name": "mri_descendant_of_oe_hiromoto"
+      },
+      {
+        "name": "mri_leader_of_kokujin_ikki"
+      },
+      {
+        "name": "mri_diplomatic_intrigues"
+      },
+      {
+        "name": "mri_three_arrows"
+      },
+      {
+        "name": "mri_hiroshima_castle"
+      },
+      {
+        "name": "mri_itsukushima_shrine"
+      },
+      {
+        "name": "mri_hagi_ware"
+      }
+    ]
+  },
+  "ASA": {
+    "ideas": [
+      {
+        "name": "asa_hidden_diplomacy"
+      },
+      {
+        "name": "asa_echizen_paper"
+      },
+      {
+        "name": "asa_ichijodani_city"
+      },
+      {
+        "name": "asa_teach_of_asakura_soteki"
+      },
+      {
+        "name": "asa_seventeen_clan_code"
+      },
+      {
+        "name": "asa_control_of_buddhist_sects"
+      },
+      {
+        "name": "asa_legacy_of_emperor_keitai"
+      }
+    ]
+  },
+  "KID": {
+    "ideas": [
+      {
+        "name": "kid_lords_of_ireland"
+      },
+      {
+        "name": "kid_ear_of_the_king"
+      },
+      {
+        "name": "kid_silken_finery"
+      },
+      {
+        "name": "wizard_earl"
+      },
+      {
+        "name": "the_curragh"
+      },
+      {
+        "name": "kid_architects_of_nation"
+      },
+      {
+        "name": "kid_royal_irish_army"
+      }
+    ]
+  },
+  "TYR": {
+    "ideas": [
+      {
+        "name": "tyr_chief_of_irish_kings"
+      },
+      {
+        "name": "tyr_o_neill_mor"
+      },
+      {
+        "name": "tyr_tanistry"
+      },
+      {
+        "name": "tyr_arming_people"
+      },
+      {
+        "name": "tyr_catholic_diplomacy"
+      },
+      {
+        "name": "tyr_ambush_warfare"
+      },
+      {
+        "name": "tyr_wild_geese"
+      }
+    ]
+  },
+  "TRY": {
+    "ideas": [
+      {
+        "name": "try_fort_foreigners"
+      },
+      {
+        "name": "try_fisher_king"
+      },
+      {
+        "name": "try_religious_patrons"
+      },
+      {
+        "name": "try_patricks_purgatory"
+      },
+      {
+        "name": "try_lessons_knockavoe"
+      },
+      {
+        "name": "try_land_of_exiles"
+      },
+      {
+        "name": "try_scottish_ties"
+      }
+    ]
+  },
+  "MCM": {
+    "ideas": [
+      {
+        "name": "mcm_basque_fishermen"
+      },
+      {
+        "name": "mcm_brave_and_faithful"
+      },
+      {
+        "name": "mcm_hill_raiders"
+      },
+      {
+        "name": "mcm_spanish_ties"
+      },
+      {
+        "name": "mcm_fairer_shores"
+      },
+      {
+        "name": "mcm_pirate_haven"
+      },
+      {
+        "name": "mcm_enemies_everywhere"
+      }
+    ]
+  },
+  "LEI": {
+    "ideas": [
+      {
+        "name": "legacy_of_palladius"
+      },
+      {
+        "name": "lei_black_rent"
+      },
+      {
+        "name": "lei_enemy_of_enemy"
+      },
+      {
+        "name": "lei_strong_cunning"
+      },
+      {
+        "name": "lei_long_memories"
+      },
+      {
+        "name": "lei_geraldine_league"
+      },
+      {
+        "name": "lei_military_academy"
+      }
+    ]
+  },
+  "CNN": {
+    "ideas": [
+      {
+        "name": "cnn_14_tribes"
+      },
+      {
+        "name": "cnn_fire_and_sword"
+      },
+      {
+        "name": "cnn_sea_people"
+      },
+      {
+        "name": "cnn_irish_hobby"
+      },
+      {
+        "name": "cnn_hell_or_connacht"
+      },
+      {
+        "name": "cnn_catholicism"
+      },
+      {
+        "name": "cnn_lord_presidency"
+      }
+    ]
+  },
+  "ORD": {
+    "ideas": [
+      {
+        "name": "ord_english_service"
+      },
+      {
+        "name": "ord_courts_of_europe"
+      },
+      {
+        "name": "ord_wool_earl"
+      },
+      {
+        "name": "ord_locals_in_line"
+      },
+      {
+        "name": "ord_irish_rivalries"
+      },
+      {
+        "name": "ord_subdue_irish"
+      },
+      {
+        "name": "ord_build_on_success"
+      },
+      {
+        "name": "irish"
+      },
+      {
+        "name": "irish_endurance"
+      },
+      {
+        "name": "the_clanns"
+      },
+      {
+        "name": "more_than_irish"
+      },
+      {
+        "name": "loyal_catholics"
+      },
+      {
+        "name": "ire_abundant_harvests"
+      },
+      {
+        "name": "unconquerable_ireland"
+      },
+      {
+        "name": "ire_gallowglasses"
+      }
+    ]
+  },
+  "ULS": {
+    "ideas": [
+      {
+        "name": "uls_clan_connections"
+      },
+      {
+        "name": "uls_peerage"
+      },
+      {
+        "name": "civilist_of_irishry"
+      },
+      {
+        "name": "rapparee"
+      },
+      {
+        "name": "catholic_ascendency"
+      },
+      {
+        "name": "uls_defenders"
+      },
+      {
+        "name": "uls_last_redoubt"
+      }
+    ]
+  },
+  "FLY": {
+    "ideas": [
+      {
+        "name": "fly_galloglas"
+      },
+      {
+        "name": "fly_gracious_hosts"
+      },
+      {
+        "name": "fly_trade_shannon"
+      },
+      {
+        "name": "fly_clonmacnoise"
+      },
+      {
+        "name": "fly_tower_houses"
+      },
+      {
+        "name": "fly_family_affair"
+      },
+      {
+        "name": "fly_buannacht"
+      }
+    ]
+  },
+  "CRN": {
+    "ideas": [
+      {
+        "name": "crn_stannary_parliaments"
+      },
+      {
+        "name": "crn_cornish_rebels"
+      },
+      {
+        "name": "crn_prayer_book_traditionaliism"
+      },
+      {
+        "name": "crn_pirates_of_penzance"
+      },
+      {
+        "name": "crn_royalist_army"
+      },
+      {
+        "name": "crn_gear_rout"
+      },
+      {
+        "name": "crn_arthurian_romanticism"
+      }
+    ]
+  },
+  "KOI": {
+    "ideas": [
+      {
+        "name": "mann_stanleys"
+      },
+      {
+        "name": "mann_kings"
+      },
+      {
+        "name": "mann_tynwald"
+      },
+      {
+        "name": "mann_and_the_isles"
+      },
+      {
+        "name": "mann_act_of_settlement"
+      },
+      {
+        "name": "mann_burn_the_heretic"
+      },
+      {
+        "name": "mann_act_of_revestment"
+      }
+    ]
+  },
+  "MTH": {
+    "ideas": [
+      {
+        "name": "innefectual_overlords"
+      },
+      {
+        "name": "foreign_nationals"
+      },
+      {
+        "name": "mth_parliament_of_ireland"
+      },
+      {
+        "name": "mth_englishtown"
+      },
+      {
+        "name": "mth_the_cess"
+      },
+      {
+        "name": "mth_trinity_college"
+      },
+      {
+        "name": "mth_siege_mentality"
+      }
+    ]
+  },
+  "FRI": {
+    "ideas": [
+      {
+        "name": "fri_coastal_industry"
+      },
+      {
+        "name": "fri_upstalsboom_league"
+      },
+      {
+        "name": "fri_dutch_courage"
+      },
+      {
+        "name": "fri_zuiderzee_settlements"
+      },
+      {
+        "name": "fri_flooding_polders"
+      },
+      {
+        "name": "fri_mennonism"
+      },
+      {
+        "name": "fri_brothers_arms"
+      }
+    ]
+  },
+  "UTR": {
+    "ideas": [
+      {
+        "name": "utr_devotio_moderna"
+      },
+      {
+        "name": "utr_ex_cathedra"
+      },
+      {
+        "name": "utr_fortified_town"
+      },
+      {
+        "name": "utr_vaartse_rijn"
+      },
+      {
+        "name": "utr_city_churches"
+      },
+      {
+        "name": "utr_cultural_resilience"
+      },
+      {
+        "name": "utr_enlightenment_masses"
+      }
+    ]
+  },
+  "FLA": {
+    "ideas": [
+      {
+        "name": "fla_cloth"
+      },
+      {
+        "name": "fla_land_reclamation"
+      },
+      {
+        "name": "fla_beeldenstorm"
+      },
+      {
+        "name": "fla_painters"
+      },
+      {
+        "name": "fla_ship_building"
+      },
+      {
+        "name": "fla_university"
+      },
+      {
+        "name": "fla_noose_bearers"
+      }
+    ]
+  },
+  "BRB": {
+    "ideas": [
+      {
+        "name": "brb_charter_of_liberty"
+      },
+      {
+        "name": "brb_marsh_warfare"
+      },
+      {
+        "name": "brb_palace_coudenberg"
+      },
+      {
+        "name": "brb_sugar_capital"
+      },
+      {
+        "name": "brb_antwerp_banking"
+      },
+      {
+        "name": "brb_religious_tolerance"
+      },
+      {
+        "name": "brb_generality_lands"
+      }
+    ]
+  },
+  "LIE": {
+    "ideas": [
+      {
+        "name": "lie_guild_democracy"
+      },
+      {
+        "name": "wars_of_liege"
+      },
+      {
+        "name": "lie_religious_devotion"
+      },
+      {
+        "name": "lie_wittelsbach_bishops"
+      },
+      {
+        "name": "lie_prince_bishop_palace"
+      },
+      {
+        "name": "lie_literary_society"
+      },
+      {
+        "name": "lie_rights_of_man"
+      }
+    ]
+  },
+  "GEL": {
+    "ideas": [
+      {
+        "name": "gel_county_duchy"
+      },
+      {
+        "name": "gel_hanseatic"
+      },
+      {
+        "name": "gel_defy_burgundy"
+      },
+      {
+        "name": "gel_rivers"
+      },
+      {
+        "name": "gel_gelderland_wars"
+      },
+      {
+        "name": "gel_looting"
+      },
+      {
+        "name": "gel_diplomatic_expansion"
+      }
+    ]
+  },
+  "EFR": {
+    "ideas": [
+      {
+        "name": "efr_chiefs"
+      },
+      {
+        "name": "efr_saxon_feud"
+      },
+      {
+        "name": "efr_religious_thought"
+      },
+      {
+        "name": "efr_dutch_migrants"
+      },
+      {
+        "name": "efr_mennonism"
+      },
+      {
+        "name": "efr_city_autonomy"
+      },
+      {
+        "name": "efr_emden_company"
+      }
+    ]
+  },
+  "AAC": {
+    "ideas": [
+      {
+        "name": "aac_charlemagne_capital"
+      },
+      {
+        "name": "aac_free_city"
+      },
+      {
+        "name": "aac_spa"
+      },
+      {
+        "name": "aac_guilds"
+      },
+      {
+        "name": "aac_expel_heretics"
+      },
+      {
+        "name": "aac_baroque"
+      },
+      {
+        "name": "aac_congresses"
+      }
+    ]
+  },
+  "KLE": {
+    "ideas": [
+      {
+        "name": "kle_walled_cities"
+      },
+      {
+        "name": "kle_cleves_mark"
+      },
+      {
+        "name": "kle_reformers"
+      },
+      {
+        "name": "kle_marriages"
+      },
+      {
+        "name": "kle_united_duchies"
+      },
+      {
+        "name": "kle_educated_duisburg"
+      },
+      {
+        "name": "kle_renovate_swan_castle"
+      }
+    ]
+  },
+  "DEC": {
+    "ideas": [
+      {
+        "name": "dakani_language"
+      },
+      {
+        "name": "dec_diwan_funding"
+      },
+      {
+        "name": "dec_foreign_trade_privileges"
+      },
+      {
+        "name": "dec_empower_paigah"
+      },
+      {
+        "name": "dec_modernize_the_sarf_e_khas"
+      },
+      {
+        "name": "dec_jewels_of_the_nizams"
+      },
+      {
+        "name": "dec_encourage_industries"
+      }
+    ]
+  },
+  "DLH": {
+    "ideas": [
+      {
+        "name": "dlh_afghan_nobility"
+      },
+      {
+        "name": "dlh_suppress_rebellion"
+      },
+      {
+        "name": "dlh_expansionism"
+      },
+      {
+        "name": "dlh_textile_innovation"
+      },
+      {
+        "name": "dlh_reconquest"
+      },
+      {
+        "name": "dlh_grand_trunk"
+      },
+      {
+        "name": "dlh_throne_of_india"
+      }
+    ]
+  },
+  "BHA": {
+    "ideas": [
+      {
+        "name": "bha_modernized_war_elephants"
+      },
+      {
+        "name": "bha_united_india"
+      },
+      {
+        "name": "bha_sanskrit_golden_age"
+      },
+      {
+        "name": "bha_indian_army"
+      },
+      {
+        "name": "bha_ganga"
+      },
+      {
+        "name": "bha_brahmin_administration"
+      },
+      {
+        "name": "bha_rocketry"
+      }
+    ]
+  },
+  "HIN": {
+    "ideas": [
+      {
+        "name": "hin_sepahi"
+      },
+      {
+        "name": "hin_persianate_court"
+      },
+      {
+        "name": "hin_indian_empire"
+      },
+      {
+        "name": "hin_peacock_throne"
+      },
+      {
+        "name": "hin_gunpowder_empire"
+      },
+      {
+        "name": "hin_sufism"
+      },
+      {
+        "name": "hin_industrialization"
+      }
+    ]
+  },
+  "RJP": {
+    "ideas": [
+      {
+        "name": "rjp_imperial_legacy"
+      },
+      {
+        "name": "rjp_land_of_petty_princes"
+      },
+      {
+        "name": "marwari_horses"
+      },
+      {
+        "name": "rjp_purbia_legacy"
+      },
+      {
+        "name": "rjp_protectors_of_the_dharma"
+      },
+      {
+        "name": "rjp_expanded_artillery_arm"
+      },
+      {
+        "name": "rjp_monumental_architecture"
+      }
+    ]
+  },
+  "NAG": {
+    "ideas": [
+      {
+        "name": "nag_unite_gonds_and_garjats"
+      },
+      {
+        "name": "nag_harsh_terrain"
+      },
+      {
+        "name": "nag_send_for_artisans"
+      },
+      {
+        "name": "nag_invite_maratha_warriors"
+      },
+      {
+        "name": "nag_light_cav"
+      },
+      {
+        "name": "nag_cultivating_the_forest"
+      },
+      {
+        "name": "nag_no_cb_best_cb"
+      }
+    ]
+  },
+  "MER": {
+    "ideas": [
+      {
+        "name": "mer_rajput_heartland"
+      },
+      {
+        "name": "mer_victory_tower"
+      },
+      {
+        "name": "mer_kumbhalgarh"
+      },
+      {
+        "name": "mer_city_of_lakes"
+      },
+      {
+        "name": "mer_recall_purbias"
+      },
+      {
+        "name": "mer_firearm_drilling"
+      },
+      {
+        "name": "mer_reorganized_rajput_regiments"
+      }
+    ]
+  },
+  "BNG": {
+    "ideas": [
+      {
+        "name": "bng_combat_piracy"
+      },
+      {
+        "name": "bng_habshi_generals"
+      },
+      {
+        "name": "bng_clearing_the_delta"
+      },
+      {
+        "name": "bng_attract_sufis"
+      },
+      {
+        "name": "bng_conquest_of_the_gangetic_plain"
+      },
+      {
+        "name": "bng_rupees"
+      },
+      {
+        "name": "bng_bengali_industrialization"
+      }
+    ]
+  },
+  "GUJ": {
+    "ideas": [
+      {
+        "name": "garba"
+      },
+      {
+        "name": "jain_routes"
+      },
+      {
+        "name": "gujarati_lipi"
+      },
+      {
+        "name": "merchant_diaspora"
+      },
+      {
+        "name": "spice_trade"
+      },
+      {
+        "name": "western_factors"
+      },
+      {
+        "name": "guj_africa"
+      }
+    ]
+  },
+  "SND": {
+    "ideas": [
+      {
+        "name": "snd_enduring_dynasty"
+      },
+      {
+        "name": "snd_bab_ul_islam"
+      },
+      {
+        "name": "snd_gujarati_connections"
+      },
+      {
+        "name": "snd_makli_necropolis"
+      },
+      {
+        "name": "snd_end_judicial_corruption"
+      },
+      {
+        "name": "snd_oversee_rise_of_thatta"
+      },
+      {
+        "name": "snd_recruit_baloch_tribesmen"
+      }
+    ]
+  },
+  "DHU": {
+    "ideas": [
+      {
+        "name": "dhu_improve_amer_fort"
+      },
+      {
+        "name": "dhu_seek_protection_of_great_powers"
+      },
+      {
+        "name": "dhu_restore_hindu_ceremonies"
+      },
+      {
+        "name": "dhu_foundation_of_jaipur"
+      },
+      {
+        "name": "dhu_battles_in_foreign_lands"
+      },
+      {
+        "name": "dhu_astronomical_education"
+      },
+      {
+        "name": "dhu_recruit_from_the_pindari"
+      }
+    ]
+  },
+  "MYS": {
+    "ideas": [
+      {
+        "name": "mys_unification_of_mysore"
+      },
+      {
+        "name": "mys_patronize_kannada_literature"
+      },
+      {
+        "name": "mys_religious_tolerance"
+      },
+      {
+        "name": "mys_reform_silk_industry"
+      },
+      {
+        "name": "mys_rockets"
+      },
+      {
+        "name": "mys_reform_mysorean_army"
+      },
+      {
+        "name": "mys_dynamic_diplomacy"
+      }
+    ]
+  },
+  "RIG": {
+    "ideas": [
+      {
+        "name": "rig_legacy_of_bishop_albert"
+      },
+      {
+        "name": "rig_hanseatic_port"
+      },
+      {
+        "name": "rig_monopoly_rights"
+      },
+      {
+        "name": "rig_denounce_witchcraft"
+      },
+      {
+        "name": "rig_free_city"
+      },
+      {
+        "name": "rig_fortify_riga"
+      },
+      {
+        "name": "rig_restore_brothers_of_the_sword"
+      }
+    ]
+  },
+  "LTG": {
+    "ideas": [
+      {
+        "name": "ltg_daugava_river_trade"
+      },
+      {
+        "name": "ltg_diplomatic_overtures"
+      },
+      {
+        "name": "ltg_religious_flexibility"
+      },
+      {
+        "name": "ltg_latvian_people"
+      },
+      {
+        "name": "ltg_modernize_livonian_castles"
+      },
+      {
+        "name": "ltg_daina"
+      },
+      {
+        "name": "ltg_reduction_of_noble_lands"
+      }
+    ]
+  },
+  "CRI": {
+    "ideas": [
+      {
+        "name": "cri_genghisid_legacy"
+      },
+      {
+        "name": "cri_slavers"
+      },
+      {
+        "name": "cri_ruthenian_raids"
+      },
+      {
+        "name": "cri_despoilers"
+      },
+      {
+        "name": "cri_free_cattle_grazing"
+      },
+      {
+        "name": "cri_settle_the_steppes"
+      },
+      {
+        "name": "cri_allow_nogai_protectorates"
+      }
+    ]
+  },
+  "CHR": {
+    "ideas": [
+      {
+        "name": "chr_legacy_of_the_old_principality"
+      },
+      {
+        "name": "chr_cossack_regiments"
+      },
+      {
+        "name": "chr_regimental_barracks"
+      },
+      {
+        "name": "chr_konotop_fortress"
+      },
+      {
+        "name": "chr_local_councils"
+      },
+      {
+        "name": "chr_renovate_transfiguration_cathedral"
+      },
+      {
+        "name": "chr_cultivate_the_east_dniepr"
+      }
+    ]
+  },
+  "ILK": {
+    "ideas": [
+      {
+        "name": "ilk_restored_ilkhanate"
+      },
+      {
+        "name": "ilk_favor_sufism"
+      },
+      {
+        "name": "ilk_persian_language_at_court"
+      },
+      {
+        "name": "ilk_yam_networks"
+      },
+      {
+        "name": "ilk_mongol_peace"
+      },
+      {
+        "name": "ilk_patronize_observatories"
+      },
+      {
+        "name": "ilk_recruit_turkoman_gunners"
+      }
+    ]
+  },
+  "SYN": {
+    "ideas": [
+      {
+        "name": "synth_logic_engines"
+      },
+      {
+        "name": "synth_loyalty_circuits"
+      },
+      {
+        "name": "synth_durable"
+      },
+      {
+        "name": "synth_mass_produced"
+      },
+      {
+        "name": "synth_propaganda_machines"
+      },
+      {
+        "name": "synth_harvesters"
+      },
+      {
+        "name": "synth_emotion_emulators"
+      }
+    ]
+  },
+  "MOR": {
+    "ideas": [
+      {
+        "name": "mor_powerful_viziers"
+      },
+      {
+        "name": "mor_marabouts"
+      },
+      {
+        "name": "trans_saharan_trade"
+      },
+      {
+        "name": "mor_fleet"
+      },
+      {
+        "name": "mor_pirate_republics"
+      },
+      {
+        "name": "mor_slave_soldiers"
+      },
+      {
+        "name": "mor_curb_power_of_the_tribes"
+      }
+    ]
+  },
+  "TUN": {
+    "ideas": [
+      {
+        "name": "tun_catalan_guard"
+      },
+      {
+        "name": "dual_diplomacy"
+      },
+      {
+        "name": "corsairs"
+      },
+      {
+        "name": "tun_attract_foreign_pirates"
+      },
+      {
+        "name": "tun_board_of_captains"
+      },
+      {
+        "name": "tun_export_monopolies"
+      },
+      {
+        "name": "tun_caliphate"
+      }
+    ]
+  },
+  "TEX": {
+    "ideas": [
+      {
+        "name": "lone_star_state"
+      },
+      {
+        "name": "tex_revolution"
+      },
+      {
+        "name": "cotton_plantations"
+      },
+      {
+        "name": "vaqueros"
+      },
+      {
+        "name": "tex_native_frontiers"
+      },
+      {
+        "name": "tejanos"
+      },
+      {
+        "name": "adelsverin"
+      }
+    ]
+  },
+  "CSC": {
+    "ideas": [
+      {
+        "name": "the_hudson_bay_company"
+      }
+    ]
+  },
+  "ASU": {
+    "ideas": [
+      {
+        "name": "asu_reconquista"
+      },
+      {
+        "name": "asu_camino_de_santiago"
+      },
+      {
+        "name": "asu_aristocracy"
+      },
+      {
+        "name": "asu_colonialism"
+      },
+      {
+        "name": "asu_millenarian_revival"
+      },
+      {
+        "name": "asu_unify_the_provinces"
+      },
+      {
+        "name": "asu_early_industrialism"
+      }
+    ]
+  },
+  "ADU": {
+    "ideas": [
+      {
+        "name": "adu_stand_against_the_reconquista"
+      },
+      {
+        "name": "adu_taifa_adminstration"
+      },
+      {
+        "name": "adu_ahl_uhl_dhimma"
+      },
+      {
+        "name": "adu_legacy_of_ibn_arabi"
+      },
+      {
+        "name": "adu_jund_settlements"
+      },
+      {
+        "name": "adu_expeditionary_sentiment"
+      },
+      {
+        "name": "adu_al_awasim"
+      }
+    ]
+  },
+  "SOO": {
+    "ideas": [
+      {
+        "name": "soo_wakan"
+      },
+      {
+        "name": "soo_tradition_of_wakou"
+      },
+      {
+        "name": "soo_fight_for_tsushima"
+      },
+      {
+        "name": "soo_bahan_ship"
+      },
+      {
+        "name": "soo_tough_negotiator"
+      },
+      {
+        "name": "soo_port_improvement"
+      },
+      {
+        "name": "soo_elementary_school"
+      }
+    ]
+  },
+  "OIR": {
+    "ideas": [
+      {
+        "name": "fearsome_warriors_of_tumu"
+      },
+      {
+        "name": "life_of_steppe_warrior"
+      },
+      {
+        "name": "the_four_oirats"
+      },
+      {
+        "name": "todo_besheg_script"
+      },
+      {
+        "name": "defiance_of_the_dzungars"
+      },
+      {
+        "name": "glory_of_conquest"
+      }
+    ]
+  },
+  "KHA": {
+    "ideas": [
+      {
+        "name": "ghostly_horses_of_the_plain"
+      },
+      {
+        "name": "ikh_mongol_uls"
+      },
+      {
+        "name": "life_of_steppe_warrior"
+      },
+      {
+        "name": "northern_yuan"
+      },
+      {
+        "name": "yams_of_the_great_khan"
+      },
+      {
+        "name": "mongolian_mobility"
+      }
+    ]
+  },
+  "CHG": {
+    "ideas": [
+      {
+        "name": "the_mountain_khanate"
+      },
+      {
+        "name": "sons_of_chagatai"
+      },
+      {
+        "name": "tradition_of_conquest"
+      },
+      {
+        "name": "glory_of_conquest"
+      }
+    ]
+  },
+  "CSH": {
+    "ideas": [
+      {
+        "name": "shun_humble_beginnings"
+      },
+      {
+        "name": "shun_dashing_king"
+      },
+      {
+        "name": "shun_hidden_treasury"
+      },
+      {
+        "name": "shun_obedient_to_heaven"
+      },
+      {
+        "name": "shun_perfection_of_sieging"
+      },
+      {
+        "name": "shun_from_sticks_to_guns"
+      },
+      {
+        "name": "shun_claim_to_the_mandate"
+      }
+    ]
+  },
+  "NRM": {
+    "ideas": [
+      {
+        "name": "nrm_norman_conquest"
+      },
+      {
+        "name": "nrm_norman_philosophers"
+      },
+      {
+        "name": "nrm_channel_islands"
+      },
+      {
+        "name": "nrm_viking_explorers"
+      },
+      {
+        "name": "nrm_viking_raids"
+      },
+      {
+        "name": "nrm_naval_invasion"
+      },
+      {
+        "name": "nrm_great_commanders"
+      }
+    ]
+  },
+  "PIS": {
+    "ideas": [
+      {
+        "name": "pis_restore_the_pisan_navy"
+      },
+      {
+        "name": "pis_the_leaning_tower"
+      },
+      {
+        "name": "pis_the_university_of_pisa"
+      },
+      {
+        "name": "pis_urbanization_effort"
+      },
+      {
+        "name": "pis_anziani_del_popolo"
+      },
+      {
+        "name": "pis_maritimes_legacy"
+      },
+      {
+        "name": "pis_fund_the_masnada"
+      }
+    ]
+  },
+  "EPI": {
+    "ideas": [
+      {
+        "name": "epi_pyrrhus"
+      },
+      {
+        "name": "epi_chronicle_of_the_toco"
+      },
+      {
+        "name": "epi_serbs_and_albanians"
+      },
+      {
+        "name": "epi_metropolis_of_knowledge"
+      },
+      {
+        "name": "epi_latin_knights"
+      },
+      {
+        "name": "epi_trade_influences"
+      },
+      {
+        "name": "epi_unity_in_strength"
+      }
+    ]
+  },
+  "LAE": {
+    "ideas": [
+      {
+        "name": "lae_emperor_constantinople"
+      },
+      {
+        "name": "lae_latin_patriarch"
+      },
+      {
+        "name": "lae_byzantine_bureaucracy"
+      },
+      {
+        "name": "lae_guilds_pera"
+      },
+      {
+        "name": "epi_latin_knights"
+      },
+      {
+        "name": "lae_partitio_graeci"
+      },
+      {
+        "name": "lae_frankokratia"
+      }
+    ]
+  },
+  "LOT": {
+    "ideas": [
+      {
+        "name": "lot_legacy_of_the_carolingians"
+      },
+      {
+        "name": "lot_glory_of_charlemagne"
+      },
+      {
+        "name": "lot_dutch_cities"
+      },
+      {
+        "name": "lot_carolingian_renaissance_II"
+      },
+      {
+        "name": "lot_court_of_europe"
+      },
+      {
+        "name": "lot_land_of_abbeys"
+      },
+      {
+        "name": "lot_european_empire"
+      }
+    ]
+  },
+  "FKN": {
+    "ideas": [
+      {
+        "name": "fkn_duchy_restored"
+      },
+      {
+        "name": "fkn_main_trading"
+      },
+      {
+        "name": "fkn_rugged_land_of_fortresses"
+      },
+      {
+        "name": "fkn_free_knights_of_franconia"
+      },
+      {
+        "name": "franconian_wine"
+      },
+      {
+        "name": "fkn_baroque"
+      },
+      {
+        "name": "fkn_franconian_bourgeoisie"
+      }
+    ]
+  },
+  "SOR": {
+    "ideas": [
+      {
+        "name": "sor_zittau_mountains"
+      },
+      {
+        "name": "sor_sale_of_land"
+      },
+      {
+        "name": "sor_lusatian_landtag"
+      },
+      {
+        "name": "sor_wittelsbach_history"
+      },
+      {
+        "name": "sor_lusatian_league"
+      },
+      {
+        "name": "sor_rights_of_all_religions"
+      },
+      {
+        "name": "sor_political_influences"
+      }
+    ]
+  },
+  "CLI": {
+    "ideas": [
+      {
+        "name": "cli_marry_your_daughters"
+      },
+      {
+        "name": "cli_mercenary_captains"
+      },
+      {
+        "name": "cli_political_manoevring"
+      },
+      {
+        "name": "cli_slovenian_reformation"
+      },
+      {
+        "name": "cli_border_wars"
+      },
+      {
+        "name": "cli_italian_baroque"
+      },
+      {
+        "name": "cli_standardised_slovene_language"
+      }
+    ]
+  },
+  "WES": {
+    "ideas": [
+      {
+        "name": "wes_jewish_rights"
+      },
+      {
+        "name": "wes_westphalian_decentralisation"
+      },
+      {
+        "name": "wes_increased_conscription"
+      },
+      {
+        "name": "wes_administrative_assimilation_of_rheinlanders"
+      },
+      {
+        "name": "wes_taxation"
+      },
+      {
+        "name": "wes_enlightenment"
+      },
+      {
+        "name": "wes_cities_of_the_rhineland"
+      }
+    ]
+  },
+  "SWA": {
+    "ideas": [
+      {
+        "name": "swa_decentralisation"
+      },
+      {
+        "name": "fugger_banks"
+      },
+      {
+        "name": "swa_free_cities"
+      },
+      {
+        "name": "swa_swabian_league"
+      },
+      {
+        "name": "swa_stinginess"
+      },
+      {
+        "name": "swa_hohenstaufen_emperors"
+      },
+      {
+        "name": "swa_barbarossas_legacy"
+      }
+    ]
+  },
+  "TTL": {
+    "ideas": [
+      {
+        "name": "ttl_league_system"
+      },
+      {
+        "name": "ttl_gods_house"
+      },
+      {
+        "name": "ttl_grey_league"
+      },
+      {
+        "name": "ttl_league_of_ten"
+      },
+      {
+        "name": "ttl_independent_cities"
+      },
+      {
+        "name": "ttl_economic_league"
+      },
+      {
+        "name": "ttl_expanding_league"
+      }
+    ]
+  },
+  "GNV": {
+    "ideas": [
+      {
+        "name": "gnv_grand_council"
+      },
+      {
+        "name": "gnv_neutral_grounds"
+      },
+      {
+        "name": "gnv_home_of_calvin"
+      },
+      {
+        "name": "gnv_spiritual_leader"
+      },
+      {
+        "name": "gnv_calvins_laws"
+      },
+      {
+        "name": "gnv_unconquerable_city"
+      },
+      {
+        "name": "gnv_armed_neutrality"
+      }
+    ]
+  },
+  "DAI": {
+    "ideas": [
+      {
+        "name": "the_great_proclamation"
+      },
+      {
+        "name": "confucian_revival"
+      },
+      {
+        "name": "autonomous_villages"
+      },
+      {
+        "name": "village_militia"
+      },
+      {
+        "name": "don_dien"
+      },
+      {
+        "name": "thuan_thien"
+      },
+      {
+        "name": "literary_reform"
+      }
+    ]
+  },
+  "MAJ": {
+    "ideas": [
+      {
+        "name": "maj_nusantara_tributaries"
+      },
+      {
+        "name": "maj_restore_candi"
+      },
+      {
+        "name": "maj_maritime_silk_road"
+      },
+      {
+        "name": "maj_nusa_tenggara"
+      },
+      {
+        "name": "maj_gajah_madas_oath"
+      },
+      {
+        "name": "maj_majapahit_armada"
+      },
+      {
+        "name": "maj_reformed_bhattara_saptaprabhu"
+      }
+    ]
+  },
+  "ATJ": {
+    "ideas": [
+      {
+        "name": "export_economy"
+      },
+      {
+        "name": "islamise_sumatra"
+      },
+      {
+        "name": "rise_of_aceh"
+      },
+      {
+        "name": "military_adventures"
+      },
+      {
+        "name": "porch_of_mecca"
+      },
+      {
+        "name": "acehnese_moneylending"
+      },
+      {
+        "name": "settle_the_islands"
+      }
+    ]
+  },
+  "BLI": {
+    "ideas": [
+      {
+        "name": "bli_island_settlers"
+      },
+      {
+        "name": "javanese_culture"
+      },
+      {
+        "name": "aristocratic_refugees"
+      },
+      {
+        "name": "staunch_hindus"
+      },
+      {
+        "name": "conquerer_dalems"
+      },
+      {
+        "name": "hindu_reformation"
+      },
+      {
+        "name": "rivals_to_slaves"
+      }
+    ]
+  },
+  "SUN": {
+    "ideas": [
+      {
+        "name": "candi_shrines"
+      },
+      {
+        "name": "sunda_galuh"
+      },
+      {
+        "name": "defensive_moats"
+      },
+      {
+        "name": "wooden_architecture"
+      },
+      {
+        "name": "pan_asian_trade"
+      },
+      {
+        "name": "seren_taun"
+      },
+      {
+        "name": "bi_yearly_harvest"
+      }
+    ]
+  },
+  "BEI": {
+    "ideas": [
+      {
+        "name": "bei_galleys"
+      },
+      {
+        "name": "bei_sea_nomads"
+      },
+      {
+        "name": "bei_diplomacy"
+      },
+      {
+        "name": "bei_vassals"
+      },
+      {
+        "name": "settle_the_islands"
+      },
+      {
+        "name": "bei_naval_prowess"
+      },
+      {
+        "name": "bei_trade"
+      }
+    ]
+  },
+  "MLC": {
+    "ideas": [
+      {
+        "name": "mlc_vassal_princes"
+      },
+      {
+        "name": "mlc_maritime_laws"
+      },
+      {
+        "name": "mlc_new_hegemony"
+      },
+      {
+        "name": "mlc_islamic_sultanate"
+      },
+      {
+        "name": "mlc_habor_masters"
+      },
+      {
+        "name": "mlc_daulat"
+      },
+      {
+        "name": "mlc_jawi_script"
+      }
+    ]
+  },
+  "MSA": {
+    "ideas": [
+      {
+        "name": "settle_the_islands"
+      },
+      {
+        "name": "msa_advanced_galley_warfare"
+      },
+      {
+        "name": "msa_expert_haggling"
+      },
+      {
+        "name": "msa_chart_the_seas"
+      },
+      {
+        "name": "msa_in_every_port"
+      },
+      {
+        "name": "msa_sea_nomads_steering"
+      },
+      {
+        "name": "msa_spice_kings"
+      }
+    ]
+  },
+  "SIA": {
+    "ideas": [
+      {
+        "name": "sia_royal_poets"
+      },
+      {
+        "name": "sia_advanced_elephant_warfare"
+      },
+      {
+        "name": "sia_experienced_ambassadors"
+      },
+      {
+        "name": "sia_encourage_immigration"
+      },
+      {
+        "name": "sia_integrating_the_realm"
+      },
+      {
+        "name": "sia_royal_absolutism"
+      },
+      {
+        "name": "sia_education_reform"
+      }
+    ]
+  },
+  "LFA": {
+    "ideas": [
+      {
+        "name": "lfa_free_elections"
+      },
+      {
+        "name": "lfa_mining_syndicates"
+      },
+      {
+        "name": "lfa_careful_diplomacy"
+      },
+      {
+        "name": "lfa_national_militia"
+      },
+      {
+        "name": "lfa_integrate_local_communities"
+      },
+      {
+        "name": "lfa_improved_mining_techniques"
+      },
+      {
+        "name": "lfa_state_expansion"
+      }
+    ]
+  },
+  "LIG": {
+    "ideas": [
+      {
+        "name": "lig_autonomous_subject"
+      },
+      {
+        "name": "lig_religious_conversion"
+      },
+      {
+        "name": "lig_vassal_cities"
+      },
+      {
+        "name": "lig_trade_primacy"
+      },
+      {
+        "name": "lig_bridge_to_malaya"
+      },
+      {
+        "name": "lig_spirit_of_rebellion"
+      },
+      {
+        "name": "lig_trade_protection"
+      }
+    ]
+  },
+  "PLB": {
+    "ideas": [
+      {
+        "name": "plb_ancient_scriptures"
+      },
+      {
+        "name": "plb_pirate_ancestry"
+      },
+      {
+        "name": "plb_controlling_the_strait"
+      },
+      {
+        "name": "plb_center_of_the_dynasty"
+      },
+      {
+        "name": "plb_trading_hub"
+      },
+      {
+        "name": "plb_through_the_monsoon"
+      },
+      {
+        "name": "plb_learned_scholars"
+      }
+    ]
+  },
+  "BAN": {
+    "ideas": [
+      {
+        "name": "ban_struck_down_by_diamonds"
+      },
+      {
+        "name": "ban_surrounded_by_stars"
+      },
+      {
+        "name": "ban_from_east_to_west"
+      },
+      {
+        "name": "ban_rebuttal"
+      },
+      {
+        "name": "ban_fertile_lands"
+      },
+      {
+        "name": "ban_by_the_river"
+      },
+      {
+        "name": "ban_cultural_richness"
+      }
+    ]
+  },
+  "SUL": {
+    "ideas": [
+      {
+        "name": "sul_sultanate_of_sulu"
+      },
+      {
+        "name": "sul_makhdum_teachings"
+      },
+      {
+        "name": "sul_across_the_sulu_sea"
+      },
+      {
+        "name": "sul_port_of_jolo"
+      },
+      {
+        "name": "sul_dagat_sulu"
+      },
+      {
+        "name": "sul_coconut_plantations"
+      },
+      {
+        "name": "sul_pearl_farming"
+      }
+    ]
+  },
+  "CRB": {
+    "ideas": [
+      {
+        "name": "crb_negara_gede"
+      },
+      {
+        "name": "crb_tari_topeng"
+      },
+      {
+        "name": "crb_alis_panther"
+      },
+      {
+        "name": "crb_mount_ciremai"
+      },
+      {
+        "name": "crb_islamic_schools"
+      },
+      {
+        "name": "crb_batik_textiles"
+      },
+      {
+        "name": "crb_royal_lineage"
+      },
+      {
+        "name": "tongan"
+      },
+      {
+        "name": "tonga_tangaloa"
+      },
+      {
+        "name": "tonga_pulotu"
+      },
+      {
+        "name": "tonga_maui"
+      },
+      {
+        "name": "tonga_polynesian"
+      },
+      {
+        "name": "tonga_tongatapu"
+      },
+      {
+        "name": "tonga_craftsman"
+      },
+      {
+        "name": "tonga_oceanic_empire"
+      },
+      {
+        "name": "samoan"
+      },
+      {
+        "name": "samoa_musical"
+      },
+      {
+        "name": "samoa_faa"
+      },
+      {
+        "name": "samoa_mauluulu"
+      },
+      {
+        "name": "samoa_foreign"
+      },
+      {
+        "name": "samoa_tatau"
+      },
+      {
+        "name": "samoa_faavae"
+      },
+      {
+        "name": "samoa_trade"
+      }
+    ]
+  },
+  "ISR": {
+    "ideas": [
+      {
+        "name": "end_of_diaspora"
+      },
+      {
+        "name": "national_myths_restored"
+      },
+      {
+        "name": "return_home"
+      },
+      {
+        "name": "jewish_trade_tradition"
+      },
+      {
+        "name": "pious_people"
+      },
+      {
+        "name": "people_of_exile"
+      },
+      {
+        "name": "the_chosen_people"
+      }
+    ]
+  },
+  "OYO": {
+    "ideas": [
+      {
+        "name": "oyo_yoruba_origin_story"
+      },
+      {
+        "name": "oyo_oduduwa_mythos"
+      },
+      {
+        "name": "oyo_ile_ife_protector"
+      },
+      {
+        "name": "oyo_balnce_of_power"
+      },
+      {
+        "name": "oyo_the_oyo_cavalry"
+      },
+      {
+        "name": "oyo_emporium_of_the_south"
+      },
+      {
+        "name": "oyo_feudal_unity"
+      }
+    ]
+  },
+  "ZAN": {
+    "ideas": [
+      {
+        "name": "zan_kilwa_latitude_staves"
+      },
+      {
+        "name": "zan_shirazis_legacy"
+      },
+      {
+        "name": "zan_the_deal_with_almuli"
+      },
+      {
+        "name": "zan_kilwa_the_melting_pot"
+      },
+      {
+        "name": "zan_gold_of_sofala"
+      },
+      {
+        "name": "zan_trade_center_of_zanzibar"
+      },
+      {
+        "name": "zan_center_of_migration"
+      }
+    ]
+  },
+  "GZI": {
+    "ideas": [
+      {
+        "name": "gzi_stone_masonry"
+      },
+      {
+        "name": "gzi_ivory_trade"
+      },
+      {
+        "name": "gzi_gold_deposits"
+      },
+      {
+        "name": "gzi_zimbabwes_walls"
+      },
+      {
+        "name": "gzi_lay_of_the_land"
+      },
+      {
+        "name": "gzi_tributary_system"
+      },
+      {
+        "name": "gzi_zimbabwe_birds"
+      }
+    ]
+  },
+  "AKS": {
+    "ideas": [
+      {
+        "name": "aks_stellae_builders"
+      },
+      {
+        "name": "aks_legacy_of_king_kaleb"
+      },
+      {
+        "name": "aks_persian_revenge"
+      },
+      {
+        "name": "aks_christianity_stronghold"
+      },
+      {
+        "name": "aks_mediterranean_contacts"
+      },
+      {
+        "name": "aks_trade_hub"
+      },
+      {
+        "name": "aks_coin_minting"
+      }
+    ]
+  },
+  "KIT": {
+    "ideas": [
+      {
+        "name": "kit_legacy_of_the_gods"
+      },
+      {
+        "name": "kit_empire_of_the_light"
+      },
+      {
+        "name": "kit_memory_of_aksum"
+      },
+      {
+        "name": "kit_lakes_dominance"
+      },
+      {
+        "name": "kit_bachwezi_earthworks"
+      },
+      {
+        "name": "kit_nile_conquest"
+      },
+      {
+        "name": "kit_rich_history"
+      }
+    ]
+  },
+  "NBI": {
+    "ideas": [
+      {
+        "name": "nbi_our_land"
+      },
+      {
+        "name": "nbi_religious_friction"
+      },
+      {
+        "name": "nbi_desert_knowledge"
+      },
+      {
+        "name": "nbi_military_strength"
+      },
+      {
+        "name": "nbi_nile_control"
+      },
+      {
+        "name": "nbi_christian_ties"
+      },
+      {
+        "name": "nbi_egyptian_relations"
+      }
+    ]
+  },
+  "ADA": {
+    "ideas": [
+      {
+        "name": "ada_our_infinite_struggle"
+      },
+      {
+        "name": "ada_a_monarchial_imamate"
+      },
+      {
+        "name": "ada_zeila_and_harar"
+      },
+      {
+        "name": "ada_mujahiduir_cavalry"
+      },
+      {
+        "name": "ada_unite_the_clans"
+      },
+      {
+        "name": "ada_yahu_yahu"
+      },
+      {
+        "name": "ada_embrace_the_cannons"
+      }
+    ]
+  },
+  "JOL": {
+    "ideas": [
+      {
+        "name": "jol_legacy_of_ndiadiane_ndiaye"
+      },
+      {
+        "name": "jol_adherents_of_islam"
+      },
+      {
+        "name": "jol_tribute_of_the_five_kingdoms"
+      },
+      {
+        "name": "jol_ambassadors_abroad"
+      },
+      {
+        "name": "jol_qadi_tribunals"
+      },
+      {
+        "name": "jol_wolof_griots"
+      },
+      {
+        "name": "jol_paying_the_waref"
+      }
+    ]
+  },
+  "ZUL": {
+    "ideas": [
+      {
+        "name": "zul_confederacy_of_clans"
+      },
+      {
+        "name": "zul_the_ukubuthwa"
+      },
+      {
+        "name": "zul_the_impi_warriors"
+      },
+      {
+        "name": "zul_zulu_expansion"
+      },
+      {
+        "name": "zul_warrior_culture"
+      },
+      {
+        "name": "zul_shaka_reforms"
+      },
+      {
+        "name": "zul_conquest_through_patronage"
+      }
+    ]
+  },
+  "FU2": {
+    "ideas": [
+      {
+        "name": "regularised_contribution"
+      }
+    ]
+  },
+  "UKR": {
+    "ideas": [
+      {
+        "name": "mother_of_russian_cities"
+      },
+      {
+        "name": "international_influences"
+      },
+      {
+        "name": "zaporizhian_cossacs"
+      },
+      {
+        "name": "east_and_west"
+      },
+      {
+        "name": "legacy_of_ancient_rus"
+      },
+      {
+        "name": "reuniting_rus"
+      },
+      {
+        "name": "birth_of_russian_orthodoxy"
+      }
+    ]
+  },
+  "EGY": {
+    "ideas": [
+      {
+        "name": "egy_centralization_works"
+      },
+      {
+        "name": "training_missions_in_egypt"
+      },
+      {
+        "name": "legacy_of_the_karimis"
+      },
+      {
+        "name": "nile_production"
+      },
+      {
+        "name": "westernize_the_military"
+      },
+      {
+        "name": "mediterranean_shipwrights"
+      },
+      {
+        "name": "crossroads_between_europe_and_africa"
+      }
+    ]
+  },
+  "AYB": {
+    "ideas": [
+      {
+        "name": "hsn2_citadels_and_fortesses"
+      },
+      {
+        "name": "hsn2_ayyubid_heritage"
+      },
+      {
+        "name": "hsn2_righteousness_of_the_faith"
+      },
+      {
+        "name": "hsn2_elite_warriors"
+      },
+      {
+        "name": "hsn2_rise_of_the_eagle"
+      },
+      {
+        "name": "hsn2_strenghten_central_authority"
+      },
+      {
+        "name": "hsn2_state_economics"
+      }
+    ]
+  },
+  "UCN": {
+    "ideas": [
+      {
+        "name": "reform_of_comission_buying"
+      },
+      {
+        "name": "british_industrialization"
+      },
+      {
+        "name": "instructie_voor_de_admiraliteiten"
+      },
+      {
+        "name": "dutch_trading_spirit"
+      },
+      {
+        "name": "army_sappers"
+      },
+      {
+        "name": "amsterdam_wisselbank"
+      },
+      {
+        "name": "city_upon_a_hill"
+      }
+    ]
+  },
+  "AUH": {
+    "ideas": [
+      {
+        "name": "auh_first"
+      },
+      {
+        "name": "auh_second"
+      },
+      {
+        "name": "auh_third"
+      },
+      {
+        "name": "auh_fourth"
+      },
+      {
+        "name": "auh_fifth"
+      },
+      {
+        "name": "auh_sixth"
+      },
+      {
+        "name": "auh_seventh"
+      }
+    ]
+  },
+  "GMA": {
+    "ideas": [
+      {
+        "name": "gma_reforge_moravias_hegemony"
+      },
+      {
+        "name": "gma_apostles_to_the_slavs"
+      },
+      {
+        "name": "gma_princes_of_nitra_kings_of_moravia"
+      },
+      {
+        "name": "gma_rebuild_veligrad"
+      },
+      {
+        "name": "gma_rex_sclavorum"
+      },
+      {
+        "name": "gma_canonize_cyril_methodius"
+      },
+      {
+        "name": "gma_svatopluks_legacy"
+      },
+      {
+        "name": "voc"
+      },
+      {
+        "name": "voc_1"
+      },
+      {
+        "name": "voc_2"
+      },
+      {
+        "name": "voc_3"
+      },
+      {
+        "name": "voc_4"
+      },
+      {
+        "name": "voc_5"
+      },
+      {
+        "name": "voc_6"
+      },
+      {
+        "name": "voc_7"
+      }
+    ]
+  }
+}

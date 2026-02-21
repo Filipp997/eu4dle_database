@@ -1,0 +1,3518 @@
+[
+  {
+    "id": "achievement_for_the_glory",
+    "name": "For the Glory",
+    "description": "Diplo-annex a vassal.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_2",
+    "icon": "achievement_for_the_glory.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_grand_army",
+    "name": "That's a Grand Army",
+    "description": "Build up your army to your country's maximum army forcelimit.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_3",
+    "icon": "achievement_grand_army.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_grand_navy",
+    "name": "That's a Grand Navy",
+    "description": "Build up your navy to your country's maximum navy forcelimit.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_4",
+    "icon": "achievement_grand_navy.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_defender_of_the_faith",
+    "name": "Defender of the Faith",
+    "description": "Become Defender of the Faith.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_5",
+    "icon": "achievement_defender_of_the_faith.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_until_death_do_us_apart",
+    "name": "Until death do us apart",
+    "description": "Secure a Royal Marriage with another country.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_6",
+    "icon": "achievement_until_death_do_us_apart.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_that_is_mine",
+    "name": "That is mine!",
+    "description": "Conquer a province.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_7",
+    "icon": "achievement_that_is_mine.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_victorious",
+    "name": "Victorious!",
+    "description": "Win a war.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_8",
+    "icon": "achievement_victorious.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_emperors_new_clothes",
+    "name": "The Emperors new clothes",
+    "description": "Overthrow Austria and become the Emperor of the Holy Roman Empire.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_9",
+    "icon": "achievement_emperors_new_clothes.dds",
+    "allowedTags": [
+      "HAB"
+    ]
+  },
+  {
+    "id": "achievement_down_under",
+    "name": "Down Under",
+    "description": "Have a colony in Australia.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_10",
+    "icon": "achievement_down_under.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_isnt_this_the_way_to_india",
+    "name": "Isn't this the way to India?",
+    "description": "Discover the Americas as Castile or Spain.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_11",
+    "icon": "achievement_isnt_this_the_way_to_india.dds",
+    "allowedTags": [
+      "CAS"
+    ]
+  },
+  {
+    "id": "achievement_azur_seme_de_lis_or",
+    "name": "Azur sem\u00e9 de lis or",
+    "description": "Get all the French Cores as France.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_12",
+    "icon": "achievement_azur_seme_de_lis_or.dds",
+    "allowedTags": [
+      "FRA"
+    ]
+  },
+  {
+    "id": "achievement_not_so_sad_a_state",
+    "name": "Not so sad a state...",
+    "description": "As Portugal, have a colony in Brazil and in Africa.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_13",
+    "icon": "achievement_not_so_sad_a_state.dds",
+    "allowedTags": [
+      "POR"
+    ]
+  },
+  {
+    "id": "achievement_seriously",
+    "name": "Seriously?!",
+    "description": "Kill 10,000 men in one battle.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_14",
+    "icon": "achievement_seriously.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_its_all_about_the_money",
+    "name": "It's all about the money",
+    "description": "Accumulate 3000 gold.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_15",
+    "icon": "achievement_its_all_about_the_money.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_respected",
+    "name": "Respected",
+    "description": "Have 100 prestige, 100 legitimacy and three stability.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_16",
+    "icon": "achievement_respected.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_true_catholic",
+    "name": "True Catholic",
+    "description": "Control three Cardinals.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_17",
+    "icon": "achievement_true_catholic.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_truly_divine_ruler",
+    "name": "Truly Divine Ruler",
+    "description": "Get a 5/5/5 Ruler or higher.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_18",
+    "icon": "achievement_truly_divine_ruler.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_grand_coalition",
+    "name": "Grand Coalition",
+    "description": "Join a coalition of more than 5 nations.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_25",
+    "icon": "achievement_grand_coalition.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_italian_ambition",
+    "name": "Italian Ambition",
+    "description": "Form Italy.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_19",
+    "icon": "achievement_italian_ambition.dds",
+    "allowedTags": [
+      "ITA"
+    ]
+  },
+  {
+    "id": "achievement_cold_war",
+    "name": "Cold War",
+    "description": "Win a war without fighting a single battle.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_20",
+    "icon": "achievement_cold_war.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_royal_authority",
+    "name": "Royal Authority",
+    "description": "Install a union through a succession war.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_21",
+    "icon": "achievement_royal_authority.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_viva_la_revolucion",
+    "name": "Viva la Revoluci\u00f3n!",
+    "description": "Have rebels you support in another country enforce their demands.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_22",
+    "icon": "achievement_viva_la_revolucion.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_brothers_in_arms",
+    "name": "Brothers in Arms",
+    "description": "Win a war as a secondary participant.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_23",
+    "icon": "achievement_brothers_in_arms.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_no_pirates_in_my_carribean",
+    "name": "No Pirates in my Caribbean",
+    "description": "Own or have a subject own the entire Caribbean.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_24",
+    "icon": "achievement_no_pirates_in_my_carribean.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_master_of_india",
+    "name": "Master of India",
+    "description": "Own or have a subject own all of India as a European nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_25",
+    "icon": "achievement_master_of_india.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_sweden_is_not_overpowered",
+    "name": "Sweden is not overpowered!",
+    "description": "Own and have cores on the entire Baltic coastline as Sweden.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_26",
+    "icon": "achievement_sweden_is_not_overpowered.dds",
+    "allowedTags": [
+      "SWE"
+    ]
+  },
+  {
+    "id": "achievement_my_armies_are_invincible",
+    "name": "My armies are invincible!",
+    "description": "Gain at least 7.0 land morale.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_27",
+    "icon": "achievement_my_armies_are_invincible.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_this_navy_can_take_it_all",
+    "name": "This navy can take it all",
+    "description": "Gain at least 7.0 naval morale.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_28",
+    "icon": "achievement_this_navy_can_take_it_all.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_winged_hussars",
+    "name": "Winged Hussars",
+    "description": "Have Winged Hussars as your active unit with more than +50% cavalry combat ability.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_24",
+    "icon": "achievement_winged_hussars.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_pen_is_mightier_than_the_sword",
+    "name": "The Pen is Mightier than the Sword",
+    "description": "Have three unions at the same time as Austria or Austria-Hungary.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_29",
+    "icon": "achievement_the_pen_is_mightier_than_the_sword.dds",
+    "allowedTags": [
+      "AUH",
+      "HAB"
+    ]
+  },
+  {
+    "id": "achievement_traditional_player",
+    "name": "Traditional Player",
+    "description": "More than 90 percent Naval and Army Tradition.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_30",
+    "icon": "achievement_traditional_player.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_its_all_about_luck",
+    "name": "It's all about luck",
+    "description": "Win a battle against a great leader, without a leader.",
+    "localizationKey": "NEW_ACHIEVEMENT_1_31",
+    "icon": "achievement_its_all_about_luck.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_all_belongs_to_mother_russia",
+    "name": "All belongs to Mother Russia",
+    "description": "Start as a country of Russian culture and form Russia.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_0",
+    "icon": "achievement_all_belongs_to_mother_russia.dds",
+    "allowedTags": [
+      "RUS"
+    ]
+  },
+  {
+    "id": "achievement_at_every_continent",
+    "name": "At every continent",
+    "description": "Own one province on each continent.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_1",
+    "icon": "achievement_at_every_continent.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_spain_is_the_emperor",
+    "name": "Spain is the Emperor",
+    "description": "Become the Emperor of the Holy Roman Empire as Spain.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_2",
+    "icon": "achievement_spain_is_the_emperor.dds",
+    "allowedTags": [
+      "SPA"
+    ]
+  },
+  {
+    "id": "achievement_an_early_reich",
+    "name": "An early Reich",
+    "description": "Form Germany.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_3",
+    "icon": "achievement_an_early_reich.dds",
+    "allowedTags": [
+      "GER"
+    ]
+  },
+  {
+    "id": "achievement_poland_can_into_space",
+    "name": "Poland can into space",
+    "description": "As Poland, reach the maximum level in all technologies (32).",
+    "localizationKey": "NEW_ACHIEVEMENT_6_4",
+    "icon": "achievement_poland_can_into_space.dds",
+    "allowedTags": [
+      "POL"
+    ]
+  },
+  {
+    "id": "achievement_world_discoverer",
+    "name": "World Discoverer",
+    "description": "Discover all non-wasteland land provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_5",
+    "icon": "achievement_world_discoverer.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_chrysanthemum_throne",
+    "name": "The Chrysanthemum Throne",
+    "description": "Unite Japan as a Daimyo.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_6",
+    "icon": "achievement_the_chrysanthemum_throne.dds",
+    "allowedTags": [
+      "JAP"
+    ]
+  },
+  {
+    "id": "achievement_trade_hegemon",
+    "name": "Trade Hegemon",
+    "description": "Starting as any European country, conquer and have cores on Aden, Hormoz and Malacca.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_23",
+    "icon": "achievement_trade_hegemon.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_basileus",
+    "name": "Basileus",
+    "description": "As Byzantium, restore the borders of the Eastern Roman Empire in the Balkans and Anatolia.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_7",
+    "icon": "achievement_basileus.dds",
+    "allowedTags": [
+      "BYZ",
+      "ROM"
+    ]
+  },
+  {
+    "id": "achievement_agressive_expander",
+    "name": "Aggressive Expander",
+    "description": "Own 200 provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_8",
+    "icon": "achievement_agressive_expander.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_kaiser_not_just_in_name",
+    "name": "A Kaiser not just in name",
+    "description": "Form the Holy Roman Empire.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_9",
+    "icon": "achievement_kaiser_not_just_in_name.dds",
+    "allowedTags": [
+      "HLR"
+    ]
+  },
+  {
+    "id": "achievement_norwegian_wood",
+    "name": "Norwegian Wood",
+    "description": "Own or have a subject own all naval supplies provinces as Norway.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_10",
+    "icon": "achievement_norwegian_wood.dds",
+    "allowedTags": [
+      "NOR",
+      "SCA"
+    ]
+  },
+  {
+    "id": "achievement_african_power",
+    "name": "African Power",
+    "description": "Own and have cores on all provinces in Africa as Kongo.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_11",
+    "icon": "achievement_african_power.dds",
+    "allowedTags": [
+      "KON"
+    ]
+  },
+  {
+    "id": "achievement_no_trail_of_tears",
+    "name": "No Trail of Tears",
+    "description": "Own and have cores on the Thirteen Colonies as Cherokee with all institutions embraced.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_12",
+    "icon": "achievement_no_trail_of_tears.dds",
+    "allowedTags": [
+      "CHE"
+    ]
+  },
+  {
+    "id": "achievement_one_night_in_paris",
+    "name": "One Night in Paris",
+    "description": "Start as England, own and have a core on Paris (do not form another country unless it's Great Britain or the Angevin Kingdom).",
+    "localizationKey": "NEW_ACHIEVEMENT_6_13",
+    "icon": "achievement_one_night_in_paris.dds",
+    "allowedTags": [
+      "AVE",
+      "ENG",
+      "GBR"
+    ]
+  },
+  {
+    "id": "achievement_definitely_the_sultan_of_rum",
+    "name": "Definitely the Sultan of Rum",
+    "description": "Own and have cores on Rome, Moscow and Istanbul as Ottomans.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_14",
+    "icon": "achievement_definitely_the_sultan_of_rum.dds",
+    "allowedTags": [
+      "RUM",
+      "TUR"
+    ]
+  },
+  {
+    "id": "achievement_market_control",
+    "name": "Market Control",
+    "description": "Be trade leader of seven different goods.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_15",
+    "icon": "achievement_market_control.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_ruina_imperii",
+    "name": "Ruina Imperii",
+    "description": "Dismantle the Holy Roman Empire.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_16",
+    "icon": "achievement_ruina_imperii.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_luck_of_the_irish",
+    "name": "Luck of the Irish",
+    "description": "Own and have cores on the British Isles as an Irish nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_22",
+    "icon": "achievement_luck_of_the_irish.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_world_conqueror",
+    "name": "World Conqueror",
+    "description": "Own or have a subject own the entire world.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_17",
+    "icon": "achievement_world_conqueror.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_three_mountains",
+    "name": "The Three Mountains",
+    "description": "Own or have a subject own the entire world as Ryukyu.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_18",
+    "icon": "achievement_the_three_mountains.dds",
+    "allowedTags": [
+      "RYU"
+    ]
+  },
+  {
+    "id": "achievement_jihad",
+    "name": "Jihad",
+    "description": "As Najd, own 500 Sunni provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_19",
+    "icon": "achievement_jihad.dds",
+    "allowedTags": [
+      "NAJ"
+    ]
+  },
+  {
+    "id": "achievement_sunset_invasion",
+    "name": "Sunset Invasion",
+    "description": "Own and have cores on Lisbon, Madrid, Paris, London, Amsterdam and Rome as the Aztecs.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_21",
+    "icon": "achievement_sunset_invasion.dds",
+    "allowedTags": [
+      "AZT"
+    ]
+  },
+  {
+    "id": "achievement_just_a_little_patience",
+    "name": "Just a Little Patience",
+    "description": "Play a campaign from 1444 until 1820.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_27",
+    "icon": "achievement_just_a_little_patience.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_turning_the_tide",
+    "name": "Turning the Tide",
+    "description": "Start as a Steppe Horde in 1444 and embrace all institutions.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_30",
+    "icon": "achievement_turning_the_tide.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_double_the_love",
+    "name": "Double the Love",
+    "description": "Start with no unions and get two at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_26",
+    "icon": "achievement_double_the_love.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_liberty_or_death",
+    "name": "Liberty or Death",
+    "description": "Start as USA in 1776 bookmark and own all your cores while being at peace.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_28",
+    "icon": "achievement_liberty_or_death.dds",
+    "allowedTags": [
+      "USA"
+    ]
+  },
+  {
+    "id": "achievement_nobody_wants_to_die",
+    "name": "Nobody wants to die",
+    "description": "Own Timbuktu as Songhai",
+    "localizationKey": "NEW_ACHIEVEMENT_6_29",
+    "icon": "achievement_nobody_wants_to_die.dds",
+    "allowedTags": [
+      "SON"
+    ]
+  },
+  {
+    "id": "achievement_in_the_name_of_the_father",
+    "name": "In the Name of the Father",
+    "description": "As an Orthodox country, have 100 Patriarch Authority.",
+    "localizationKey": "NEW_ACHIEVEMENT_6_31",
+    "icon": "achievement_in_the_name_of_the_father.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_rising_sun",
+    "name": "The Rising Sun",
+    "description": "Own and have cores on all of Japan as a European nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_0",
+    "icon": "achievement_the_rising_sun.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_five_colonies",
+    "name": "The Five Colonies",
+    "description": "Have five colonial nations.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_1",
+    "icon": "achievement_the_five_colonies.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_re_reconquista",
+    "name": "The Re-Reconquista",
+    "description": "As Granada, form Andalusia and reconquer all of Iberia.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_2",
+    "icon": "achievement_the_re_reconquista.dds",
+    "allowedTags": [
+      "ADU",
+      "GRA"
+    ]
+  },
+  {
+    "id": "achievement_turn_the_table",
+    "name": "Turn the Table",
+    "description": "As a colony, break free and vassalize your former overlord without forming any other nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_3",
+    "icon": "achievement_turn_the_table.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_great_khan",
+    "name": "The Great Khan",
+    "description": "Starting as Mongolia or Great Horde, own or have a subject own the Chinese, Russian and Persian regions.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_4",
+    "icon": "achievement_the_great_khan.dds",
+    "allowedTags": [
+      "GOL",
+      "KHA"
+    ]
+  },
+  {
+    "id": "achievement_four_for_trade",
+    "name": "Four For Trade",
+    "description": "Form four Trade Companies and get bonus merchants from all of them.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_5",
+    "icon": "achievement_four_for_trade.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_grand_armada",
+    "name": "The Grand Armada",
+    "description": "Have 500 heavy ships and no loans.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_6",
+    "icon": "achievement_the_grand_armada.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_je_maintiendrai",
+    "name": "Je maintiendrai",
+    "description": "Form the Netherlands as a minor nation starting with Dutch culture.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_7",
+    "icon": "achievement_je_maintiendrai.dds",
+    "allowedTags": [
+      "NED"
+    ]
+  },
+  {
+    "id": "achievement_a_protected_market",
+    "name": "A Protected Market",
+    "description": "Have 100% Mercantilism.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_8",
+    "icon": "achievement_a_protected_market.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_queen_of_mercury",
+    "name": "Queen of Mercury",
+    "description": "As Kilwa, own and have cores on Zanzibar and Bombay (Thana).",
+    "localizationKey": "NEW_ACHIEVEMENT_7_9",
+    "icon": "achievement_queen_of_mercury.dds",
+    "allowedTags": [
+      "ZAN"
+    ]
+  },
+  {
+    "id": "achievement_a_pile_of_gold",
+    "name": "A Pile of Gold",
+    "description": "Own 10 provinces which produce gold.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_10",
+    "icon": "achievement_a_pile_of_gold.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_sons_of_carthage",
+    "name": "Sons of Carthage",
+    "description": "As Tunisia, own and have cores on Sicily, Sardinia, the Balearic Islands, the coast of Algiers and the southern coast of Spain.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_11",
+    "icon": "achievement_sons_of_carthage.dds",
+    "allowedTags": [
+      "TUN"
+    ]
+  },
+  {
+    "id": "achievement_the_princess_is_in_this_castle",
+    "name": "The Princess is in this Castle",
+    "description": "As a country that does not start with a female heir, have a female heir while having a Castle in your capital (more advanced fort buildings do not count).",
+    "localizationKey": "NEW_ACHIEVEMENT_7_12",
+    "icon": "achievement_the_princess_is_in_this_castle.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_electable",
+    "name": "Electable!",
+    "description": "Become an elector in the HRE as a country which does not start as elector.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_13",
+    "icon": "achievement_electable.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_vasa_or_wettin",
+    "name": "Vasa or Wettin?",
+    "description": "Get a ruler of your dynasty on the throne of Poland or the Commonwealth while they are an elective monarchy.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_14",
+    "icon": "achievement_vasa_or_wettin.dds",
+    "allowedTags": [
+      "POL"
+    ]
+  },
+  {
+    "id": "achievement_sinaasappel",
+    "name": "Sinaasappel!",
+    "description": "Get Orangists in power with 100% Republican Tradition, and owning a province in China.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_15",
+    "icon": "achievement_sinaasappel.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_one_king_to_rule",
+    "name": "One King to Rule!",
+    "description": "As Poland, become an absolutist monarchy, abolishing the Sejm.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_16",
+    "icon": "achievement_one_king_to_rule.dds",
+    "allowedTags": [
+      "POL"
+    ]
+  },
+  {
+    "id": "achievement_venetian_sea",
+    "name": "Venetian Sea",
+    "description": "Have a 75% Trade share in both the Alexandria and Constantinople nodes as Venice, owning less than 10 cities.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_17",
+    "icon": "achievement_venetian_sea.dds",
+    "allowedTags": [
+      "VEN"
+    ]
+  },
+  {
+    "id": "achievement_iron_price",
+    "name": "The Iron Price",
+    "description": "Restore the Danelaw region to Danish rule, and make it Danish culture.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_18",
+    "icon": "achievement_iron_price.dds",
+    "allowedTags": [
+      "DAN"
+    ]
+  },
+  {
+    "id": "achievement_total_control",
+    "name": "Total Control",
+    "description": "Own 100 or more provinces with no local autonomy or unrest.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_21",
+    "icon": "achievement_total_control.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_center_of_attention",
+    "name": "Center of Attention",
+    "description": "Own both a Protestant and a Reformed Center of Reformation.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_20",
+    "icon": "achievement_center_of_attention.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_this_revolution_was_crushed",
+    "name": "This Revolution Was Crushed",
+    "description": "In a war against the target of the Revolution, control their capital and have at least 99% war score.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_22",
+    "icon": "achievement_this_revolution_was_crushed.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_a_manchurian_candidate",
+    "name": "A Manchurian Candidate",
+    "description": "Start as one of the Jurchen tribes and form Qing.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_19",
+    "icon": "achievement_a_manchurian_candidate.dds",
+    "allowedTags": [
+      "QNG"
+    ]
+  },
+  {
+    "id": "achievement_land_of_eastern_jade",
+    "name": "Land of Eastern Jade",
+    "description": "Own a core province in the Mexico region as a Buddhist country.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_23",
+    "icon": "achievement_land_of_eastern_jade.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_thats_a_silk_road",
+    "name": "That's a Silk Road",
+    "description": "Own or have a subject own all provinces in the world producing silk.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_24",
+    "icon": "achievement_thats_a_silk_road.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_my_true_friend",
+    "name": "My True Friend",
+    "description": "Go to war in support of a rebel faction and win, enforcing their demands.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_25",
+    "icon": "achievement_my_true_friend.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_marshy_march",
+    "name": "Marshy March",
+    "description": "Have a march with at least two marsh provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_26",
+    "icon": "achievement_marshy_march.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_shahanshah",
+    "name": "Shahanshah",
+    "description": "Start as Ardabil and form Persia or Eranshahr.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_27",
+    "icon": "achievement_shahanshah.dds",
+    "allowedTags": [
+      "ARL",
+      "ERS",
+      "PER"
+    ]
+  },
+  {
+    "id": "achievement_die_please_die",
+    "name": "Die Please Die",
+    "description": "Have a ruler with 1 or lower in all three categories who is over the age of 70.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_28",
+    "icon": "achievement_die_please_die.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_holy_trinity",
+    "name": "Holy Trinity",
+    "description": "As the Papacy, own Jerusalem and have Livonian Order, Teutonic Order and The Knights as Marches.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_29",
+    "icon": "achievement_holy_trinity.dds",
+    "allowedTags": [
+      "PAP"
+    ]
+  },
+  {
+    "id": "achievement_switzerlake",
+    "name": "Switzerlake",
+    "description": "Own 99 provinces as Switzerland while owning no ports.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_30",
+    "icon": "achievement_switzerlake.dds",
+    "allowedTags": [
+      "SWI"
+    ]
+  },
+  {
+    "id": "achievement_king_of_jerusalem",
+    "name": "King of Jerusalem",
+    "description": "Form the Kingdom of Jerusalem as Cyprus or The Knights.",
+    "localizationKey": "NEW_ACHIEVEMENT_7_31",
+    "icon": "achievement_king_of_jerusalem.dds",
+    "allowedTags": [
+      "CYP",
+      "KNI",
+      "KOJ"
+    ]
+  },
+  {
+    "id": "achievement_krabater",
+    "name": "Krabater",
+    "description": "Form the nation of Croatia and station a unit of cavalry in Stockholm.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_0",
+    "icon": "achievement_krabater.dds",
+    "allowedTags": [
+      "CRO"
+    ]
+  },
+  {
+    "id": "achievement_lion_of_the_north",
+    "name": "Lion of the North",
+    "description": "Start as Sweden and lead the Protestant League to victory against the Emperor.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_1",
+    "icon": "achievement_lion_of_the_north.dds",
+    "allowedTags": [
+      "SWE"
+    ]
+  },
+  {
+    "id": "achievement_guaranteer_of_peace",
+    "name": "Guarantor of Peace",
+    "description": "Guarantee the Independence of France, The Ottoman Empire and Russia.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_2",
+    "icon": "achievement_guaranteer_of_peace.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_servitor_of_jagannath",
+    "name": "Foremost Servitor of Jagannath",
+    "description": "Start as Orissa and own or have a subject own all tropical wood provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_3",
+    "icon": "achievement_servitor_of_jagannath.dds",
+    "allowedTags": [
+      "ORI"
+    ]
+  },
+  {
+    "id": "achievement_bengal_tiger",
+    "name": "Bengal Tiger",
+    "description": "Start as Bengal and own Samarkand as a core province.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_4",
+    "icon": "achievement_bengal_tiger.dds",
+    "allowedTags": [
+      "BNG"
+    ]
+  },
+  {
+    "id": "achievement_prester_john",
+    "name": "Prester John",
+    "description": "Starting as Ethiopia, own and have cores on Alexandria, Antioch and Constantinople as a Coptic country.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_5",
+    "icon": "achievement_prester_john.dds",
+    "allowedTags": [
+      "ETH"
+    ]
+  },
+  {
+    "id": "achievement_auld_alliance",
+    "name": "Auld Alliance Reversed",
+    "description": "As Scotland, have France as a vassal (do not form Great Britain).",
+    "localizationKey": "NEW_ACHIEVEMENT_8_6",
+    "icon": "achievement_auld_alliance.dds",
+    "allowedTags": [
+      "SCO"
+    ]
+  },
+  {
+    "id": "achievement_gothic_invasion",
+    "name": "Gothic Invasion",
+    "description": "Start as Theodoro and conquer all Germanic culture provinces in Europe.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_7",
+    "icon": "achievement_gothic_invasion.dds",
+    "allowedTags": [
+      "FEO"
+    ]
+  },
+  {
+    "id": "achievement_kow_tow",
+    "name": "Kow-Tow",
+    "description": "As Ming, have a subject from each religion group.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_8",
+    "icon": "achievement_kow_tow.dds",
+    "allowedTags": [
+      "MNG"
+    ]
+  },
+  {
+    "id": "achievement_barbarossa",
+    "name": "Barbarossa",
+    "description": "As a Maghrebi nation, have 500 light ships privateering at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_9",
+    "icon": "achievement_barbarossa.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_georgia_on_my_mind",
+    "name": "Georgia on my Mind",
+    "description": "Fully own all three Georgias.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_10",
+    "icon": "achievement_georgia_on_my_mind.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_albania_or_iberia",
+    "name": "Albania or Iberia",
+    "description": "As Albania, own or have a subject own Iberia and the Caucasus.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_11",
+    "icon": "achievement_albania_or_iberia.dds",
+    "allowedTags": [
+      "ALB"
+    ]
+  },
+  {
+    "id": "achievement_spice_must_flow",
+    "name": "The Spice Must Flow",
+    "description": "Form the nation of Malaya.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_12",
+    "icon": "achievement_spice_must_flow.dds",
+    "allowedTags": [
+      "MSA"
+    ]
+  },
+  {
+    "id": "achievement_raja_of_the_rajput_reich",
+    "name": "Raja of the Rajput Reich",
+    "description": "Conquer all of Germany as Nagaur.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_13",
+    "icon": "achievement_raja_of_the_rajput_reich.dds",
+    "allowedTags": [
+      "NGA"
+    ]
+  },
+  {
+    "id": "achievement_sun_never_sets_on_the_indian_empire",
+    "name": "The Sun Never Sets on the Indian Empire",
+    "description": "Form Hindustan or Bharat and own or have a subject own Cape, London, Hong Kong (Canton) and Ottawa (Kichessipirini).",
+    "localizationKey": "NEW_ACHIEVEMENT_8_14",
+    "icon": "achievement_sun_never_sets_on_the_indian_empire.dds",
+    "allowedTags": [
+      "BHA",
+      "HIN"
+    ]
+  },
+  {
+    "id": "achievement_over_a_thousand",
+    "name": "Over a Thousand!",
+    "description": "Own 1001 provinces directly.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_15",
+    "icon": "achievement_over_a_thousand.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_draculas_revenge",
+    "name": "Dracula's Revenge",
+    "description": "Start as Wallachia or Moldavia, form Romania and own or have a subject own all of the Balkans.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_16",
+    "icon": "achievement_draculas_revenge.dds",
+    "allowedTags": [
+      "RMN"
+    ]
+  },
+  {
+    "id": "achievement_arabian_coffee",
+    "name": "Arabian Coffee",
+    "description": "Form Arabia and be the nation producing the most coffee in the world.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_17",
+    "icon": "achievement_arabian_coffee.dds",
+    "allowedTags": [
+      "ARB"
+    ]
+  },
+  {
+    "id": "achievement_even_better_than_piet_heyn",
+    "name": "Even Better than Piet Heyn",
+    "description": "Gain over 100 gold from privateering a single treasure fleet.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_18",
+    "icon": "achievement_even_better_than_piet_heyn.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_a_sun_god",
+    "name": "A Sun God",
+    "description": "Form Inca, embrace all Institutions and own all of South America as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_19",
+    "icon": "achievement_a_sun_god.dds",
+    "allowedTags": [
+      "INC"
+    ]
+  },
+  {
+    "id": "achievement_on_the_edge_of_madness",
+    "name": "On the Edge of Madness",
+    "description": "As Aztecs, reach 95 Doom, then go 20 years without Doom hitting 100.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_20",
+    "icon": "achievement_on_the_edge_of_madness.dds",
+    "allowedTags": [
+      "AZT"
+    ]
+  },
+  {
+    "id": "achievement_magellans_voyage",
+    "name": "Magellan\u2019s Voyage",
+    "description": "Make the first circumnavigation.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_21",
+    "icon": "achievement_magellans_voyage.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_imperio_espanol",
+    "name": "Imperio espa\u00f1ol",
+    "description": "As Spain have Mexico, Panama, Havana, Cuzco in colonial Nations under you.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_22",
+    "icon": "achievement_imperio_espanol.dds",
+    "allowedTags": [
+      "SPA"
+    ]
+  },
+  {
+    "id": "achievement_blockader",
+    "name": "Blockader",
+    "description": "Blockade at least 10 ports of one enemy.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_23",
+    "icon": "achievement_blockader.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_this_is_persia",
+    "name": "This is Persia!",
+    "description": "Form Persia or Eranshahr, and own Egypt, Anatolia and Greece as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_24",
+    "icon": "achievement_this_is_persia.dds",
+    "allowedTags": [
+      "ERS",
+      "PER"
+    ]
+  },
+  {
+    "id": "achievement_kirishitan_japan",
+    "name": "Kirishitan Japan",
+    "description": "Start as a Japanese Daimyo, convert yourself and all of Japan to Christianity.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_25",
+    "icon": "achievement_kirishitan_japan.dds",
+    "allowedTags": [
+      "JAP"
+    ]
+  },
+  {
+    "id": "achievement_hessian_mercenaries",
+    "name": "Hessian Mercenaries",
+    "description": "As Hesse, have at least 50 regiments of mercenaries and no loans.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_26",
+    "icon": "achievement_hessian_mercenaries.dds",
+    "allowedTags": [
+      "HES"
+    ]
+  },
+  {
+    "id": "achievement_baltic_crusader",
+    "name": "Baltic Crusader",
+    "description": "As Teutonic Order or Livonian Order, own all of Russia as core provinces and convert it to Catholic.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_27",
+    "icon": "achievement_baltic_crusader.dds",
+    "allowedTags": [
+      "LIV",
+      "TEU"
+    ]
+  },
+  {
+    "id": "achievement_neither_holy_nor_german",
+    "name": "Neither Holy, Nor German",
+    "description": "Have 7 Free Cities in the Empire, none of which is of a Germanic culture.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_28",
+    "icon": "achievement_neither_holy_nor_german.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_colonial_management",
+    "name": "Colonial Management",
+    "description": "Have 3 colonial governors that were directly appointed by you at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_29",
+    "icon": "achievement_colonial_management.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_voting_streak",
+    "name": "Voting Streak",
+    "description": "Successfully pass 11 issues in a row in Parliament.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_30",
+    "icon": "achievement_voting_streak.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_industrial_evolution",
+    "name": "An Industrial Evolution",
+    "description": "As Great Britain, own all of England as core provinces and have at least 25 development in each province there.",
+    "localizationKey": "NEW_ACHIEVEMENT_8_31",
+    "icon": "achievement_industrial_evolution.dds",
+    "allowedTags": [
+      "GBR"
+    ]
+  },
+  {
+    "id": "achievement_city_of_cities",
+    "name": "City of Cities",
+    "description": "Own a core province with at least 60 development.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_0",
+    "icon": "achievement_city_of_cities.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_one_family_to_rule_them_all",
+    "name": "One Family to Rule them All",
+    "description": "Have your dynasty on 8 thrones at the same time. Client states do not count.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_1",
+    "icon": "achievement_one_family_to_rule_them_all.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_this_is_my_faith",
+    "name": "This is My Faith",
+    "description": "Convert to Protestantism and unlock 3 Aspects of Faith.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_2",
+    "icon": "achievement_this_is_my_faith.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_bleed_them_dry",
+    "name": "Bleed Them Dry",
+    "description": "Have 10 different War Reparations being paid to you at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_3",
+    "icon": "achievement_bleed_them_dry.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_subsidize_my_love",
+    "name": "Subsidize my Love",
+    "description": "Subsidize 3 different allies at least 50% of their monthly income without running a deficit.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_4",
+    "icon": "achievement_subsidize_my_love.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_take_that_habsburgs",
+    "name": "Take that, von Habsburgs!",
+    "description": "Starting as Hungary, own all of Austria as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_5",
+    "icon": "achievement_take_that_habsburgs.dds",
+    "allowedTags": [
+      "AUH",
+      "HUN"
+    ]
+  },
+  {
+    "id": "achievement_white_elephant",
+    "name": "The White Elephant",
+    "description": "As Ayutthaya, own all of Indochina and Burma as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_6",
+    "icon": "achievement_white_elephant.dds",
+    "allowedTags": [
+      "AYU",
+      "SIA"
+    ]
+  },
+  {
+    "id": "achievement_buddhists_strike_back",
+    "name": "The Buddhists Strike Back",
+    "description": "As Kotte or Kandy, own all of India and convert it to Theravada Buddhism.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_7",
+    "icon": "achievement_buddhists_strike_back.dds",
+    "allowedTags": [
+      "CEY",
+      "KND"
+    ]
+  },
+  {
+    "id": "achievement_better_than_napoleon",
+    "name": "Better than Napoleon",
+    "description": "As France, own Vienna, Berlin and Moscow as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_8",
+    "icon": "achievement_better_than_napoleon.dds",
+    "allowedTags": [
+      "FRA"
+    ]
+  },
+  {
+    "id": "achievement_big_blue_blob",
+    "name": "Big Blue Blob",
+    "description": "As France, hold 100 European core provinces before 1500.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_9",
+    "icon": "achievement_big_blue_blob.dds",
+    "allowedTags": [
+      "FRA"
+    ]
+  },
+  {
+    "id": "achievement_full_house",
+    "name": "Full House",
+    "description": "Have 3 Vassals and 2 Marches at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_10",
+    "icon": "achievement_full_house.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_black_jack",
+    "name": "Black Jack",
+    "description": "Have at least 21 different subjects with 5 cities each and without any subject having 50% or more Liberty Desire. Trade Companies do not count.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_11",
+    "icon": "achievement_black_jack.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_a_decent_reserve",
+    "name": "A Decent Reserve",
+    "description": "Have a maximum manpower of at least 1 million.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_12",
+    "icon": "achievement_a_decent_reserve.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_six_nations",
+    "name": "The Six Nations",
+    "description": "Form a Federation of at least six nations as the Iroquois.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_13",
+    "icon": "achievement_six_nations.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_bohemians",
+    "name": "The Bohemians",
+    "description": "As Bohemia, own Dublin as a core province.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_14",
+    "icon": "achievement_the_bohemians.dds",
+    "allowedTags": [
+      "BOH"
+    ]
+  },
+  {
+    "id": "achievement_komenoi_empire",
+    "name": "Komnenoi Empire",
+    "description": "As Trebizond, have the Empire government rank.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_15",
+    "icon": "achievement_komenoi_empire.dds",
+    "allowedTags": [
+      "TRE"
+    ]
+  },
+  {
+    "id": "achievement_lucky_lucca",
+    "name": "Lucky Lucca",
+    "description": "As Lucca, own Lucknow!",
+    "localizationKey": "NEW_ACHIEVEMENT_9_16",
+    "icon": "achievement_lucky_lucca.dds",
+    "allowedTags": [
+      "LUC"
+    ]
+  },
+  {
+    "id": "achievement_fine_goosestep",
+    "name": "A Fine Goosestep",
+    "description": "Form Prussia and have at least 125% Discipline.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_17",
+    "icon": "achievement_fine_goosestep.dds",
+    "allowedTags": [
+      "PRU"
+    ]
+  },
+  {
+    "id": "achievement_meissner_porcelain",
+    "name": "Meissner Porcelain",
+    "description": "As Saxony, own or have a subject own all Chinaware provinces in the world.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_18",
+    "icon": "achievement_meissner_porcelain.dds",
+    "allowedTags": [
+      "SAX"
+    ]
+  },
+  {
+    "id": "achievement_all_your_trade_are_belong_to_us",
+    "name": "All Your Trade Are Belong to Us",
+    "description": "Have the highest trade power in Genoa, Venice and English Channel while having an income of at least 300 ducats per month.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_19",
+    "icon": "achievement_all_your_trade_are_belong_to_us.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_grand_duchy",
+    "name": "Grand Duchy",
+    "description": "Starting as a Duchy, have 1000 development without upgrading your government rank.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_20",
+    "icon": "achievement_grand_duchy.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_rags_and_riches",
+    "name": "Rags and Riches",
+    "description": "Have the highest income in the world while neither owning nor starting with a province with a development level higher than 10.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_21",
+    "icon": "achievement_rags_and_riches.dds",
+    "allowedTags": [
+      "Countries starting with less than 10 development"
+    ]
+  },
+  {
+    "id": "achievement_strait_talk",
+    "name": "Strait Talk",
+    "description": "As Hormuz, have at least 10 diplomatic reputation",
+    "localizationKey": "NEW_ACHIEVEMENT_9_22",
+    "icon": "achievement_strait_talk.dds",
+    "allowedTags": [
+      "ORM"
+    ]
+  },
+  {
+    "id": "achievement_academical",
+    "name": "Academical",
+    "description": "As Athens, own 50 universities.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_23",
+    "icon": "achievement_academical.dds",
+    "allowedTags": [
+      "ATH"
+    ]
+  },
+  {
+    "id": "achievement_one_faith",
+    "name": "One Faith",
+    "description": "Have all non-wasteland land provinces in the world be of your religion.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_24",
+    "icon": "achievement_one_faith.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_dar_al_islam",
+    "name": "Dar al-Islam",
+    "description": "Unify Islam under your rule.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_25",
+    "icon": "achievement_dar_al_islam.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_uncommonwealth",
+    "name": "The Uncommonwealth",
+    "description": "As Lithuania, become The Commonwealth.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_26",
+    "icon": "achievement_the_uncommonwealth.dds",
+    "allowedTags": [
+      "LIT",
+      "PLC"
+    ]
+  },
+  {
+    "id": "achievement_the_burgundian_inheritance",
+    "name": "The Burgundian Conquest",
+    "description": "As Burgundy, own the Low Countries region as core provinces and have France and Austria as your subjects.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_27",
+    "icon": "achievement_the_burgundian_inheritance.dds",
+    "allowedTags": [
+      "BUR",
+      "LOT"
+    ]
+  },
+  {
+    "id": "achievement_the_third_way",
+    "name": "The Third Way",
+    "description": "Start as an Ibadi nation and eliminate all rival schools of Islam (do not convert to another religion).",
+    "localizationKey": "NEW_ACHIEVEMENT_9_28",
+    "icon": "achievement_the_third_way.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_back_to_the_piast",
+    "name": "Back to the Piast",
+    "description": "As Mazovia, Glogow or Opole, form the nation of Poland.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_29",
+    "icon": "achievement_back_to_the_piast.dds",
+    "allowedTags": [
+      "GLG",
+      "MAZ",
+      "OPL",
+      "POL",
+      "SIL"
+    ]
+  },
+  {
+    "id": "achievement_great_perm",
+    "name": "Great Perm",
+    "description": "As Perm, own or have a subject own the Russian, Siberian, Scandinavian, Canadian, Hudson Bay and Cascadian Regions.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_30",
+    "icon": "achievement_great_perm.dds",
+    "allowedTags": [
+      "PRM"
+    ]
+  },
+  {
+    "id": "achievement_lazarus",
+    "name": "Lazarus",
+    "description": "As Serbia, own the entire Balkans as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_9_31",
+    "icon": "achievement_lazarus.dds",
+    "allowedTags": [
+      "SER"
+    ]
+  },
+  {
+    "id": "achievement_frozen_assets",
+    "name": "Frozen Assets",
+    "description": "Start as Novgorod and control 90% of the trade power in the White Sea trade node while it is the highest valued trade node in the world.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_0",
+    "icon": "achievement_frozen_assets.dds",
+    "allowedTags": [
+      "NOV"
+    ]
+  },
+  {
+    "id": "achievement_tatarstan",
+    "name": "Tatarstan",
+    "description": "As Kazan or Nogai, own all Tatar culture group lands.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_1",
+    "icon": "achievement_tatarstan.dds",
+    "allowedTags": [
+      "KAZ",
+      "NOG"
+    ]
+  },
+  {
+    "id": "achievement_terra_mariana",
+    "name": "Terra Mariana",
+    "description": "As Riga, own or have a subject own the Baltic region.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_2",
+    "icon": "achievement_terra_mariana.dds",
+    "allowedTags": [
+      "RIG"
+    ]
+  },
+  {
+    "id": "achievement_blood_for_the_sky_god",
+    "name": "Blood for the Sky God!",
+    "description": "As a Tengri nation, have Nahuatl as your syncretic faith.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_3",
+    "icon": "achievement_blood_for_the_sky_god.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_pyramid_of_skulls",
+    "name": "Pyramid of Skulls",
+    "description": "As a Steppe Horde, raze a province with at least 30 development.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_4",
+    "icon": "achievement_pyramid_of_skulls.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_trustworthy",
+    "name": "Trustworthy",
+    "description": "Have five allies with 100 trust towards you each.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_5",
+    "icon": "achievement_trustworthy.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_continuation_of_diplomacy",
+    "name": "The Continuation of Diplomacy",
+    "description": "Successfully use Threaten War to gain a province from another nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_6",
+    "icon": "achievement_the_continuation_of_diplomacy.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_factionalism",
+    "name": "Factionalism",
+    "description": " Have 3 different estates in your country with at least 70% influence each.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_7",
+    "icon": "achievement_factionalism.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_from_humble_origins",
+    "name": "From Humble Origins",
+    "description": "Starting as a custom nation with no more than 50 points, have at least 2000 total development.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_8",
+    "icon": "achievement_from_humble_origins.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_ideas_guy",
+    "name": "Ideas Guy",
+    "description": "Starting as a custom nation with the full 800 points but no more than 3 total development, have a monthly income of at least 500 ducats.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_9",
+    "icon": "achievement_ideas_guy.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_for_odin",
+    "name": "For Odin!",
+    "description": "Starting as a Norse custom nation with no more than 200 points and a maximum of 5 provinces, own & core Scandinavia and the British Isles and convert it all to Norse.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_10",
+    "icon": "achievement_for_odin.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_rekindling_the_flames",
+    "name": "Rekindling the Flames",
+    "description": "Starting as a Zoroastrian custom nation with no more than 200 points and a maximum of 5 provinces, rekindle the royal fires.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_11",
+    "icon": "achievement_rekindling_the_flames.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_first_come_first_serve",
+    "name": "First Come, First Serve",
+    "description": "Starting as a Western technology custom nation in North America or South America with no more than 200 points, unite the two continents.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_12",
+    "icon": "achievement_first_come_first_serve.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_mare_nostrum",
+    "name": "Mare Nostrum",
+    "description": "Restore the Roman Empire and own the entire Mediterranean and Black Sea coast lines.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_13",
+    "icon": "achievement_mare_nostrum.dds",
+    "allowedTags": [
+      "PAP",
+      "ROM"
+    ]
+  },
+  {
+    "id": "achievement_kuban_cigars",
+    "name": "Kuban Cigars",
+    "description": "As Kuba, own or have a subject own Havana and be the world\u2019s leading producer of Tobacco.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_14",
+    "icon": "achievement_kuban_cigars.dds",
+    "allowedTags": [
+      "KUB"
+    ]
+  },
+  {
+    "id": "achievement_kushite_restoration",
+    "name": "Kushite Restoration",
+    "description": "As a Nubian culture nation, own or have a non-Tributary subject own the entire Egyptian region.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_15",
+    "icon": "achievement_kushite_restoration.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_fezzan_corridors",
+    "name": "The Fezzan Corridors",
+    "description": "As Fezzan, control at least 90% of the trade power in Tunis, Katsina, Safi and Timbuktu.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_16",
+    "icon": "achievement_fezzan_corridors.dds",
+    "allowedTags": [
+      "FZA"
+    ]
+  },
+  {
+    "id": "achievement_victorian_three",
+    "name": "Victorian Three",
+    "description": "As Busoga, Buganda or Karagwe, reach administrative, diplomatic and military technology level 32.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_17",
+    "icon": "achievement_victorian_three.dds",
+    "allowedTags": [
+      "BSG",
+      "BUG",
+      "KRW"
+    ]
+  },
+  {
+    "id": "achievement_animal_kingdom",
+    "name": "The Animal Kingdom",
+    "description": "As Manipur, unite the Bengal region and convert it to Animism.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_18",
+    "icon": "achievement_animal_kingdom.dds",
+    "allowedTags": [
+      "MLB"
+    ]
+  },
+  {
+    "id": "achievement_golden_horn",
+    "name": "Golden Horn",
+    "description": "As a Somali nation, fully own the Horn of Africa region and have a monthly gold income of at least 10 ducats.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_19",
+    "icon": "achievement_golden_horn.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_kinslayer",
+    "name": "Kinslayer",
+    "description": "As Tver, Yaroslavl, Ryazan, Beloozero, Rostov or Odoyev, eliminate all other Rurikovich nations without changing your ruling dynasty.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_20",
+    "icon": "achievement_kinslayer.dds",
+    "allowedTags": [
+      "BLO",
+      "OKA",
+      "RSO",
+      "RYA",
+      "TVE",
+      "YAR"
+    ]
+  },
+  {
+    "id": "achievement_choson_one",
+    "name": "Choson One",
+    "description": "As Korea, own or have a subject own all Shinto, Confucian and Buddhist provinces in the world.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_21",
+    "icon": "achievement_choson_one.dds",
+    "allowedTags": [
+      "KOR"
+    ]
+  },
+  {
+    "id": "achievement_sailor_mon",
+    "name": "Sailor Mon",
+    "description": "As Pegu, have at least 100,000 sailors.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_22",
+    "icon": "achievement_sailor_mon.dds",
+    "allowedTags": [
+      "PEG"
+    ]
+  },
+  {
+    "id": "achievement_networking",
+    "name": "Networking",
+    "description": "Have 100 point spy networks in 3 Rival nations.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_23",
+    "icon": "achievement_networking.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_white_company",
+    "name": "The White Company",
+    "description": "Join a war on the other side of someone to whom you have rented condottieri.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_24",
+    "icon": "achievement_the_white_company.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_time_bandit",
+    "name": "Time Bandit",
+    "description": "Successfully steal a map from another nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_25",
+    "icon": "achievement_time_bandit.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_with_a_little_help",
+    "name": "With a little help..",
+    "description": "As Ragusa, lead a Trade League of at least 5 nations and guarantee the Ottomans\u2019 independence.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_26",
+    "icon": "achievement_with_a_little_help.dds",
+    "allowedTags": [
+      "RAG"
+    ]
+  },
+  {
+    "id": "achievement_just_resting_in_my_account",
+    "name": "Just Resting In My Account",
+    "description": "Corrupt the officials in a Rival country.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_27",
+    "icon": "achievement_just_resting_in_my_account.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_cities_of_cibola",
+    "name": "Cities of Cibola",
+    "description": "As a Nation that has Pueblo as primary culture, own at least 7 provinces with 10 development each.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_6",
+    "icon": "achievement_cities_of_cibola.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_turkish_delight",
+    "name": "Turkish Delight",
+    "description": "Start as Candar and own 20 Sugar provinces between you and your subjects.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_7",
+    "icon": "achievement_turkish_delight.dds",
+    "allowedTags": [
+      "CND"
+    ]
+  },
+  {
+    "id": "achievement_baa_baa_black_sheep",
+    "name": "Baa Baa Black Sheep",
+    "description": "As Qara Qoyunlu become the leading producer of wool.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_8",
+    "icon": "achievement_baa_baa_black_sheep.dds",
+    "allowedTags": [
+      "QAR"
+    ]
+  },
+  {
+    "id": "achievement_fanatic_collectivist",
+    "name": "Fanatic Collectivist",
+    "description": "Own all Institution Origin provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_9",
+    "icon": "achievement_fanatic_collectivist.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_core_fu",
+    "name": "Core-fu",
+    "description": "Force a nation to revoke 5 cores in one peace deal as Corfu.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_10",
+    "icon": "achievement_core_fu.dds",
+    "allowedTags": [
+      "CEP"
+    ]
+  },
+  {
+    "id": "achievement_rozwi_empire",
+    "name": "Rozwi Empire",
+    "description": "Starting as Butua, conquer Mutapa (Zimbabwe and Lower Zambezi areas).",
+    "localizationKey": "NEW_ACHIEVEMENT_11_11",
+    "icon": "achievement_rozwi_empire.dds",
+    "allowedTags": [
+      "RZW"
+    ]
+  },
+  {
+    "id": "achievement_sudanese_expedition",
+    "name": "The Sudanese Expedition",
+    "description": "Starting as Morocco, conquer the Niger and Sahel Regions.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_12",
+    "icon": "achievement_sudanese_expedition.dds",
+    "allowedTags": [
+      "MOR"
+    ]
+  },
+  {
+    "id": "achievement_a_tale_of_two_families",
+    "name": "A tale of two Families",
+    "description": "Starting as Vijayanagar or Bahmanis conquer the other\u2019s capital and have them not exist.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_13",
+    "icon": "achievement_a_tale_of_two_families.dds",
+    "allowedTags": [
+      "BAH",
+      "VIJ"
+    ]
+  },
+  {
+    "id": "achievement_abu_bakr_IIs_ambition",
+    "name": "Abu Bakr II\u2019s Ambition",
+    "description": "Start as Mali and have 4 Colonial Subjects in South America.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_14",
+    "icon": "achievement_abu_bakr_IIs_ambition.dds",
+    "allowedTags": [
+      "MAL"
+    ]
+  },
+  {
+    "id": "achievement_consulate_of_the_sea",
+    "name": "Consulate of the Sea",
+    "description": "As Aragon conquer all Mediterranean Centers of Trade.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_15",
+    "icon": "achievement_consulate_of_the_sea.dds",
+    "allowedTags": [
+      "ARA"
+    ]
+  },
+  {
+    "id": "achievement_we_bled_for_this",
+    "name": "We bled for this",
+    "description": "Win a war with at least one million dead on both sides.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_28",
+    "icon": "achievement_we_bled_for_this.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_pick_your_poison",
+    "name": "Pick Your Poison",
+    "description": "As Kaffa, develop in Cafa while a subject of yours owns it.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_29",
+    "icon": "achievement_pick_your_poison.dds",
+    "allowedTags": [
+      "KAF"
+    ]
+  },
+  {
+    "id": "achievement_not_just_pizza",
+    "name": "Not just Pizza",
+    "description": "Become a Great Power as Naples.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_30",
+    "icon": "achievement_not_just_pizza.dds",
+    "allowedTags": [
+      "NAP"
+    ]
+  },
+  {
+    "id": "achievement_all_that_is_thine_shall_be_mine",
+    "name": "All That's Thine Shall Be Mine",
+    "description": "As a Greedy ruler, take all of a nation\u2019s ducats in a peace deal.",
+    "localizationKey": "NEW_ACHIEVEMENT_10_31",
+    "icon": "achievement_all_that_is_thine_shall_be_mine.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_a_blessed_nation",
+    "name": "A Blessed Nation",
+    "description": "As a Coptic Nation, gain all 5 Blessings.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_0",
+    "icon": "achievement_a_blessed_nation.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_queen_of_conquest",
+    "name": "Queen of Conquest",
+    "description": "Conquer land while in a Queen Regency.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_1",
+    "icon": "achievement_queen_of_conquest.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_aaa_credit",
+    "name": "AAA Credit",
+    "description": "As a Great Power, take on over 1,000 ducats of another nation\u2019s debt.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_2",
+    "icon": "achievement_aaa_credit.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_hoarder",
+    "name": "Hoarder",
+    "description": "As a Fetishist nation, have 13 available Cults.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_3",
+    "icon": "achievement_hoarder.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_gentle_persuasion",
+    "name": "Gentle Persuasion",
+    "description": "Have a Siege Specialist general win a siege in a province with a fort.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_4",
+    "icon": "achievement_gentle_persuasion.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_combined_arms",
+    "name": "Combined Arms",
+    "description": "Have both an Admiral and a General with a trait.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_5",
+    "icon": "achievement_combined_arms.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_turtles_all_the_way_down",
+    "name": "Turtles all the way down",
+    "description": "As Korea get 135% Ship Durability.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_3",
+    "icon": "achievement_turtles_all_the_way_down.dds",
+    "allowedTags": [
+      "KOR"
+    ]
+  },
+  {
+    "id": "achievement_the_navigator",
+    "name": "The Navigator",
+    "description": "As Portugal, own provinces in Africa, India and Indonesia before 1500.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_2",
+    "icon": "achievement_the_navigator.dds",
+    "allowedTags": [
+      "POR"
+    ]
+  },
+  {
+    "id": "achievement_gold_rush",
+    "name": "Gold Rush",
+    "description": "Reform the Golden Horde before 1500.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_1",
+    "icon": "achievement_gold_rush.dds",
+    "allowedTags": [
+      "GLH"
+    ]
+  },
+  {
+    "id": "achievement_graze_my_horse_here_and_here",
+    "name": "I'll graze my horse here.. And here\u2026",
+    "description": "As a Horde, own over 200 provinces producing grain.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_0",
+    "icon": "achievement_graze_my_horse_here_and_here.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_rise_of_the_white_sheep",
+    "name": "Rise of the White Sheep",
+    "description": "As Aq Qoyunlu, own Tabriz and have Qara Qoyunlu not exist by 1478.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_31",
+    "icon": "achievement_rise_of_the_white_sheep.dds",
+    "allowedTags": [
+      "AKK"
+    ]
+  },
+  {
+    "id": "achievement_where_the_heart_is",
+    "name": "Where the heart is",
+    "description": "As Dahomey, force all non-Fetishist nations out of Niger and Sahel by 1500.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_30",
+    "icon": "achievement_where_the_heart_is.dds",
+    "allowedTags": [
+      "DAH"
+    ]
+  },
+  {
+    "id": "achievement_disciples_of_enlightenment",
+    "name": "Disciples of Enlightenment",
+    "description": "Starting as Dai Viet, have 10 nations follow the Mahayana Faith by 1500.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_29",
+    "icon": "achievement_disciples_of_enlightenment.dds",
+    "allowedTags": [
+      "DAI"
+    ]
+  },
+  {
+    "id": "achievement_first_toungoo_empire",
+    "name": "The First Toungoo Empire",
+    "description": "As Taungu, unite the Burman culture group by 1500.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_28",
+    "icon": "achievement_first_toungoo_empire.dds",
+    "allowedTags": [
+      "TAU"
+    ]
+  },
+  {
+    "id": "achievement_made_in_japan",
+    "name": "Made in Japan",
+    "description": "Embrace \"manufactories\" institution as Japan by 1655.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_27",
+    "icon": "achievement_made_in_japan.dds",
+    "allowedTags": [
+      "JAP"
+    ]
+  },
+  {
+    "id": "achievement_three_trivial_tributaries",
+    "name": "Three Trivial Tributary Tribes",
+    "description": "Have 3 Tribal States as Tributaries.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_26",
+    "icon": "achievement_three_trivial_tributaries.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_qing_of_china",
+    "name": "Qing of China",
+    "description": "Become Chinese Emperor as Qing and own all of China.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_25",
+    "icon": "achievement_qing_of_china.dds",
+    "allowedTags": [
+      "QNG"
+    ]
+  },
+  {
+    "id": "achievement_carthago_delenda_est",
+    "name": "Carthago Delenda Est",
+    "description": "As an Italian culture nation, make sure entire Tunis Area is at 100 devastation.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_24",
+    "icon": "achievement_carthago_delenda_est.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_live_long_and_prosper",
+    "name": "Live Long and Prosper",
+    "description": "Have 30 states with prosperity at the same time as you have a 70 year old ruler.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_16",
+    "icon": "achievement_live_long_and_prosper.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_tear_down_this_wall",
+    "name": "Tear Down This Wall",
+    "description": "Use Artillery Barrage on Berlin.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_17",
+    "icon": "achievement_tear_down_this_wall.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_golden_empire",
+    "name": "A Golden Empire",
+    "description": "Enact a Golden Age as an Empire.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_18",
+    "icon": "achievement_golden_empire.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_cherrypicking",
+    "name": "Cherrypicking",
+    "description": "Conscript a 3 star general from a Daimyo Subject.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_19",
+    "icon": "achievement_cherrypicking.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_banners_need_a_saga",
+    "name": "These Banners need a Saga",
+    "description": "Starting as a Jurchen nation, have 100 regiments of Banners raised at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_20",
+    "icon": "achievement_banners_need_a_saga.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_sweet_harmony",
+    "name": "Sweet Harmony",
+    "description": "Harmonize 7 religions as Confucian.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_21",
+    "icon": "achievement_sweet_harmony.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_sakoku_law",
+    "name": "Sakoku Law",
+    "description": "Go full isolationist in 6 Incidents.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_22",
+    "icon": "achievement_sakoku_law.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_absolutely",
+    "name": "Absolutely",
+    "description": "Gain 100 Absolutism.",
+    "localizationKey": "NEW_ACHIEVEMENT_11_23",
+    "icon": "achievement_absolutely.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_dovmonts_own",
+    "name": "Dovmont's Own",
+    "description": "Starting as Pskov, have 100 standing Streltsy units.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_1",
+    "icon": "achievement_dovmonts_own.dds",
+    "allowedTags": [
+      "PSK"
+    ]
+  },
+  {
+    "id": "achievement_redecorating",
+    "name": "Redecorating",
+    "description": "Starting as an Orthodox Nation, Consecrate Metropolitan in Roma.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_2",
+    "icon": "achievement_redecorating.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_breaking_the_yoke",
+    "name": "Breaking the Yoke",
+    "description": "As Ryazan, own Saratov, Crimea and Kazan while being independent.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_3",
+    "icon": "achievement_breaking_the_yoke.dds",
+    "allowedTags": [
+      "RYA"
+    ]
+  },
+  {
+    "id": "achievement_back_in_control",
+    "name": "Back in Control",
+    "description": "Form Yuan and be the only nation holding land in China.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_4",
+    "icon": "achievement_back_in_control.dds",
+    "allowedTags": [
+      "YUA"
+    ]
+  },
+  {
+    "id": "achievement_mass_production",
+    "name": "Mass Production",
+    "description": "Starting as Odoyev, own one of every manufactory.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_5",
+    "icon": "achievement_mass_production.dds",
+    "allowedTags": [
+      "OKA"
+    ]
+  },
+  {
+    "id": "achievement_relentless_push_east",
+    "name": "Relentless Push East",
+    "description": "Starting as a Russian nation, By 1600 own the East Siberian Coastline.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_6",
+    "icon": "achievement_relentless_push_east.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_laughingstock",
+    "name": "Laughingstock",
+    "description": "Own the provinces of Haha, Hehe and Lolland.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_7",
+    "icon": "achievement_laughingstock.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_lessons_of_hemmingstedt",
+    "name": "Lessons of Hemmingstedt",
+    "description": "As Dithmarschen, hold the provinces of Sjaelland and Holland while Denmark do not exist.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_8",
+    "icon": "achievement_lessons_of_hemmingstedt.dds",
+    "allowedTags": [
+      "DTT"
+    ]
+  },
+  {
+    "id": "achievement_its_all_greek_to_me",
+    "name": "It's All Greek To Me",
+    "description": "Form Greece and own and have cores on Zeta, Thatta, Lamba, and Roh.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_9",
+    "icon": "achievement_its_all_greek_to_me.dds",
+    "allowedTags": [
+      "GRE"
+    ]
+  },
+  {
+    "id": "achievement_52_garhs",
+    "name": "The 52 Garhs",
+    "description": "As Garhwal own and maintain 52 forts without going into debt.",
+    "localizationKey": "NEW_ACHIEVEMENT_13_10",
+    "icon": "achievement_52_garhs.dds",
+    "allowedTags": [
+      "GHR"
+    ]
+  },
+  {
+    "id": "achievement_bunte_kuh",
+    "name": "Bunte Kuh",
+    "description": "As Hamburg, trade in both Gems and Livestock.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_14",
+    "icon": "achievement_bunte_kuh.dds",
+    "allowedTags": [
+      "HAM"
+    ]
+  },
+  {
+    "id": "achievement_good_king_rene",
+    "name": "Good King Renee",
+    "description": "Start as Provence, form the Kingdom of Jerusalem.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_15",
+    "icon": "achievement_good_king_rene.dds",
+    "allowedTags": [
+      "KOJ",
+      "PRO"
+    ]
+  },
+  {
+    "id": "achievement_saladins_legacy",
+    "name": "Saladins Legacy",
+    "description": "Playing as Hisn Kayfa, reforge the Ayyubid Empire.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_16",
+    "icon": "achievement_saladins_legacy.dds",
+    "allowedTags": [
+      "HSN"
+    ]
+  },
+  {
+    "id": "achievement_avar_khaganate",
+    "name": "Avar Khaganate",
+    "description": "Achieve Empire rank and conquer Hungary as Avaria.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_17",
+    "icon": "achievement_avar_khaganate.dds",
+    "allowedTags": [
+      "AVR"
+    ]
+  },
+  {
+    "id": "achievement_protect_the_secret",
+    "name": "Protect the Secret",
+    "description": "As Yemen, prevent any European Nation from owning a Coffee-producing province in the Old World until 1700.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_18",
+    "icon": "achievement_protect_the_secret.dds",
+    "allowedTags": [
+      "YEM"
+    ]
+  },
+  {
+    "id": "achievement_great_moravia",
+    "name": "Great Moravia",
+    "description": "Restore the Great Moravian borders as Nitra or Moravia.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_19",
+    "icon": "achievement_great_moravia.dds",
+    "allowedTags": [
+      "GMA",
+      "MVA",
+      "SLO"
+    ]
+  },
+  {
+    "id": "achievement_a_heros_welcome",
+    "name": "A Hero\u2019s Welcome",
+    "description": "Starting as Karaman, form the Sultanate of Rum.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_20",
+    "icon": "achievement_a_heros_welcome.dds",
+    "allowedTags": [
+      "KAR",
+      "RUM"
+    ]
+  },
+  {
+    "id": "achievement_david_the_builder",
+    "name": "David the Builder",
+    "description": "As Georgia have no free building slots in any owned province.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_21",
+    "icon": "achievement_david_the_builder.dds",
+    "allowedTags": [
+      "GEO"
+    ]
+  },
+  {
+    "id": "achievement_voltaires_nightmare",
+    "name": "Voltaire's Nightmare",
+    "description": "Have at least 100 countries in the HRE.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_22",
+    "icon": "achievement_voltaires_nightmare.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_pandya_empire",
+    "name": "Pandya Empire",
+    "description": "Starting as Madurai, conquer the Pandya Territories.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_24",
+    "icon": "achievement_pandya_empire.dds",
+    "allowedTags": [
+      "MAD"
+    ]
+  },
+  {
+    "id": "achievement_prince_of_egypt",
+    "name": "The Prince of Egypt",
+    "description": "Starting as Florence, form Egypt.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_25",
+    "icon": "achievement_prince_of_egypt.dds",
+    "allowedTags": [
+      "EGY",
+      "LAN"
+    ]
+  },
+  {
+    "id": "achievement_around_the_world_in_eighty_years",
+    "name": "Around the World in 80 Years",
+    "description": "Starting as a Custom Nation of up to 400 points in the British Region, own New York, San Francisco, Suez, Bombay, Calcutta, Hong Kong and Yokohama by 1524.11.11.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_26",
+    "icon": "achievement_around_the_world_in_eighty_years.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_hard_bargaining",
+    "name": "Hard Bargaining",
+    "description": "As Defender of a Muslim Faith, propagate your religion in The Moluccas through trade to convert 5 provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_27",
+    "icon": "achievement_hard_bargaining.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_early_modern_warfare",
+    "name": "Early-Modern Warfare",
+    "description": "Have 100 regiments at 100% Army Drill.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_28",
+    "icon": "achievement_early_modern_warfare.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_sworn_fealty",
+    "name": "Sworn Fealty",
+    "description": "Starting as an Arabian Tribal Federation, unite Arabia and have Maximum tribal Allegiance.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_29",
+    "icon": "achievement_sworn_fealty.dds",
+    "allowedTags": [
+      "ARB"
+    ]
+  },
+  {
+    "id": "achievement_parisian_pasha",
+    "name": "Parisian Pasha",
+    "description": "Assign Pasha to Paris.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_30",
+    "icon": "achievement_parisian_pasha.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_multiculturalism",
+    "name": "Multiculturalism",
+    "description": "Have 4 different Cultures and 4 different religions represented in your court.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_31",
+    "icon": "achievement_multiculturalism.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_narcissism",
+    "name": "Narcissism",
+    "description": "Name a general after yourself and lead your army to victory.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_32",
+    "icon": "achievement_narcissism.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_levant_turnabout",
+    "name": "The Levant Turnabout",
+    "description": "As the Mamluks, have 100 Army Professionalism and annex the Ottomans.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_33",
+    "icon": "achievement_levant_turnabout.dds",
+    "allowedTags": [
+      "MAM"
+    ]
+  },
+  {
+    "id": "achievement_cowardly_tactics",
+    "name": "Cowardly Tactics",
+    "description": "Have a fort and a supply depot in a mountainous province producing livestock.",
+    "localizationKey": "NEW_ACHIEVEMENT_12_34",
+    "icon": "achievement_cowardly_tactics.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_home_and_away",
+    "name": "Home and Away",
+    "description": "As Wales, hold Cardiff, Dublin, Edinburgh, Rome, Paris and London.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_1",
+    "icon": "achievement_home_and_away.dds",
+    "allowedTags": [
+      "WLS"
+    ]
+  },
+  {
+    "id": "achievement_sleepless_in_seattle",
+    "name": "Sleepless in Seattle",
+    "description": "Own 10 Coffee producing provinces, and have your capital in Salish.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_3",
+    "icon": "achievement_sleepless_in_seattle.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_sun_invasion",
+    "name": "Sun Invasion",
+    "description": "As the Madyas, own and have cores on Tepeacac, Mexico, Tullucan and Huastec.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_2",
+    "icon": "achievement_sun_invasion.dds",
+    "allowedTags": [
+      "MAS"
+    ]
+  },
+  {
+    "id": "achievement_empire_of_mann",
+    "name": "Empire of Mann",
+    "description": "As Mann, conquer all Islands in the world.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_5",
+    "icon": "achievement_empire_of_mann.dds",
+    "allowedTags": [
+      "KOI"
+    ]
+  },
+  {
+    "id": "achievement_dude_where_s_my_boat",
+    "name": "Dude, Where's my Boat?",
+    "description": "Capture 20 boats with the Boarding Naval Doctrine.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_6",
+    "icon": "achievement_dude_where_s_my_boat.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_industrial_powerhouse",
+    "name": "Industrial Powerhouse",
+    "description": "Have 10 furnaces built in your nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_9",
+    "icon": "achievement_industrial_powerhouse.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_chop_chop",
+    "name": "Chop Chop",
+    "description": "With only one Monarch, have six different Consorts.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_10",
+    "icon": "achievement_chop_chop.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_bright_spark",
+    "name": "Bright Spark",
+    "description": "Have 50 Innovativeness.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_7",
+    "icon": "achievement_bright_spark.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_anglophile",
+    "name": "Anglophile",
+    "description": "Complete all English and British missions.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_8",
+    "icon": "achievement_anglophile.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_philippine_tiger",
+    "name": "Philippine Tiger",
+    "description": "As Cebu, recreate the Chola Empire.",
+    "localizationKey": "NEW_ACHIEVEMENT_14_4",
+    "icon": "achievement_philippine_tiger.dds",
+    "allowedTags": [
+      "CEB"
+    ]
+  },
+  {
+    "id": "achievement_mewar_never_changes",
+    "name": "Mewar Never Changes",
+    "description": "Complete the Mewar Mission Tree.",
+    "localizationKey": "NEW_ACHIEVEMENT_15",
+    "icon": "achievement_mewar_never_changes.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_fine_financials",
+    "name": "Fine Financials",
+    "description": "Own Eight level 3 Centres of Trade.",
+    "localizationKey": "NEW_ACHIEVEMENT_16",
+    "icon": "achievement_fine_financials.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_the_coin_is_stronger_than_the_sword",
+    "name": "The Coin is Stronger than the Sword",
+    "description": "Charter Company from an Indian nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_17",
+    "icon": "achievement_the_coin_is_stronger_than_the_sword.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_sweet_home_qaraqorum",
+    "name": "Sweet Home Qaraqorum",
+    "description": "As the Mughals assimilate Mongolian culture.",
+    "localizationKey": "NEW_ACHIEVEMENT_18",
+    "icon": "achievement_sweet_home_qaraqorum.dds",
+    "allowedTags": [
+      "MUG"
+    ]
+  },
+  {
+    "id": "achievement_the_ostenders",
+    "name": "The Ostenders",
+    "description": "As Austria or AH have the District and Military Administration investments in the West Bengal area.",
+    "localizationKey": "NEW_ACHIEVEMENT_19",
+    "icon": "achievement_the_ostenders.dds",
+    "allowedTags": [
+      "AUH",
+      "HAB"
+    ]
+  },
+  {
+    "id": "achievement_ganges_khan",
+    "name": "Ganges Khan",
+    "description": "Start as Tribal nation in India and become a Steppe Horde.",
+    "localizationKey": "NEW_ACHIEVEMENT_20",
+    "icon": "achievement_ganges_khan.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_foul_mouthed",
+    "name": "Foul Mouthed",
+    "description": "Scornfully insult 10 nations that border you.",
+    "localizationKey": "NEW_ACHIEVEMENT_21",
+    "icon": "achievement_foul_mouthed.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_populists_in_government",
+    "name": "Populists in Government",
+    "description": "Switch government type through government reforms.",
+    "localizationKey": "NEW_ACHIEVEMENT_22",
+    "icon": "achievement_populists_in_government.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_maharana_pratap",
+    "name": "Maharana Pratap",
+    "description": "Start as Mewar and field an army of 20 Rajput regiments.",
+    "localizationKey": "NEW_ACHIEVEMENT_23",
+    "icon": "achievement_maharana_pratap.dds",
+    "allowedTags": [
+      "MER"
+    ]
+  },
+  {
+    "id": "achievement_eat_your_greens",
+    "name": "Eat your Greens",
+    "description": "Control all Grasslands in Asia as Kale before the age of Absolutism.",
+    "localizationKey": "NEW_ACHIEVEMENT_24",
+    "icon": "achievement_eat_your_greens.dds",
+    "allowedTags": [
+      "KAL"
+    ]
+  },
+  {
+    "id": "achievement_emperor_of_hindustan",
+    "name": "Emperor of Hindustan",
+    "description": "Starting as Delhi, Restore their Empire's borders.",
+    "localizationKey": "NEW_ACHIEVEMENT_25",
+    "icon": "achievement_emperor_of_hindustan.dds",
+    "allowedTags": [
+      "DLH"
+    ]
+  },
+  {
+    "id": "achievement_true_heir_of_timur",
+    "name": "True Heir of Timur",
+    "description": "Starting as a Timurid subject, form the Mughals and conquer India by 1550.",
+    "localizationKey": "NEW_ACHIEVEMENT_27",
+    "icon": "achievement_true_heir_of_timur.dds",
+    "allowedTags": [
+      "AFG",
+      "FRS",
+      "KHO",
+      "MUG",
+      "SIS",
+      "TRS"
+    ]
+  },
+  {
+    "id": "achievement_ostindisk_kompagni_te",
+    "name": "\u00d8stindisk Kompagni Te",
+    "description": "As Denmark establish Trade company and have at least 10% Tea market share.",
+    "localizationKey": "NEW_ACHIEVEMENT_28",
+    "icon": "achievement_ostindisk_kompagni_te.dds",
+    "allowedTags": [
+      "DAN",
+      "SCA"
+    ]
+  },
+  {
+    "id": "achievement_sikh_pun",
+    "name": "Sikh Pun",
+    "description": "Convert to Sikhism and form the nation of Punjab.",
+    "localizationKey": "NEW_ACHIEVEMENT_29",
+    "icon": "achievement_sikh_pun.dds",
+    "allowedTags": [
+      "PUN"
+    ]
+  },
+  {
+    "id": "achievement_pirate_bay_of_janjira",
+    "name": "Pirate Bay of Janjira",
+    "description": "Have more than 50% Privateering power in the Gujarat trade node",
+    "localizationKey": "NEW_ACHIEVEMENT_30",
+    "icon": "achievement_pirate_bay_of_janjira.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_never_say_never",
+    "name": "Never say Nevers",
+    "description": "As Nevers, own the entire France region as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_31",
+    "icon": "achievement_never_say_never.dds",
+    "allowedTags": [
+      "NEV"
+    ]
+  },
+  {
+    "id": "achievement_forgive_me_for_i_have_sind",
+    "name": "Forgive me, for I have Sindh",
+    "description": "Become Christian as Sindh.",
+    "localizationKey": "NEW_ACHIEVEMENT_32",
+    "icon": "achievement_forgive_me_for_i_have_sind.dds",
+    "allowedTags": [
+      "SND"
+    ]
+  },
+  {
+    "id": "achievement_cotton_kandy",
+    "name": "Cotton Kandy",
+    "description": "As Kandy be production leader in Cotton.",
+    "localizationKey": "NEW_ACHIEVEMENT_33",
+    "icon": "achievement_cotton_kandy.dds",
+    "allowedTags": [
+      "KND"
+    ]
+  },
+  {
+    "id": "achievement_the_pheasant_strut",
+    "name": "The Pheasant Strut",
+    "description": "As Gorkha form Nepal and defeat Prussia with at least 100,000 Prussian casualties in a war (both have to be primary targets of war).",
+    "localizationKey": "NEW_ACHIEVEMENT_34",
+    "icon": "achievement_the_pheasant_strut.dds",
+    "allowedTags": [
+      "GRK",
+      "NPL"
+    ]
+  },
+  {
+    "id": "achievement_tiger_of_mysore",
+    "name": "Tiger of Mysore",
+    "description": "Starting as Mysore, Conquer the Deccan and Coromandel Regions.",
+    "localizationKey": "NEW_ACHIEVEMENT_26",
+    "icon": "achievement_tiger_of_mysore.dds",
+    "allowedTags": [
+      "MYS"
+    ]
+  },
+  {
+    "id": "achievement_trophy_hunter",
+    "name": "Trophy Hunter",
+    "description": "Capture an enemy flagship.",
+    "localizationKey": "NEW_ACHIEVEMENT_35",
+    "icon": "achievement_trophy_hunter.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_yarr_harr_a_pirates_life_for_me",
+    "name": "Yarr Harr a Pirate's Life For Me",
+    "description": "Choose to play as New Providence and conquer all of Caribbeans.",
+    "localizationKey": "NEW_ACHIEVEMENT_36",
+    "icon": "achievement_yarr_harr_a_pirates_life_for_me.dds",
+    "allowedTags": [
+      "NSS"
+    ]
+  },
+  {
+    "id": "achievement_why_is_the_rum_gone",
+    "name": "Why is the R\u00fbm gone!?",
+    "description": "As Asturias, establish an Order in Rum.",
+    "localizationKey": "NEW_ACHIEVEMENT_37",
+    "icon": "achievement_why_is_the_rum_gone.dds",
+    "allowedTags": [
+      "ASU"
+    ]
+  },
+  {
+    "id": "achievement_you_get_a_new_home_and_you_get_a_new_home",
+    "name": "You Get A New Home, And You Get A New Home",
+    "description": "Expel 5 different minorities to your colonies.",
+    "localizationKey": "NEW_ACHIEVEMENT_38",
+    "icon": "achievement_you_get_a_new_home_and_you_get_a_new_home.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_forever_golden",
+    "name": "Forever Golden",
+    "description": "Complete the Spanish Mission Tree.",
+    "localizationKey": "NEW_ACHIEVEMENT_39",
+    "icon": "achievement_forever_golden.dds",
+    "allowedTags": [
+      "SPA"
+    ]
+  },
+  {
+    "id": "achievement_basque_in_the_glory",
+    "name": "Basque in Glory",
+    "description": "Starting as Navarra, ensure that most of Iberia is Basque culture before the Age of Absolutism.",
+    "localizationKey": "NEW_ACHIEVEMENT_40",
+    "icon": "achievement_basque_in_the_glory.dds",
+    "allowedTags": [
+      "NAV"
+    ]
+  },
+  {
+    "id": "achievement_an_unlikely_candidate",
+    "name": "An Unlikely Candidate",
+    "description": "Starting as Mzab, Touggourt or Djerid, reform Al-Andalus.",
+    "localizationKey": "NEW_ACHIEVEMENT_41",
+    "icon": "achievement_an_unlikely_candidate.dds",
+    "allowedTags": [
+      "ADU",
+      "GHD",
+      "MZB",
+      "TGT"
+    ]
+  },
+  {
+    "id": "achievement_spanish_fly",
+    "name": "Spanish Fly",
+    "description": "Starting as Offaly, secure a Personal Union over an Iberian nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_42",
+    "icon": "achievement_spanish_fly.dds",
+    "allowedTags": [
+      "FLY"
+    ]
+  },
+  {
+    "id": "achievement_the_league_of_mayapan",
+    "name": "The League of Mayapan",
+    "description": "Starting as Huastec, form Maya.",
+    "localizationKey": "NEW_ACHIEVEMENT_43",
+    "icon": "achievement_the_league_of_mayapan.dds",
+    "allowedTags": [
+      "HST",
+      "MAY"
+    ]
+  },
+  {
+    "id": "achievement_where_am_i",
+    "name": "Where Am I?",
+    "description": "As a New World native with Random New World active, explore the entire New World.",
+    "localizationKey": "NEW_ACHIEVEMENT_44",
+    "icon": "achievement_where_am_i.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_aeiou",
+    "name": "AEIOU",
+    "description": "Complete the Austrian mission tree.",
+    "localizationKey": "NEW_ACHIEVEMENT_45",
+    "icon": "achievement_aeiou.dds",
+    "allowedTags": [
+      "AUH",
+      "HAB"
+    ]
+  },
+  {
+    "id": "achievement_napoleons_ambition",
+    "name": "Napoleon\u2019s Ambition",
+    "description": "As Revolutionary France, spread the Revolution to 10 countries.",
+    "localizationKey": "NEW_ACHIEVEMENT_46",
+    "icon": "achievement_napoleons_ambition.dds",
+    "allowedTags": [
+      "FRA"
+    ]
+  },
+  {
+    "id": "achievement_everythings_coming_up_mulhouse",
+    "name": "Everything's Coming Up Mulhouse",
+    "description": "Starting as Mulhouse, become Emperor of the HRE and completely decentralize the Empire.",
+    "localizationKey": "NEW_ACHIEVEMENT_47",
+    "icon": "achievement_everythings_coming_up_mulhouse.dds",
+    "allowedTags": [
+      "MLH"
+    ]
+  },
+  {
+    "id": "achievement_global_hegemony",
+    "name": "Global Hegemony",
+    "description": "Reach 100% Strength as any type of Hegemon.",
+    "localizationKey": "NEW_ACHIEVEMENT_48",
+    "icon": "achievement_global_hegemony.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_god_tier",
+    "name": "God Tier",
+    "description": "Become a Tier 5 Defender of the Faith as a nation that is neither Catholic nor Sunni.",
+    "localizationKey": "NEW_ACHIEVEMENT_50",
+    "icon": "achievement_god_tier.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_spaghetti_western",
+    "name": "Spaghetti Western",
+    "description": "Starting as Bologna, become Mexico or Texas.",
+    "localizationKey": "NEW_ACHIEVEMENT_51",
+    "icon": "achievement_spaghetti_western.dds",
+    "allowedTags": [
+      "BLG",
+      "MEX",
+      "SNA",
+      "TEX"
+    ]
+  },
+  {
+    "id": "achievement_dont_be_cilli",
+    "name": "Don\u2019t be Cilli",
+    "description": "Starting as Cilli, form another nation.",
+    "localizationKey": "NEW_ACHIEVEMENT_52",
+    "icon": "achievement_dont_be_cilli.dds",
+    "allowedTags": [
+      "CLI"
+    ]
+  },
+  {
+    "id": "achievement_inner_turmoil",
+    "name": "Inner Turmoil",
+    "description": "Starting as The Isles, own 20 provinces by 1500, none of which are on Islands.",
+    "localizationKey": "NEW_ACHIEVEMENT_53",
+    "icon": "achievement_inner_turmoil.dds",
+    "allowedTags": [
+      "LOI"
+    ]
+  },
+  {
+    "id": "achievement_stern_des_sudens",
+    "name": "Stern des S\u00fcdens",
+    "description": "Form Bavaria starting as M\u00fcnchen and have your Subject Bremen own Werder.",
+    "localizationKey": "NEW_ACHIEVEMENT_54",
+    "icon": "achievement_stern_des_sudens.dds",
+    "allowedTags": [
+      "BAV",
+      "UBV"
+    ]
+  },
+  {
+    "id": "achievement_kingdom_of_god",
+    "name": "Kingdom of God",
+    "description": "Starting as the Papal State, become the Kingdom of God",
+    "localizationKey": "NEW_ACHIEVEMENT_55",
+    "icon": "achievement_kingdom_of_god.dds",
+    "allowedTags": [
+      "PAP"
+    ]
+  },
+  {
+    "id": "achievement_stiff_upper_lippe",
+    "name": "Stiff Upper Lippe",
+    "description": "As Lippe, own all of the British Isles.",
+    "localizationKey": "NEW_ACHIEVEMENT_56",
+    "icon": "achievement_stiff_upper_lippe.dds",
+    "allowedTags": [
+      "LPP"
+    ]
+  },
+  {
+    "id": "achievement_on_the_rhodes_again",
+    "name": "On the Rhodes Again",
+    "description": "Starting as The Knights, conquer and core Constantinople, Jerusalem and Antioch.",
+    "localizationKey": "NEW_ACHIEVEMENT_57",
+    "icon": "achievement_on_the_rhodes_again.dds",
+    "allowedTags": [
+      "KNI"
+    ]
+  },
+  {
+    "id": "achievement_czechs_and_balances",
+    "name": "Czechs and Balances",
+    "description": "Starting as Bohemia, grant at least two privileges to each estate while having at least 50% Crown Land.",
+    "localizationKey": "NEW_ACHIEVEMENT_58",
+    "icon": "achievement_czechs_and_balances.dds",
+    "allowedTags": [
+      "BOH"
+    ]
+  },
+  {
+    "id": "achievement_mary_of_lotharingia",
+    "name": "Mary of Lotharingia",
+    "description": "Starting as Burgundy, form Lotharingia and have a female ruler named Marie.",
+    "localizationKey": "NEW_ACHIEVEMENT_59",
+    "icon": "achievement_mary_of_lotharingia.dds",
+    "allowedTags": [
+      "BUR",
+      "LOT"
+    ]
+  },
+  {
+    "id": "achievement_holiest_roman_empire",
+    "name": "Holiest Roman Empire",
+    "description": "As either the Papal States or the Emperor, have the Papal States as an Elector while the HRE is officially Catholic.",
+    "localizationKey": "NEW_ACHIEVEMENT_60",
+    "icon": "achievement_holiest_roman_empire.dds",
+    "allowedTags": [
+      "PAP"
+    ]
+  },
+  {
+    "id": "achievement_wonderful",
+    "name": "Wonderful",
+    "description": "Own 8 different monuments on tier 3.",
+    "localizationKey": "NEW_ACHIEVEMENT_61",
+    "icon": "achievement_wonderful.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_spice_girls",
+    "name": "Spice Girls",
+    "description": "Having a female ruler, have active trading bonuses for Cloves, Spices, Salt and Sugar.",
+    "localizationKey": "NEW_ACHIEVEMENT_62",
+    "icon": "achievement_spice_girls.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_to_the_bone",
+    "name": "To the Bone",
+    "description": "As Bone, use pillage capital at least 7 times.",
+    "localizationKey": "NEW_ACHIEVEMENT_64",
+    "icon": "achievement_to_the_bone.dds",
+    "allowedTags": [
+      "BNE"
+    ]
+  },
+  {
+    "id": "achievement_keep_the_flame_burning",
+    "name": "Keep the Flame Burning",
+    "description": "As a Zoroastrian nation, own all Religious Centers and Monument Baku Ateshgah on tier 3.",
+    "localizationKey": "NEW_ACHIEVEMENT_65",
+    "icon": "achievement_keep_the_flame_burning.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_new_new_deli",
+    "name": "New, New Deli",
+    "description": "As Deli, have your capital in the Delhi province.",
+    "localizationKey": "NEW_ACHIEVEMENT_66",
+    "icon": "achievement_new_new_deli.dds",
+    "allowedTags": [
+      "DLI"
+    ]
+  },
+  {
+    "id": "achievement_the_power_of_three",
+    "name": "The Power of Three",
+    "description": "Own a Crown Colony, a Self-Governing Colony and a Private Enterprise.",
+    "localizationKey": "NEW_ACHIEVEMENT_67",
+    "icon": "achievement_the_power_of_three.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_quizquiz_pro_quo",
+    "name": "Quizquiz Pro Quo",
+    "description": "As Quizquiz, have your capital in the Anjou province.",
+    "localizationKey": "NEW_ACHIEVEMENT_68",
+    "icon": "achievement_quizquiz_pro_quo.dds",
+    "allowedTags": [
+      "QUI"
+    ]
+  },
+  {
+    "id": "achievement_thats_no_mon",
+    "name": "That's No Mon",
+    "description": "As Pegu, own at least 50 provinces that are not of the Mon culture.",
+    "localizationKey": "NEW_ACHIEVEMENT_69",
+    "icon": "achievement_thats_no_mon.dds",
+    "allowedTags": [
+      "PEG"
+    ]
+  },
+  {
+    "id": "achievement_mansa_musa",
+    "name": "Mansa Musa",
+    "description": "As Mali, give 10k ducats away to another great power without having a single loan or being bankrupt.",
+    "localizationKey": "NEW_ACHIEVEMENT_70",
+    "icon": "achievement_mansa_musa.dds",
+    "allowedTags": [
+      "MAL"
+    ]
+  },
+  {
+    "id": "achievement_ultimate_military",
+    "name": "Ultimate Military",
+    "description": "As Songhai, have Prussia and Nepal as marches!",
+    "localizationKey": "NEW_ACHIEVEMENT_71",
+    "icon": "achievement_ultimate_military.dds",
+    "allowedTags": [
+      "SON"
+    ]
+  },
+  {
+    "id": "achievement_golden_wind",
+    "name": "Golden Wind",
+    "description": "As Air, make 50 ducats profit per month and have 50% of your income made through gold provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_72",
+    "icon": "achievement_golden_wind.dds",
+    "allowedTags": [
+      "AIR"
+    ]
+  },
+  {
+    "id": "achievement_fugger_banking",
+    "name": "Fugger Banking",
+    "description": "As Augsburg, subsidize 3 Great Powers 20% of their income while having less than 20 provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_73",
+    "icon": "achievement_fugger_banking.dds",
+    "allowedTags": [
+      "AUG"
+    ]
+  },
+  {
+    "id": "achievement_where_are_the_penguins",
+    "name": "Where are the penguins?",
+    "description": "As a Malagasy country, unite Madagascar and hold all the most southern provinces of the world.",
+    "localizationKey": "NEW_ACHIEVEMENT_74",
+    "icon": "achievement_where_are_the_penguins.dds",
+    "allowedTags": [
+      "ANT",
+      "BTS",
+      "MFY",
+      "MIR",
+      "SKA"
+    ]
+  },
+  {
+    "id": "achievement_this_is_fine",
+    "name": "This is fine",
+    "description": "Have at least +10 Global Unrest and be in a winning coalition war, which was targeted against you.",
+    "localizationKey": "NEW_ACHIEVEMENT_75",
+    "icon": "achievement_this_is_fine.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_khaaaaaan",
+    "name": "KHAAAAAAN",
+    "description": "Restore the Mongol Empire before the Age of Absolutism.",
+    "localizationKey": "NEW_ACHIEVEMENT_76",
+    "icon": "achievement_khaaaaaan.dds",
+    "allowedTags": [
+      "MGE"
+    ]
+  },
+  {
+    "id": "achievement_knights_of_the_caribbean",
+    "name": "Knights of the Caribbean",
+    "description": "Starting as the Knights, own the Caribbean and every island in the Mediterranean. (Colonies are NOT allowed)",
+    "localizationKey": "NEW_ACHIEVEMENT_77",
+    "icon": "achievement_knights_of_the_caribbean.dds",
+    "allowedTags": [
+      "KNI"
+    ]
+  },
+  {
+    "id": "achievement_australia_hungary",
+    "name": "Australia-Hungary",
+    "description": "Starting as an Australian tribe unite Australia and subjugate Hungary.",
+    "localizationKey": "NEW_ACHIEVEMENT_78",
+    "icon": "achievement_australia_hungary.dds",
+    "allowedTags": [
+      "AUS",
+      "AWN",
+      "EOR",
+      "GMI",
+      "KAU",
+      "KUL",
+      "LAR",
+      "MIA",
+      "MLG",
+      "NOO",
+      "PLW",
+      "TIW",
+      "WRU",
+      "YNU",
+      "YOL"
+    ]
+  },
+  {
+    "id": "achievement_shemot_is_not",
+    "name": "Shemot is Not",
+    "description": "As a Jewish nation, convert all of Egypt to Jewish while having the Jewish Community Aspect active.",
+    "localizationKey": "NEW_ACHIEVEMENT_79",
+    "icon": "achievement_shemot_is_not.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_one_nation_to_rule_them_all",
+    "name": "One nation to rule them all",
+    "description": "As Saruhan, have at least 9 loyal vassals with at least 100 development each.",
+    "localizationKey": "NEW_ACHIEVEMENT_80",
+    "icon": "achievement_one_nation_to_rule_them_all.dds",
+    "allowedTags": [
+      "SRU"
+    ]
+  },
+  {
+    "id": "achievement_swahili_persuasion",
+    "name": "Swahili Persuasion",
+    "description": "As Kilwa, convert all of the Moluccas and Indonesia.",
+    "localizationKey": "NEW_ACHIEVEMENT_81",
+    "icon": "achievement_swahili_persuasion.dds",
+    "allowedTags": [
+      "ZAN"
+    ]
+  },
+  {
+    "id": "achievement_I_dont_like_sand",
+    "name": "I don't like sand",
+    "description": "Have the most development while owning no province with terrain other than desert or coastal desert.",
+    "localizationKey": "NEW_ACHIEVEMENT_82",
+    "icon": "achievement_I_dont_like_sand.dds",
+    "allowedTags": [
+      "Any countries"
+    ]
+  },
+  {
+    "id": "achievement_surfin_USA",
+    "name": "Surfing USA",
+    "description": "Form the USA as Hawaii.",
+    "localizationKey": "NEW_ACHIEVEMENT_83",
+    "icon": "achievement_surfin_USA.dds",
+    "allowedTags": [
+      "HAW",
+      "KAA",
+      "MAU",
+      "OAH",
+      "UHW",
+      "USA"
+    ]
+  },
+  {
+    "id": "achievement_imposter_syndrome",
+    "name": "Imposter Syndrome",
+    "description": "As Sus, have three countries hostile to you (less than 0 opinion) after they discovered your spy.",
+    "localizationKey": "NEW_ACHIEVEMENT_84",
+    "icon": "achievement_imposter_syndrome.dds",
+    "allowedTags": [
+      "SOS"
+    ]
+  },
+  {
+    "id": "achievement_atwix_legacy",
+    "name": "Atwix Legacy",
+    "description": "Have 10 personal unions at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_85",
+    "icon": "achievement_atwix_legacy.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_brick_by_brick",
+    "name": "Brick by Brick",
+    "description": "Starting as Denmark, enact the Unified Kalmar Monarchy government reform and own the entire Scandinavian region as your cores.",
+    "localizationKey": "NEW_ACHIEVEMENT_86",
+    "icon": "achievement_brick_by_brick.dds",
+    "allowedTags": [
+      "DAN"
+    ]
+  },
+  {
+    "id": "achievement_super_trooper",
+    "name": "Super Trooper",
+    "description": "Starting as Sweden, enact the Allotment System government reform, have 80 regiments of Carolean raised at the same time with at least +40% infantry combat ability.",
+    "localizationKey": "NEW_ACHIEVEMENT_87",
+    "icon": "achievement_super_trooper.dds",
+    "allowedTags": [
+      "SWE"
+    ]
+  },
+  {
+    "id": "achievement_assemble_instructions_needed",
+    "name": "Assembly Instructions Needed",
+    "description": "Form Scandinavia and revoke the privilegia of the Holy Roman Empire while being the Emperor.",
+    "localizationKey": "NEW_ACHIEVEMENT_88",
+    "icon": "achievement_assemble_instructions_needed.dds",
+    "allowedTags": [
+      "HLR",
+      "SCA"
+    ]
+  },
+  {
+    "id": "achievement_let_it_go",
+    "name": "Let It Go!",
+    "description": "Starting as Norway, have your capital in the Canada region while not owning any province in Scandinavia and not playing as a released subject.",
+    "localizationKey": "NEW_ACHIEVEMENT_89",
+    "icon": "achievement_let_it_go.dds",
+    "allowedTags": [
+      "NOR"
+    ]
+  },
+  {
+    "id": "achievement_holy_horder",
+    "name": "Holy Horder",
+    "description": "Starting as the Teutonic Order, form the Mongol Empire while have the Holy Horde government reform enacted.",
+    "localizationKey": "NEW_ACHIEVEMENT_90",
+    "icon": "achievement_holy_horder.dds",
+    "allowedTags": [
+      "MGE",
+      "TEU"
+    ]
+  },
+  {
+    "id": "achievement_for_the_emperor",
+    "name": "For the Emperor!",
+    "description": "Form Prussia or Germany, have the Empire government rank and 40.000 Marines raised at the same time.",
+    "localizationKey": "NEW_ACHIEVEMENT_91",
+    "icon": "achievement_for_the_emperor.dds",
+    "allowedTags": [
+      "GER",
+      "PRU"
+    ]
+  },
+  {
+    "id": "achievement_the_freest_man_in_the_world",
+    "name": "The Freest Man in the World",
+    "description": "Ensure that no colonized province in the world produces slaves while having the War Against the World Doctrine government reform enacted.",
+    "localizationKey": "NEW_ACHIEVEMENT_92",
+    "icon": "achievement_the_freest_man_in_the_world.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_crossing_the_finnish_line",
+    "name": "Crossing the Finnish Line",
+    "description": "Release and play as Finland in 1444 and have a direct land connection to the Cape while your capital is in Nyland/Uusimaa.",
+    "localizationKey": "NEW_ACHIEVEMENT_93",
+    "icon": "achievement_crossing_the_finnish_line.dds",
+    "allowedTags": [
+      "FIN",
+      "SWE"
+    ]
+  },
+  {
+    "id": "achievement_purify_the_temple",
+    "name": "Purify the Temple",
+    "description": "Starting as Riga, enact the Salvific Plutocracy government reform and raid the heretic church of Rome.",
+    "localizationKey": "NEW_ACHIEVEMENT_94",
+    "icon": "achievement_purify_the_temple.dds",
+    "allowedTags": [
+      "RIG"
+    ]
+  },
+  {
+    "id": "achievement_almost_prussian_blue",
+    "name": "Almost Prussian Blue",
+    "description": "Starting as the Livonian Order, form Livonia and own the territory of the North German Confederation as core provinces.",
+    "localizationKey": "NEW_ACHIEVEMENT_95",
+    "icon": "achievement_almost_prussian_blue.dds",
+    "allowedTags": [
+      "LIV",
+      "LVA"
+    ]
+  },
+  {
+    "id": "achievement_hannukah_mutapa",
+    "name": "Hanukkah Mutapa",
+    "description": "Starting as Mutapa, convert to Judaism and celebrate a festival.",
+    "localizationKey": "NEW_ACHIEVEMENT_96",
+    "icon": "achievement_hannukah_mutapa.dds",
+    "allowedTags": [
+      "ZIM"
+    ]
+  },
+  {
+    "id": "achievement_frankfurt_andes",
+    "name": "From Frankfurt to the Andes",
+    "description": "Starting as Frankfurt, form Jerusalem, and then form the Inca while owning Mallorca.",
+    "localizationKey": "NEW_ACHIEVEMENT_97",
+    "icon": "achievement_frankfurt_andes.dds",
+    "allowedTags": [
+      "FRN",
+      "INC"
+    ]
+  },
+  {
+    "id": "achievement_mehmet_ambition",
+    "name": "Mehmet's Ambition",
+    "description": "Starting as The Ottomans, own or have Core Eyalets own all the provinces required to form the Roman Empire before 1500.",
+    "localizationKey": "NEW_ACHIEVEMENT_98",
+    "icon": "achievement_mehmet_ambition.dds",
+    "allowedTags": [
+      "TUR"
+    ]
+  },
+  {
+    "id": "achievement_triple_rome",
+    "name": "Triple the Rome",
+    "description": "As Russia, be the Emperor of China and the HRE.",
+    "localizationKey": "NEW_ACHIEVEMENT_99",
+    "icon": "achievement_triple_rome.dds",
+    "allowedTags": [
+      "RUS"
+    ]
+  },
+  {
+    "id": "achievement_no_country_for_old_tercios",
+    "name": "No Country for Old Tercios",
+    "description": "As Spain, have Reformed Tercios, 33 Tercio Units, and control 3 Great Power capitals at the same time",
+    "localizationKey": "NEW_ACHIEVEMENT_100",
+    "icon": "achievement_no_country_for_old_tercios.dds",
+    "allowedTags": [
+      "SPA"
+    ]
+  },
+  {
+    "id": "achievement_all_blue",
+    "name": "All Blue",
+    "description": "As Portugal, all of Europe is owned by you or blue European countries that exist in 1444.",
+    "localizationKey": "NEW_ACHIEVEMENT_101",
+    "icon": "achievement_all_blue.dds",
+    "allowedTags": [
+      "POR"
+    ]
+  },
+  {
+    "id": "achievement_stardust_crusaders",
+    "name": "Stardust Crusaders",
+    "description": "As Japan have the Land of the Christian Sun reform while Palestine and Cairo are Christian under us.",
+    "localizationKey": "NEW_ACHIEVEMENT_102",
+    "icon": "achievement_stardust_crusaders.dds",
+    "allowedTags": [
+      "JAP"
+    ]
+  },
+  {
+    "id": "achievement_copium_wars",
+    "name": "Copium Wars",
+    "description": "Starting and playing as Ming, own the Britain region.",
+    "localizationKey": "NEW_ACHIEVEMENT_103",
+    "icon": "achievement_copium_wars.dds",
+    "allowedTags": [
+      "MNG"
+    ]
+  },
+  {
+    "id": "achievement_brentry",
+    "name": "Brentry!",
+    "description": "Starting as England, form the Angevin Kingdom and enact all the 'Acts of Crown' parliamentary issues.",
+    "localizationKey": "NEW_ACHIEVEMENT_104",
+    "icon": "achievement_brentry.dds",
+    "allowedTags": [
+      "AVE",
+      "ENG"
+    ]
+  },
+  {
+    "id": "achievement_reapers",
+    "name": "The Reapers",
+    "description": "Starting as Aragon, be a Peasant Republic and have Madrid and Paris owned by any Peasant Republic.",
+    "localizationKey": "NEW_ACHIEVEMENT_105",
+    "icon": "achievement_reapers.dds",
+    "allowedTags": [
+      "ARA"
+    ]
+  },
+  {
+    "id": "achievement_king_of_kings",
+    "name": "King of Kings",
+    "description": "Complete the Persian mission tree.",
+    "localizationKey": "NEW_ACHIEVEMENT_106",
+    "icon": "achievement_king_of_kings.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_restore_the_pentarchy",
+    "name": "Restore the Pentarchy",
+    "description": "Starting as Byzantium, own Rome, Constantinople, Alexandria, Antioch, and Jerusalem while being Orthodox.",
+    "localizationKey": "NEW_ACHIEVEMENT_107",
+    "icon": "achievement_restore_the_pentarchy.dds",
+    "allowedTags": [
+      "BYZ",
+      "ROM"
+    ]
+  },
+  {
+    "id": "achievement_mets_hayk",
+    "name": "Mets Hayk",
+    "description": "Starting as Karabakh, own, core, and convert to Coptic the borders of Great Armenia.",
+    "localizationKey": "NEW_ACHIEVEMENT_108",
+    "icon": "achievement_mets_hayk.dds",
+    "allowedTags": [
+      "MLK"
+    ]
+  },
+  {
+    "id": "achievement_desert_power",
+    "name": "Desert Power",
+    "description": "Starting as an Arabian Tribe, have the Oasis privilege enacted, and more than 1000 development in the Arabian Region",
+    "localizationKey": "NEW_ACHIEVEMENT_109",
+    "icon": "achievement_desert_power.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_breadbasket_of_the_world",
+    "name": "Breadbasket of the World",
+    "description": "As the Mamluks, export grain to every continent at least once.",
+    "localizationKey": "NEW_ACHIEVEMENT_110",
+    "icon": "achievement_breadbasket_of_the_world.dds",
+    "allowedTags": [
+      "MAM"
+    ]
+  },
+  {
+    "id": "achievement_truly_good_maaaaaaaaaaaaaaaaaaaaaaaaaatch",
+    "name": "Truly Good Maaaaa-tch",
+    "description": "Starting as either Aq Qoyunlu or Qara Qoyunlu, have a royal marriage and an alliance with Ramazan.",
+    "localizationKey": "NEW_ACHIEVEMENT_111",
+    "icon": "achievement_truly_good_maaaaaaaaaaaaaaaaaaaaaaaaaatch.dds",
+    "allowedTags": [
+      "AKK",
+      "QAR"
+    ]
+  },
+  {
+    "id": "achievement_the_last_crusade",
+    "name": "The Last Crusade",
+    "description": "Starting as Byzantium, control Venezia, and make sure that the country Venice doesn't exist.",
+    "localizationKey": "NEW_ACHIEVEMENT_112",
+    "icon": "achievement_the_last_crusade.dds",
+    "allowedTags": [
+      "BYZ",
+      "ROM",
+      "VEN"
+    ]
+  },
+  {
+    "id": "achievement_legacy_saint_george",
+    "name": "Legacy of Saint George",
+    "description": "As Georgia, have as vassals Genoa, Aragon, England and Trier or their successors, and control Wales.",
+    "localizationKey": "NEW_ACHIEVEMENT_113",
+    "icon": "achievement_legacy_saint_george.dds",
+    "allowedTags": [
+      "ARA",
+      "ENG",
+      "GEN",
+      "GEO",
+      "TRI"
+    ]
+  },
+  {
+    "id": "achievement_zoroaustrians",
+    "name": "The Zoro-Austrians",
+    "description": "Starting as Austria, convert to Zoroastrianism, and complete the Persian Zoroastrian missions.",
+    "localizationKey": "NEW_ACHIEVEMENT_114",
+    "icon": "achievement_zoroaustrians.dds",
+    "allowedTags": [
+      "ERS",
+      "HAB",
+      "PER"
+    ]
+  },
+  {
+    "id": "achievement_its_all_coming_together",
+    "name": "It's all coming together",
+    "description": "Complete the Incan mission tree (Sunset invasion missions excluded).",
+    "localizationKey": "NEW_ACHIEVEMENT_115",
+    "icon": "achievement_its_all_coming_together.dds",
+    "allowedTags": []
+  },
+  {
+    "id": "achievement_doge_coins",
+    "name": "Doge Coins",
+    "description": "Starting as Venice, become the Economic Hegemon.",
+    "localizationKey": "NEW_ACHIEVEMENT_116",
+    "icon": "achievement_doge_coins.dds",
+    "allowedTags": [
+      "VEN"
+    ]
+  },
+  {
+    "id": "achievement_veritas_vincit",
+    "name": "Veritas Vincit",
+    "description": "Starting as Bohemia, make Hussite the official faith of the Empire and become the Emperor.",
+    "localizationKey": "NEW_ACHIEVEMENT_117",
+    "icon": "achievement_veritas_vincit.dds",
+    "allowedTags": [
+      "BOH"
+    ]
+  },
+  {
+    "id": "achievement_the_eagle_flies_alone",
+    "name": "The Eagle flies alone",
+    "description": "Starting as Hisn Kayfa, reach a forcelimit of 500k.",
+    "localizationKey": "NEW_ACHIEVEMENT_118",
+    "icon": "achievement_the_eagle_flies_alone.dds",
+    "allowedTags": [
+      "HSN"
+    ]
+  },
+  {
+    "id": "achievement_mayapahit",
+    "name": "Mayapahit?",
+    "description": "Starting as any Mayan country, form Maya and own or have a subject own the island of Java.",
+    "localizationKey": "NEW_ACHIEVEMENT_119",
+    "icon": "achievement_mayapahit.dds",
+    "allowedTags": [
+      "MAY"
+    ]
+  },
+  {
+    "id": "achievement_there_khan_only_be_one",
+    "name": "There Khan only be one!",
+    "description": "Starting as a Steppe Horde, ensure there exists no other horde than you in the world.",
+    "localizationKey": "NEW_ACHIEVEMENT_120",
+    "icon": "achievement_there_khan_only_be_one.dds",
+    "allowedTags": [
+      "Steppe Hordes"
+    ]
+  },
+  {
+    "id": "achievement_baborg",
+    "name": "Baborg",
+    "description": "As the Mughals, assimilate at least 12 culture groups.",
+    "localizationKey": "NEW_ACHIEVEMENT_121",
+    "icon": "achievement_baborg.dds",
+    "allowedTags": [
+      "MUG"
+    ]
+  },
+  {
+    "id": "achievement_get_out_of_my_swamp",
+    "name": "Get out of my swamp!",
+    "description": "As the Netherlands, own all of the Low Countries and have 50% or more Fort Defense.",
+    "localizationKey": "NEW_ACHIEVEMENT_122",
+    "icon": "achievement_get_out_of_my_swamp.dds",
+    "allowedTags": [
+      "BUR",
+      "NED"
+    ]
+  },
+  {
+    "id": "achievement_timurizz",
+    "name": "Timurizz",
+    "description": "Starting as the Timurids, have 75 prestige, and 5 allies with 100 Trust and 150 opinion.",
+    "localizationKey": "NEW_ACHIEVEMENT_123",
+    "icon": "achievement_timurizz.dds",
+    "allowedTags": [
+      "TIM"
+    ]
+  },
+  {
+    "id": "achievement_the_hungarian_games",
+    "name": "The Hungarian Games",
+    "description": "Starting as Hungary, win 23 battles with the Black Army against at least 12 different countries.",
+    "localizationKey": "NEW_ACHIEVEMENT_124",
+    "icon": "achievement_the_hungarian_games.dds",
+    "allowedTags": [
+      "HUN"
+    ]
+  }
+]
