@@ -1,0 +1,318 @@
+{
+  "Aleppo": [
+    "Alexandria",
+    "Constantinople"
+  ],
+  "Alexandria": [
+    "Constantinople",
+    "Genoa",
+    "Venice"
+  ],
+  "Amazonas": [
+    "Brazil",
+    "Caribbean",
+    "Cuiaba"
+  ],
+  "Astrakhan": [
+    "Crimea",
+    "Kazan"
+  ],
+  "Australia": [
+    "The Moluccas"
+  ],
+  "Baltic Sea": [
+    "Lubeck"
+  ],
+  "Basra": [
+    "Aleppo",
+    "Persia"
+  ],
+  "Beijing": [
+    "Yumen"
+  ],
+  "Bengal": [
+    "Coromandel",
+    "Doab"
+  ],
+  "Bordeaux": [
+    "Champagne"
+  ],
+  "Brazil": [
+    "Ivory Coast"
+  ],
+  "Burma": [
+    "Bengal",
+    "Siam"
+  ],
+  "California": [
+    "Girin",
+    "Mexico",
+    "Mississippi River",
+    "Polynesian Triangle"
+  ],
+  "Canton": [
+    "Hangzhou",
+    "Malacca",
+    "Philippines"
+  ],
+  "Cape of Good Hope": [
+    "Ivory Coast"
+  ],
+  "Caribbean": [
+    "Bordeaux",
+    "Chesapeake Bay",
+    "Sevilla"
+  ],
+  "Champagne": [
+    "English Channel",
+    "Genoa"
+  ],
+  "Chengdu": [
+    "Burma",
+    "Canton",
+    "Xi'an"
+  ],
+  "Chesapeake Bay": [
+    "English Channel",
+    "Gulf Of St. Lawrence"
+  ],
+  "Congo": [
+    "Ivory Coast",
+    "Zambezi"
+  ],
+  "Constantinople": [
+    "Ragusa"
+  ],
+  "Coromandel": [
+    "Cape of Good Hope",
+    "Gujarat",
+    "Gulf Of Aden"
+  ],
+  "Crimea": [
+    "Constantinople",
+    "Kiev",
+    "Pest"
+  ],
+  "Cuiaba": [
+    "Brazil",
+    "Lima",
+    "Rio de La Plata"
+  ],
+  "Deccan": [
+    "Coromandel",
+    "Gujarat"
+  ],
+  "Doab": [
+    "Deccan",
+    "Lahore"
+  ],
+  "English Channel": [],
+  "Ethiopia": [
+    "Alexandria",
+    "Gulf Of Aden"
+  ],
+  "Genoa": [],
+  "Girin": [
+    "Beijing",
+    "Nippon",
+    "Siberia"
+  ],
+  "Great Lakes": [
+    "Congo",
+    "Zanzibar"
+  ],
+  "Gujarat": [
+    "Gulf Of Aden",
+    "Hormuz",
+    "Zanzibar"
+  ],
+  "Gulf Of Aden": [
+    "Alexandria",
+    "Hormuz",
+    "Zanzibar"
+  ],
+  "Gulf Of St. Lawrence": [
+    "Bordeaux",
+    "North Sea"
+  ],
+  "Hangzhou": [
+    "Beijing",
+    "Malacca",
+    "Xi'an"
+  ],
+  "Hormuz": [
+    "Basra"
+  ],
+  "Hudson Bay": [
+    "California",
+    "Gulf Of St. Lawrence"
+  ],
+  "Ivory Coast": [
+    "Bordeaux",
+    "Caribbean",
+    "English Channel",
+    "Sevilla"
+  ],
+  "Katsina": [
+    "Ethiopia",
+    "Timbuktu",
+    "Tunis"
+  ],
+  "Kazan": [
+    "Novgorod"
+  ],
+  "Kiev": [
+    "Krakow",
+    "Novgorod"
+  ],
+  "Krakow": [
+    "Baltic Sea",
+    "Saxony",
+    "Wien"
+  ],
+  "Lahore": [
+    "Gujarat",
+    "Persia",
+    "Samarkand"
+  ],
+  "Lhasa": [
+    "Bengal",
+    "Chengdu",
+    "Lahore"
+  ],
+  "Lima": [
+    "Panama",
+    "Polynesian Triangle"
+  ],
+  "Lubeck": [
+    "English Channel"
+  ],
+  "Malacca": [
+    "Bengal",
+    "Cape of Good Hope"
+  ],
+  "Mexico": [
+    "Caribbean",
+    "Panama",
+    "Polynesian Triangle"
+  ],
+  "Mississippi River": [
+    "Caribbean",
+    "Ohio"
+  ],
+  "Nippon": [
+    "Hangzhou"
+  ],
+  "North Sea": [
+    "English Channel",
+    "Lubeck"
+  ],
+  "Novgorod": [
+    "Baltic Sea",
+    "White Sea"
+  ],
+  "Ohio": [
+    "Chesapeake Bay",
+    "Gulf Of St. Lawrence"
+  ],
+  "Panama": [
+    "Caribbean"
+  ],
+  "Patagonia": [
+    "Cuiaba",
+    "Rio de La Plata"
+  ],
+  "Persia": [
+    "Aleppo",
+    "Astrakhan"
+  ],
+  "Pest": [
+    "Krakow",
+    "Wien"
+  ],
+  "Philippines": [
+    "Polynesian Triangle",
+    "The Moluccas"
+  ],
+  "Polynesian Triangle": [
+    "Australia",
+    "Nippon",
+    "Panama"
+  ],
+  "Ragusa": [
+    "Genoa",
+    "Pest",
+    "Venice"
+  ],
+  "Rheinland": [
+    "Champagne",
+    "Lubeck"
+  ],
+  "Rio Grande": [
+    "California",
+    "Mexico",
+    "Mississippi River"
+  ],
+  "Rio de La Plata": [
+    "Brazil"
+  ],
+  "Safi": [
+    "Sevilla"
+  ],
+  "Samarkand": [
+    "Astrakhan",
+    "Persia"
+  ],
+  "Saxony": [
+    "Lubeck",
+    "Rheinland"
+  ],
+  "Sevilla": [
+    "Valencia"
+  ],
+  "Siam": [
+    "Canton",
+    "Malacca"
+  ],
+  "Siberia": [
+    "Kazan",
+    "Samarkand"
+  ],
+  "The Moluccas": [
+    "Malacca"
+  ],
+  "Timbuktu": [
+    "Ivory Coast",
+    "Safi"
+  ],
+  "Tunis": [
+    "Genoa",
+    "Sevilla",
+    "Valencia"
+  ],
+  "Valencia": [
+    "Genoa"
+  ],
+  "Venice": [],
+  "White Sea": [
+    "North Sea"
+  ],
+  "Wien": [
+    "Rheinland",
+    "Saxony",
+    "Venice"
+  ],
+  "Xi'an": [
+    "Beijing",
+    "Yumen"
+  ],
+  "Yumen": [
+    "Samarkand"
+  ],
+  "Zambezi": [
+    "Zanzibar"
+  ],
+  "Zanzibar": [
+    "Cape of Good Hope"
+  ]
+}
